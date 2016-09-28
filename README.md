@@ -3,7 +3,7 @@ A collection of data files used in Adventurer's Codex.
 
 # License Info
 
-All files/data in the SRD folder were obtained from the SRD5 and subject to:
+All files/data in the SRD folder were obtained from the SRD5 and distributed under:
 
 Open	Game	License	v	1.0a	Copyright	2000,	Wizards of	the	Coast,	LLC.	
 
