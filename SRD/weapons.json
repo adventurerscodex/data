@@ -1,7 +1,7 @@
 {
     "Battleaxe": {
         "weaponCurrencyDenomination": "gp", 
-        "weaponDamageType": "slashing", 
+        "weaponDamageType": "Slashing", 
         "weaponDmg": "1d8 or 1d10", 
         "weaponHandedness": "One or Two Handed", 
         "weaponName": "Battleaxe", 
@@ -14,7 +14,7 @@
     }, 
     "Blowgun": {
         "weaponCurrencyDenomination": "gp", 
-        "weaponDamageType": "piercing", 
+        "weaponDamageType": "Piercing", 
         "weaponDmg": "1", 
         "weaponHandedness": "One-Handed", 
         "weaponName": "Blowgun", 
@@ -22,12 +22,12 @@
         "weaponProficiency": "Martial", 
         "weaponProperty": "Ranged, Ammunition, and Loading", 
         "weaponRange": "25/100", 
-        "weaponType": "Randed", 
+        "weaponType": "Ranged", 
         "weaponWeight": 1.0
     }, 
     "Club": {
         "weaponCurrencyDenomination": "sp", 
-        "weaponDamageType": "bludgeoning", 
+        "weaponDamageType": "Bludgeoning", 
         "weaponDmg": "1d4", 
         "weaponHandedness": "One-Handed", 
         "weaponName": "Club", 
@@ -40,7 +40,7 @@
     }, 
     "Crossbow hand": {
         "weaponCurrencyDenomination": "gp", 
-        "weaponDamageType": "piercing", 
+        "weaponDamageType": "Piercing", 
         "weaponDmg": "1d6", 
         "weaponHandedness": "One-Handed", 
         "weaponName": "Crossbow hand", 
@@ -53,7 +53,7 @@
     }, 
     "Crossbow heavy": {
         "weaponCurrencyDenomination": "gp", 
-        "weaponDamageType": "piercing", 
+        "weaponDamageType": "Piercing", 
         "weaponDmg": "1d10", 
         "weaponHandedness": "Two-Handed", 
         "weaponName": "Crossbow heavy", 
@@ -66,7 +66,7 @@
     }, 
     "Crossbow light": {
         "weaponCurrencyDenomination": "gp", 
-        "weaponDamageType": "piercing", 
+        "weaponDamageType": "Piercing", 
         "weaponDmg": "1d8", 
         "weaponHandedness": "Two-Handed", 
         "weaponName": "Crossbow light", 
@@ -79,7 +79,7 @@
     }, 
     "Dagger": {
         "weaponCurrencyDenomination": "gp", 
-        "weaponDamageType": "piercing", 
+        "weaponDamageType": "Piercing", 
         "weaponDmg": "1d4", 
         "weaponHandedness": "One-Handed", 
         "weaponName": "Dagger", 
@@ -92,7 +92,7 @@
     }, 
     "Dart": {
         "weaponCurrencyDenomination": "cp", 
-        "weaponDamageType": "piercing", 
+        "weaponDamageType": "Piercing", 
         "weaponDmg": "1d4", 
         "weaponHandedness": "One-Handed", 
         "weaponName": "Dart", 
@@ -105,7 +105,7 @@
     }, 
     "Flail": {
         "weaponCurrencyDenomination": "gp", 
-        "weaponDamageType": "bludgeoning", 
+        "weaponDamageType": "Bludgeoning", 
         "weaponDmg": "1d8", 
         "weaponHandedness": "One-Handed", 
         "weaponName": "Flail", 
@@ -118,7 +118,7 @@
     }, 
     "Glaive": {
         "weaponCurrencyDenomination": "gp", 
-        "weaponDamageType": "slashing", 
+        "weaponDamageType": "Slashing", 
         "weaponDmg": "1d10", 
         "weaponHandedness": "Two-Handed", 
         "weaponName": "Glaive", 
@@ -131,7 +131,7 @@
     }, 
     "Greataxe": {
         "weaponCurrencyDenomination": "gp", 
-        "weaponDamageType": "slashing", 
+        "weaponDamageType": "Slashing", 
         "weaponDmg": "1d12", 
         "weaponHandedness": "Two-Handed", 
         "weaponName": "Greataxe", 
@@ -144,7 +144,7 @@
     }, 
     "Greatclub": {
         "weaponCurrencyDenomination": "sp", 
-        "weaponDamageType": "bludgeoning", 
+        "weaponDamageType": "Bludgeoning", 
         "weaponDmg": "1d8", 
         "weaponHandedness": "Two-Handed", 
         "weaponName": "Greatclub", 
@@ -157,7 +157,7 @@
     }, 
     "Greatsword": {
         "weaponCurrencyDenomination": "gp", 
-        "weaponDamageType": "slashing", 
+        "weaponDamageType": "Slashing", 
         "weaponDmg": "2d6", 
         "weaponHandedness": "Two-Handed", 
         "weaponName": "Greatsword", 
@@ -170,7 +170,7 @@
     }, 
     "Halberd": {
         "weaponCurrencyDenomination": "gp", 
-        "weaponDamageType": "slashing", 
+        "weaponDamageType": "Slashing", 
         "weaponDmg": "1d10", 
         "weaponHandedness": "Two-Handed", 
         "weaponName": "Halberd", 
@@ -183,7 +183,7 @@
     }, 
     "Handaxe": {
         "weaponCurrencyDenomination": "gp", 
-        "weaponDamageType": "slashing", 
+        "weaponDamageType": "Slashing", 
         "weaponDmg": "1d6", 
         "weaponHandedness": "One-Handed", 
         "weaponName": "Handaxe", 
@@ -196,7 +196,7 @@
     }, 
     "Javelin": {
         "weaponCurrencyDenomination": "sp", 
-        "weaponDamageType": "piercing", 
+        "weaponDamageType": "Piercing", 
         "weaponDmg": "1d6", 
         "weaponHandedness": "One-Handed", 
         "weaponName": "Javelin", 
@@ -209,7 +209,7 @@
     }, 
     "Lance": {
         "weaponCurrencyDenomination": "gp", 
-        "weaponDamageType": "piercing", 
+        "weaponDamageType": "Piercing", 
         "weaponDmg": "1d12", 
         "weaponHandedness": "One-Handed", 
         "weaponName": "Lance", 
@@ -222,7 +222,7 @@
     }, 
     "Light hammer": {
         "weaponCurrencyDenomination": "gp", 
-        "weaponDamageType": "bludgeoning", 
+        "weaponDamageType": "Bludgeoning", 
         "weaponDmg": "1d4", 
         "weaponHandedness": "One-Handed", 
         "weaponName": "Light hammer", 
@@ -235,7 +235,7 @@
     }, 
     "Longbow": {
         "weaponCurrencyDenomination": "gp", 
-        "weaponDamageType": "piercing", 
+        "weaponDamageType": "Piercing", 
         "weaponDmg": "1d8", 
         "weaponHandedness": "Two-Handed", 
         "weaponName": "Longbow", 
@@ -248,7 +248,7 @@
     }, 
     "Longsword": {
         "weaponCurrencyDenomination": "gp", 
-        "weaponDamageType": "slashing", 
+        "weaponDamageType": "Slashing", 
         "weaponDmg": "1d8 or 1d10", 
         "weaponHandedness": "One or Two Handed", 
         "weaponName": "Longsword", 
@@ -261,7 +261,7 @@
     }, 
     "Mace": {
         "weaponCurrencyDenomination": "gp", 
-        "weaponDamageType": "bludgeoning", 
+        "weaponDamageType": "Bludgeoning", 
         "weaponDmg": "1d6", 
         "weaponHandedness": "One-Handed", 
         "weaponName": "Mace", 
@@ -274,7 +274,7 @@
     }, 
     "Maul": {
         "weaponCurrencyDenomination": "gp", 
-        "weaponDamageType": "bludgeoning", 
+        "weaponDamageType": "Bludgeoning", 
         "weaponDmg": "2d6", 
         "weaponHandedness": "Two-Handed", 
         "weaponName": "Maul", 
@@ -287,7 +287,7 @@
     }, 
     "Morningstar": {
         "weaponCurrencyDenomination": "gp", 
-        "weaponDamageType": "piercing", 
+        "weaponDamageType": "Piercing", 
         "weaponDmg": "1d8", 
         "weaponHandedness": "One-Handed", 
         "weaponName": "Morningstar", 
@@ -313,7 +313,7 @@
     }, 
     "Pike": {
         "weaponCurrencyDenomination": "gp", 
-        "weaponDamageType": "piercing", 
+        "weaponDamageType": "Piercing", 
         "weaponDmg": "1d10", 
         "weaponHandedness": "Two-Handed", 
         "weaponName": "Pike", 
@@ -326,7 +326,7 @@
     }, 
     "Quarterstaff": {
         "weaponCurrencyDenomination": "sp", 
-        "weaponDamageType": "bludgeoning", 
+        "weaponDamageType": "Bludgeoning", 
         "weaponDmg": "1d6 or 1d8", 
         "weaponHandedness": "One or Two Handed", 
         "weaponName": "Quarterstaff", 
@@ -339,7 +339,7 @@
     }, 
     "Rapier": {
         "weaponCurrencyDenomination": "gp", 
-        "weaponDamageType": "piercing", 
+        "weaponDamageType": "Piercing", 
         "weaponDmg": "1d8", 
         "weaponHandedness": "One-Handed", 
         "weaponName": "Rapier", 
@@ -352,7 +352,7 @@
     }, 
     "Scimitar": {
         "weaponCurrencyDenomination": "gp", 
-        "weaponDamageType": "slashing", 
+        "weaponDamageType": "Slashing", 
         "weaponDmg": "1d6", 
         "weaponHandedness": "One-Handed", 
         "weaponName": "Scimitar", 
@@ -365,7 +365,7 @@
     }, 
     "Shortbow": {
         "weaponCurrencyDenomination": "gp", 
-        "weaponDamageType": "piercing", 
+        "weaponDamageType": "Piercing", 
         "weaponDmg": "1d6", 
         "weaponHandedness": "Two-Handed", 
         "weaponName": "Shortbow", 
@@ -378,7 +378,7 @@
     }, 
     "Shortsword": {
         "weaponCurrencyDenomination": "gp", 
-        "weaponDamageType": "piercing", 
+        "weaponDamageType": "Piercing", 
         "weaponDmg": "1d6", 
         "weaponHandedness": "One-Handed", 
         "weaponName": "Shortsword", 
@@ -391,7 +391,7 @@
     }, 
     "Sickle": {
         "weaponCurrencyDenomination": "gp", 
-        "weaponDamageType": "slashing", 
+        "weaponDamageType": "Slashing", 
         "weaponDmg": "1d4", 
         "weaponHandedness": "One-Handed", 
         "weaponName": "Sickle", 
@@ -404,7 +404,7 @@
     }, 
     "Sling": {
         "weaponCurrencyDenomination": "sp", 
-        "weaponDamageType": "bludgeoning", 
+        "weaponDamageType": "Bludgeoning", 
         "weaponDmg": "1d4", 
         "weaponHandedness": "One-Handed", 
         "weaponName": "Sling", 
@@ -417,7 +417,7 @@
     }, 
     "Spear": {
         "weaponCurrencyDenomination": "gp", 
-        "weaponDamageType": "piercing", 
+        "weaponDamageType": "Piercing", 
         "weaponDmg": "1d6 or 1d8", 
         "weaponHandedness": "One or Two Handed", 
         "weaponName": "Spear", 
@@ -430,7 +430,7 @@
     }, 
     "Trident": {
         "weaponCurrencyDenomination": "gp", 
-        "weaponDamageType": "piercing", 
+        "weaponDamageType": "Piercing", 
         "weaponDmg": "1d6 or 1d8", 
         "weaponHandedness": "One or Two Handed", 
         "weaponName": "Trident", 
@@ -443,7 +443,7 @@
     }, 
     "War pick": {
         "weaponCurrencyDenomination": "gp", 
-        "weaponDamageType": "piercing", 
+        "weaponDamageType": "Piercing", 
         "weaponDmg": "1d8", 
         "weaponHandedness": "One-Handed", 
         "weaponName": "War pick", 
@@ -456,7 +456,7 @@
     }, 
     "Warhammer": {
         "weaponCurrencyDenomination": "gp", 
-        "weaponDamageType": "bludgeoning", 
+        "weaponDamageType": "Bludgeoning", 
         "weaponDmg": "1d8 or 1d10", 
         "weaponHandedness": "One or Two Handed", 
         "weaponName": "Warhammer", 
@@ -469,7 +469,7 @@
     }, 
     "Whip": {
         "weaponCurrencyDenomination": "gp", 
-        "weaponDamageType": "slashing", 
+        "weaponDamageType": "Slashing", 
         "weaponDmg": "1d4", 
         "weaponHandedness": "One-Handed", 
         "weaponName": "Whip", 
