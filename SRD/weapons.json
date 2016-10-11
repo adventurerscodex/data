@@ -1,6 +1,6 @@
 {
     "Battleaxe": {
-        "weaponCurrencyDenomination": "gp", 
+        "weaponCurrencyDenomination": "GP", 
         "weaponDamageType": "Slashing", 
         "weaponDmg": "1d8 or 1d10", 
         "weaponHandedness": "One or Two Handed", 
@@ -13,7 +13,7 @@
         "weaponWeight": 4.0
     }, 
     "Blowgun": {
-        "weaponCurrencyDenomination": "gp", 
+        "weaponCurrencyDenomination": "GP", 
         "weaponDamageType": "Piercing", 
         "weaponDmg": "1", 
         "weaponHandedness": "One-Handed", 
@@ -26,7 +26,7 @@
         "weaponWeight": 1.0
     }, 
     "Club": {
-        "weaponCurrencyDenomination": "sp", 
+        "weaponCurrencyDenomination": "SP", 
         "weaponDamageType": "Bludgeoning", 
         "weaponDmg": "1d4", 
         "weaponHandedness": "One-Handed", 
@@ -39,7 +39,7 @@
         "weaponWeight": 2.0
     }, 
     "Crossbow hand": {
-        "weaponCurrencyDenomination": "gp", 
+        "weaponCurrencyDenomination": "GP", 
         "weaponDamageType": "Piercing", 
         "weaponDmg": "1d6", 
         "weaponHandedness": "One-Handed", 
@@ -52,7 +52,7 @@
         "weaponWeight": 3.0
     }, 
     "Crossbow heavy": {
-        "weaponCurrencyDenomination": "gp", 
+        "weaponCurrencyDenomination": "GP", 
         "weaponDamageType": "Piercing", 
         "weaponDmg": "1d10", 
         "weaponHandedness": "Two-Handed", 
@@ -65,7 +65,7 @@
         "weaponWeight": 18.0
     }, 
     "Crossbow light": {
-        "weaponCurrencyDenomination": "gp", 
+        "weaponCurrencyDenomination": "GP", 
         "weaponDamageType": "Piercing", 
         "weaponDmg": "1d8", 
         "weaponHandedness": "Two-Handed", 
@@ -78,7 +78,7 @@
         "weaponWeight": 5.0
     }, 
     "Dagger": {
-        "weaponCurrencyDenomination": "gp", 
+        "weaponCurrencyDenomination": "GP", 
         "weaponDamageType": "Piercing", 
         "weaponDmg": "1d4", 
         "weaponHandedness": "One-Handed", 
@@ -91,7 +91,7 @@
         "weaponWeight": 1.0
     }, 
     "Dart": {
-        "weaponCurrencyDenomination": "cp", 
+        "weaponCurrencyDenomination": "CP", 
         "weaponDamageType": "Piercing", 
         "weaponDmg": "1d4", 
         "weaponHandedness": "One-Handed", 
@@ -104,7 +104,7 @@
         "weaponWeight": 0.25
     }, 
     "Flail": {
-        "weaponCurrencyDenomination": "gp", 
+        "weaponCurrencyDenomination": "GP", 
         "weaponDamageType": "Bludgeoning", 
         "weaponDmg": "1d8", 
         "weaponHandedness": "One-Handed", 
@@ -117,7 +117,7 @@
         "weaponWeight": 2.0
     }, 
     "Glaive": {
-        "weaponCurrencyDenomination": "gp", 
+        "weaponCurrencyDenomination": "GP", 
         "weaponDamageType": "Slashing", 
         "weaponDmg": "1d10", 
         "weaponHandedness": "Two-Handed", 
@@ -130,7 +130,7 @@
         "weaponWeight": 6.0
     }, 
     "Greataxe": {
-        "weaponCurrencyDenomination": "gp", 
+        "weaponCurrencyDenomination": "GP", 
         "weaponDamageType": "Slashing", 
         "weaponDmg": "1d12", 
         "weaponHandedness": "Two-Handed", 
@@ -143,7 +143,7 @@
         "weaponWeight": 7.0
     }, 
     "Greatclub": {
-        "weaponCurrencyDenomination": "sp", 
+        "weaponCurrencyDenomination": "SP", 
         "weaponDamageType": "Bludgeoning", 
         "weaponDmg": "1d8", 
         "weaponHandedness": "Two-Handed", 
@@ -156,7 +156,7 @@
         "weaponWeight": 10.0
     }, 
     "Greatsword": {
-        "weaponCurrencyDenomination": "gp", 
+        "weaponCurrencyDenomination": "GP", 
         "weaponDamageType": "Slashing", 
         "weaponDmg": "2d6", 
         "weaponHandedness": "Two-Handed", 
@@ -169,7 +169,7 @@
         "weaponWeight": 6.0
     }, 
     "Halberd": {
-        "weaponCurrencyDenomination": "gp", 
+        "weaponCurrencyDenomination": "GP", 
         "weaponDamageType": "Slashing", 
         "weaponDmg": "1d10", 
         "weaponHandedness": "Two-Handed", 
@@ -182,7 +182,7 @@
         "weaponWeight": 6.0
     }, 
     "Handaxe": {
-        "weaponCurrencyDenomination": "gp", 
+        "weaponCurrencyDenomination": "GP", 
         "weaponDamageType": "Slashing", 
         "weaponDmg": "1d6", 
         "weaponHandedness": "One-Handed", 
@@ -195,7 +195,7 @@
         "weaponWeight": 2.0
     }, 
     "Javelin": {
-        "weaponCurrencyDenomination": "sp", 
+        "weaponCurrencyDenomination": "SP", 
         "weaponDamageType": "Piercing", 
         "weaponDmg": "1d6", 
         "weaponHandedness": "One-Handed", 
@@ -208,7 +208,7 @@
         "weaponWeight": 2.0
     }, 
     "Lance": {
-        "weaponCurrencyDenomination": "gp", 
+        "weaponCurrencyDenomination": "GP", 
         "weaponDamageType": "Piercing", 
         "weaponDmg": "1d12", 
         "weaponHandedness": "One-Handed", 
@@ -221,7 +221,7 @@
         "weaponWeight": 6.0
     }, 
     "Light hammer": {
-        "weaponCurrencyDenomination": "gp", 
+        "weaponCurrencyDenomination": "GP", 
         "weaponDamageType": "Bludgeoning", 
         "weaponDmg": "1d4", 
         "weaponHandedness": "One-Handed", 
@@ -234,7 +234,7 @@
         "weaponWeight": 2.0
     }, 
     "Longbow": {
-        "weaponCurrencyDenomination": "gp", 
+        "weaponCurrencyDenomination": "GP", 
         "weaponDamageType": "Piercing", 
         "weaponDmg": "1d8", 
         "weaponHandedness": "Two-Handed", 
@@ -247,7 +247,7 @@
         "weaponWeight": 2.0
     }, 
     "Longsword": {
-        "weaponCurrencyDenomination": "gp", 
+        "weaponCurrencyDenomination": "GP", 
         "weaponDamageType": "Slashing", 
         "weaponDmg": "1d8 or 1d10", 
         "weaponHandedness": "One or Two Handed", 
@@ -260,7 +260,7 @@
         "weaponWeight": 3.0
     }, 
     "Mace": {
-        "weaponCurrencyDenomination": "gp", 
+        "weaponCurrencyDenomination": "GP", 
         "weaponDamageType": "Bludgeoning", 
         "weaponDmg": "1d6", 
         "weaponHandedness": "One-Handed", 
@@ -273,7 +273,7 @@
         "weaponWeight": 4.0
     }, 
     "Maul": {
-        "weaponCurrencyDenomination": "gp", 
+        "weaponCurrencyDenomination": "GP", 
         "weaponDamageType": "Bludgeoning", 
         "weaponDmg": "2d6", 
         "weaponHandedness": "Two-Handed", 
@@ -286,7 +286,7 @@
         "weaponWeight": 10.0
     }, 
     "Morningstar": {
-        "weaponCurrencyDenomination": "gp", 
+        "weaponCurrencyDenomination": "GP", 
         "weaponDamageType": "Piercing", 
         "weaponDmg": "1d8", 
         "weaponHandedness": "One-Handed", 
@@ -299,7 +299,7 @@
         "weaponWeight": 4.0
     }, 
     "Net": {
-        "weaponCurrencyDenomination": "gp", 
+        "weaponCurrencyDenomination": "GP", 
         "weaponDamageType": "", 
         "weaponDmg": "", 
         "weaponHandedness": "One-Handed", 
@@ -312,7 +312,7 @@
         "weaponWeight": 3.0
     }, 
     "Pike": {
-        "weaponCurrencyDenomination": "gp", 
+        "weaponCurrencyDenomination": "GP", 
         "weaponDamageType": "Piercing", 
         "weaponDmg": "1d10", 
         "weaponHandedness": "Two-Handed", 
@@ -325,7 +325,7 @@
         "weaponWeight": 18.0
     }, 
     "Quarterstaff": {
-        "weaponCurrencyDenomination": "sp", 
+        "weaponCurrencyDenomination": "SP", 
         "weaponDamageType": "Bludgeoning", 
         "weaponDmg": "1d6 or 1d8", 
         "weaponHandedness": "One or Two Handed", 
@@ -338,7 +338,7 @@
         "weaponWeight": 4.0
     }, 
     "Rapier": {
-        "weaponCurrencyDenomination": "gp", 
+        "weaponCurrencyDenomination": "GP", 
         "weaponDamageType": "Piercing", 
         "weaponDmg": "1d8", 
         "weaponHandedness": "One-Handed", 
@@ -351,7 +351,7 @@
         "weaponWeight": 2.0
     }, 
     "Scimitar": {
-        "weaponCurrencyDenomination": "gp", 
+        "weaponCurrencyDenomination": "GP", 
         "weaponDamageType": "Slashing", 
         "weaponDmg": "1d6", 
         "weaponHandedness": "One-Handed", 
@@ -364,7 +364,7 @@
         "weaponWeight": 3.0
     }, 
     "Shortbow": {
-        "weaponCurrencyDenomination": "gp", 
+        "weaponCurrencyDenomination": "GP", 
         "weaponDamageType": "Piercing", 
         "weaponDmg": "1d6", 
         "weaponHandedness": "Two-Handed", 
@@ -377,7 +377,7 @@
         "weaponWeight": 2.0
     }, 
     "Shortsword": {
-        "weaponCurrencyDenomination": "gp", 
+        "weaponCurrencyDenomination": "GP", 
         "weaponDamageType": "Piercing", 
         "weaponDmg": "1d6", 
         "weaponHandedness": "One-Handed", 
@@ -390,7 +390,7 @@
         "weaponWeight": 2.0
     }, 
     "Sickle": {
-        "weaponCurrencyDenomination": "gp", 
+        "weaponCurrencyDenomination": "GP", 
         "weaponDamageType": "Slashing", 
         "weaponDmg": "1d4", 
         "weaponHandedness": "One-Handed", 
@@ -403,7 +403,7 @@
         "weaponWeight": 2.0
     }, 
     "Sling": {
-        "weaponCurrencyDenomination": "sp", 
+        "weaponCurrencyDenomination": "SP", 
         "weaponDamageType": "Bludgeoning", 
         "weaponDmg": "1d4", 
         "weaponHandedness": "One-Handed", 
@@ -416,7 +416,7 @@
         "weaponWeight": 0.0
     }, 
     "Spear": {
-        "weaponCurrencyDenomination": "gp", 
+        "weaponCurrencyDenomination": "GP", 
         "weaponDamageType": "Piercing", 
         "weaponDmg": "1d6 or 1d8", 
         "weaponHandedness": "One or Two Handed", 
@@ -429,7 +429,7 @@
         "weaponWeight": 3.0
     }, 
     "Trident": {
-        "weaponCurrencyDenomination": "gp", 
+        "weaponCurrencyDenomination": "GP", 
         "weaponDamageType": "Piercing", 
         "weaponDmg": "1d6 or 1d8", 
         "weaponHandedness": "One or Two Handed", 
@@ -442,7 +442,7 @@
         "weaponWeight": 4.0
     }, 
     "War pick": {
-        "weaponCurrencyDenomination": "gp", 
+        "weaponCurrencyDenomination": "GP", 
         "weaponDamageType": "Piercing", 
         "weaponDmg": "1d8", 
         "weaponHandedness": "One-Handed", 
@@ -455,7 +455,7 @@
         "weaponWeight": 2.0
     }, 
     "Warhammer": {
-        "weaponCurrencyDenomination": "gp", 
+        "weaponCurrencyDenomination": "GP", 
         "weaponDamageType": "Bludgeoning", 
         "weaponDmg": "1d8 or 1d10", 
         "weaponHandedness": "One or Two Handed", 
@@ -468,7 +468,7 @@
         "weaponWeight": 2.0
     }, 
     "Whip": {
-        "weaponCurrencyDenomination": "gp", 
+        "weaponCurrencyDenomination": "GP", 
         "weaponDamageType": "Slashing", 
         "weaponDmg": "1d4", 
         "weaponHandedness": "One-Handed", 
