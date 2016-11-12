@@ -1591,7 +1591,7 @@
     }, 
     "Ring of Resistance": {
         "magicItemCharges": 0, 
-        "magicItemDescription": "You have resistance to one damage type while wearing this ring. The gem in the ring indicates the type, which the GM chooses or determines randomly.\n\nd10 Damage Type Gem\n1 Acid Pearl\n2 Cold Tourmaline\n3 Fire Garnet\n4 Force Sapphire\n5 Lightning Citrine\n6 Necrotic Jet\n7 Poison Amethyst\n8 Psychic Jade\n9 Radiant Topaz\n10 Thunder Spinel\n", 
+        "magicItemDescription": "You have resistance to one damage type while wearing this ring. The gem in the ring indicates the type, which the GM chooses or determines randomly.\n\n<table class=\"table table-responsive table-ac-bordered table-hover\"> <thead> <tr><td>d10</td><td>Damage Type</td><td>Gem</td></tr> </thead> <tbody> <tr><td>1</td><td>Acid</td><td>Pearl</td></tr> <tr><td>2</td><td>Cold</td><td>Tourmaline</td></tr> <tr><td>3</td><td>Fire</td><td>Garnet</td></tr> <tr><td>4</td><td>Force</td><td>Sapphire</td></tr> <tr><td>5</td><td>Lightning</td><td>Citrine</td></tr> <tr><td>6</td><td>Necrotic</td><td>Jet</td></tr> <tr><td>7</td><td>Poison</td><td>Amethyst</td></tr> <tr><td>8</td><td>Psychic</td><td>Jade</td></tr> <tr><td>9</td><td>Radiant</td><td>Topaz</td></tr> <tr><td>10</td><td>Thunder</td><td>Spinel</td></tr> </tbody> </table>\n", 
         "magicItemMaxCharges": 0, 
         "magicItemName": "Ring of Resistance", 
         "magicItemRarity": "Rare", 
