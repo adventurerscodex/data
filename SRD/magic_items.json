@@ -1391,7 +1391,7 @@
     }, 
     "Potion of Healing": {
         "magicItemCharges": 0, 
-        "magicItemDescription": "You regain hit points when you drink this potion. The number of hit points depends on the potion's rarity, as shown in the Potions of Healing table. Whatever its potency, the potion's red liquid glimmers when agitated.\n\nPotions of Healing\nPotion of \u2026 Rarity HP Regained\nHealing Common 2d4 + 2\nGreater healing Uncommon 4d4 + 4\nSuperior healing Rare 8d4 + 8\nSupreme healing Very rare 10d4 + 20\n", 
+        "magicItemDescription": "You regain hit points when you drink this potion. The number of hit points depends on the potion's rarity, as shown in the Potions of Healing table. Whatever its potency, the potion's red liquid glimmers when agitated.\n\n<table class=\"table table-responsive table-ac-bordered table-hover\"><thead><caption>Potions of Healing</caption><tr><td>Potion of \u2026</td><td>Rarity</td><td>HP Regained</td></tr></thead><tr><td>Healing</td><td>Common</td><td>2d4 + 2</td></tr><tr><td>Greater healing</td><td>Uncommon</td><td>4d4 + 4</td></tr><tr><td>Superior healing</td><td>Rare</td><td>8d4 + 8</td></tr><tr><td>Supreme healing</td><td>Very rare</td><td>10d4 + 20</td></tr></tbody></table>\n", 
         "magicItemMaxCharges": 0, 
         "magicItemName": "Potion of Healing", 
         "magicItemRarity": "Rarity Varies", 
