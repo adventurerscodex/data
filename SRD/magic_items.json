@@ -1391,7 +1391,7 @@
     }, 
     "Potion of Healing": {
         "magicItemCharges": 0, 
-        "magicItemDescription": "You regain hit points when you drink this potion. The number of hit points depends on the potion's rarity, as shown in the Potions of Healing table. Whatever its potency, the potion's red liquid glimmers when agitated.\n\n<table class=\"table table-responsive table-ac-bordered table-hover\"><thead><caption>Potions of Healing</caption><tr><td>Potion of \u2026</td><td>Rarity</td><td>HP Regained</td></tr></thead><tr><td>Healing</td><td>Common</td><td>2d4 + 2</td></tr><tr><td>Greater healing</td><td>Uncommon</td><td>4d4 + 4</td></tr><tr><td>Superior healing</td><td>Rare</td><td>8d4 + 8</td></tr><tr><td>Supreme healing</td><td>Very rare</td><td>10d4 + 20</td></tr></tbody></table>\n", 
+        "magicItemDescription": "You regain hit points when you drink this potion. The number of hit points depends on the potion's rarity, as shown in the Potions of Healing table. Whatever its potency, the potion's red liquid glimmers when agitated.\n\n<table class=\"table table-responsive table-ac-bordered table-hover\"><thead><caption>Potions of Healing</caption><tr><td>Potion of \u2026</td><td>Rarity</td><td>HP Regained</td></tr></thead><tbody><tr><td>Healing</td><td>Common</td><td>2d4 + 2</td></tr><tr><td>Greater healing</td><td>Uncommon</td><td>4d4 + 4</td></tr><tr><td>Superior healing</td><td>Rare</td><td>8d4 + 8</td></tr><tr><td>Supreme healing</td><td>Very rare</td><td>10d4 + 20</td></tr></tbody></table>\n", 
         "magicItemMaxCharges": 0, 
         "magicItemName": "Potion of Healing", 
         "magicItemRarity": "Rarity Varies", 
@@ -1441,7 +1441,7 @@
     }, 
     "Potion of Resistance": {
         "magicItemCharges": 0, 
-        "magicItemDescription": "When you drink this potion, you gain resistance to one type of damage for 1 hour. The GM chooses the type or determines it randomly from the options below.\n\nd10 Damage Type d10 Damage Type\n1 Acid 6 Necrotic\n2 Cold 7 Poison\n3 Fire 8 Psychic\n4 Force 9 Radiant\n5 Lightning 10 Thunder\n", 
+        "magicItemDescription": "When you drink this potion, you gain resistance to one type of damage for 1 hour. The GM chooses the type or determines it randomly from the options below.\n\n<table class=\"table table-responsive table-ac-bordered table-hover\"><thead><tr><td>d10</td><td>Damage Type</td></tr></thead><tbody><tr><td>1</td><td>Acid</td></tr><tr><td>2</td><td>Cold</td></tr><tr><td>3</td><td>Fire</td></tr><tr><td>4</td><td>Force</td></tr><tr><td>5</td><td>Lightning</td></tr><tr><td>6</td><td>Necrotic</td></tr><tr><td>7</td><td>Poison</td></tr><tr><td>8</td><td>Psychic</td></tr><tr><td>9</td><td>Radiant</td></tr><tr><td>10</td><td>Thunder</td></tr></tbody></table>\n", 
         "magicItemMaxCharges": 0, 
         "magicItemName": "Potion of Resistance", 
         "magicItemRarity": "Uncommon", 
