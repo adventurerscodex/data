@@ -621,7 +621,7 @@
     }, 
     "Elemental Gem": {
         "magicItemCharges": 0, 
-        "magicItemDescription": "This gem contains a mote of elemental energy. When you use an action to break the gem, an elemental is summoned as if you had cast the conjure elemental spell, and the gem's magic is lost. The type of gem determines the elemental summoned by the spell.\n\n<table class=\"table table-responsive table-ac-bordered table-hover\"> <thead> <tr><td>Gem Summoned</td><td>Elemental</td></tr> </thead> <tbody> <tr><td>Blue sapphire</td><td>Air elemental</td></tr> <tr><td>Yellow diamond</td><td>Earth elemental</td></tr> <tr><td>Red corundum</td><td>Fire elemental</td></tr> <tr><td>Emerald Water</td><td>elemental</td></tr> </tbody> </table>\n", 
+        "magicItemDescription": "This gem contains a mote of elemental energy. When you use an action to break the gem, an elemental is summoned as if you had cast the conjure elemental spell, and the gem's magic is lost. The type of gem determines the elemental summoned by the spell.\n\n<table class=\"table table-responsive table-ac-bordered table-hover\"> <thead> <tr><td>Gem Summoned</td><td>Elemental</td></tr> </thead> <tbody> <tr><td>Blue sapphire</td><td>Air elemental</td></tr> <tr><td>Yellow diamond</td><td>Earth elemental</td></tr> <tr><td>Red corundum</td><td>Fire elemental</td></tr> <tr><td>Emerald</td><td>Water elemental</td></tr> </tbody> </table>\n", 
         "magicItemMaxCharges": 0, 
         "magicItemName": "Elemental Gem", 
         "magicItemRarity": "Uncommon", 
