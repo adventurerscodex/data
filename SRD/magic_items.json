@@ -71,7 +71,7 @@
     }, 
     "Armor of Resistance": {
         "magicItemCharges": 0, 
-        "magicItemDescription": "You have resistance to one type of damage while you wear this armor. The GM chooses the type or determines it randomly from the options below.\n\nd10 Damage Type d10 Damage Type\n1 Acid 6 Necrotic\n2 Cold 7 Poison\n3 Fire 8 Psychic\n4 Force 9 Radiant\n5 Lightning 10 Thunder\n", 
+        "magicItemDescription": "You have resistance to one type of damage while you wear this armor. The GM chooses the type or determines it randomly from the options below.\n\n<table class=\"table table-responsive table-ac-bordered table-hover\"> <thead> <tr><td>d10</td><td>Damage Type</td></tr> </thead> <tbody> <tr><td>1</td><td>Acid</td></tr> <tr><td>2</td><td>Cold</td></tr> <tr><td>3</td><td>Fire</td></tr> <tr><td>4</td><td>Force</td></tr> <tr><td>5</td><td>Lightning</td></tr> <tr><td>6</td><td>Necrotic</td></tr> <tr><td>7</td><td>Poison</td></tr> <tr><td>8</td><td>Psychic</td></tr> <tr><td>9</td><td>Radiant</td></tr> <tr><td>10</td><td>Thunder</td></tr> </tbody> </table>\n", 
         "magicItemMaxCharges": 0, 
         "magicItemName": "Armor of Resistance", 
         "magicItemRarity": "Rare", 
