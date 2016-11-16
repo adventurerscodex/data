@@ -171,7 +171,7 @@
     }, 
     "Belt of Giant Strength": {
         "magicItemCharges": 0, 
-        "magicItemDescription": "While wearing this belt, your Strength score changes to a score granted by the belt. If your Strength is already equal to or greater than the belt's score, the item has no effect on you.\n\nSix varieties of this belt exist, corresponding with and having rarity according to the six kinds of true giants. The belt of stone giant strength and the belt of frost giant strength look different, but they have the same effect.\n\nType Strength Rarity\nHill giant 21 Rare\nStone/frost giant 23 Very rare\nFire giant 25 Very rare\nCloud giant 27 Legendary\nStorm giant 29 Legendary\n", 
+        "magicItemDescription": "While wearing this belt, your Strength score changes to a score granted by the belt. If your Strength is already equal to or greater than the belt's score, the item has no effect on you.\n\nSix varieties of this belt exist, corresponding with and having rarity according to the six kinds of true giants. The belt of stone giant strength and the belt of frost giant strength look different, but they have the same effect.\n\n<table class=\"table table-responsive table-ac-bordered table-hover\"> <thead> <tr><td>Type</td><td>Strength</td><td>Rarity</td></tr> </thead> <tbody> <tr><td>Hill giant</td><td>21</td><td>Rare <tr><td>Stone or frost giant</td><td>23</td><td>Very rare</td></tr> <tr><td>Fire giant</td><td>25</td><td>Very rare</td></tr> <tr><td>Cloud giant</td><td>27</td><td>Legendary</td></tr> <tr><td>Storm giant</td><td>29</td><td>Legendary</td></tr> </tbody> </table>\n", 
         "magicItemMaxCharges": 0, 
         "magicItemName": "Belt of Giant Strength", 
         "magicItemRarity": "Rarity Varies", 
