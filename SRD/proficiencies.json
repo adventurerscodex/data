@@ -1,0 +1,562 @@
+{
+    "Abyssal": {
+        "description": "",
+        "name": "Abyssal",
+        "type": "Languages"
+    },
+    "Alchemist's supplies": {
+        "description": "",
+        "name": "Alchemist's supplies",
+        "type": "Tools"
+    },
+    "Artisan's tools": {
+        "description": "",
+        "name": "Artisan's tools",
+        "type": "Tools"
+    },
+    "Bagpipes": {
+        "description": "",
+        "name": "Bagpipes",
+        "type": "Tools"
+    },
+    "Battleaxes": {
+        "description": "",
+        "name": "Battleaxes",
+        "type": "Weapon"
+    },
+    "Blowguns": {
+        "description": "",
+        "name": "Blowguns",
+        "type": "Weapon"
+    },
+    "Breastplate": {
+        "description": "",
+        "name": "Breastplate",
+        "type": "Armor"
+    },
+    "Brewer's supplies": {
+        "description": "",
+        "name": "Brewer's supplies",
+        "type": "Tools"
+    },
+    "Calligrapher's supplies": {
+        "description": "",
+        "name": "Calligrapher's supplies",
+        "type": "Tools"
+    },
+    "Carpenter's tools": {
+        "description": "",
+        "name": "Carpenter's tools",
+        "type": "Tools"
+    },
+    "Cartographer's tools": {
+        "description": "",
+        "name": "Cartographer's tools",
+        "type": "Tools"
+    },
+    "Celestial": {
+        "description": "",
+        "name": "Celestial",
+        "type": "Languages"
+    },
+    "Chain mail": {
+        "description": "",
+        "name": "Chain mail",
+        "type": "Armor"
+    },
+    "Chain shirt": {
+        "description": "",
+        "name": "Chain shirt",
+        "type": "Armor"
+    },
+    "Clubs": {
+        "description": "",
+        "name": "Clubs",
+        "type": "Weapon"
+    },
+    "Cobbler's tools": {
+        "description": "",
+        "name": "Cobbler's tools",
+        "type": "Tools"
+    },
+    "Common": {
+        "description": "",
+        "name": "Common",
+        "type": "Languages"
+    },
+    "Cook's utensils": {
+        "description": "",
+        "name": "Cook's utensils",
+        "type": "Tools"
+    },
+    "Crossbows, hand": {
+        "description": "",
+        "name": "Crossbows, hand",
+        "type": "Weapon"
+    },
+    "Crossbows, heavy": {
+        "description": "",
+        "name": "Crossbows, heavy",
+        "type": "Weapon"
+    },
+    "Crossbows, light": {
+        "description": "",
+        "name": "Crossbows, light",
+        "type": "Weapon"
+    },
+    "Daggers": {
+        "description": "",
+        "name": "Daggers",
+        "type": "Weapon"
+    },
+    "Darts": {
+        "description": "",
+        "name": "Darts",
+        "type": "Weapon"
+    },
+    "Deep Speech": {
+        "description": "",
+        "name": "Deep Speech",
+        "type": "Languages"
+    },
+    "Dice set": {
+        "description": "",
+        "name": "Dice set",
+        "type": "Tools"
+    },
+    "Disguise kit": {
+        "description": "",
+        "name": "Disguise kit",
+        "type": "Tools"
+    },
+    "Draconic": {
+        "description": "",
+        "name": "Draconic",
+        "type": "Languages"
+    },
+    "Drum": {
+        "description": "",
+        "name": "Drum",
+        "type": "Tools"
+    },
+    "Dulcimer": {
+        "description": "",
+        "name": "Dulcimer",
+        "type": "Tools"
+    },
+    "Dwarvish": {
+        "description": "",
+        "name": "Dwarvish",
+        "type": "Languages"
+    },
+    "Elvish": {
+        "description": "",
+        "name": "Elvish",
+        "type": "Languages"
+    },
+    "Flails": {
+        "description": "",
+        "name": "Flails",
+        "type": "Weapon"
+    },
+    "Flute": {
+        "description": "",
+        "name": "Flute",
+        "type": "Tools"
+    },
+    "Forgery kit": {
+        "description": "",
+        "name": "Forgery kit",
+        "type": "Tools"
+    },
+    "Gaming set": {
+        "description": "",
+        "name": "Gaming set",
+        "type": "Tools"
+    },
+    "Giant": {
+        "description": "",
+        "name": "Giant",
+        "type": "Languages"
+    },
+    "Glaives": {
+        "description": "",
+        "name": "Glaives",
+        "type": "Weapon"
+    },
+    "Glassblower's tools": {
+        "description": "",
+        "name": "Glassblower's tools",
+        "type": "Tools"
+    },
+    "Gnomish": {
+        "description": "",
+        "name": "Gnomish",
+        "type": "Languages"
+    },
+    "Goblin": {
+        "description": "",
+        "name": "Goblin",
+        "type": "Languages"
+    },
+    "Greataxes": {
+        "description": "",
+        "name": "Greataxes",
+        "type": "Weapon"
+    },
+    "Greatclubs": {
+        "description": "",
+        "name": "Greatclubs",
+        "type": "Weapon"
+    },
+    "Greatswords": {
+        "description": "",
+        "name": "Greatswords",
+        "type": "Weapon"
+    },
+    "Halberds": {
+        "description": "",
+        "name": "Halberds",
+        "type": "Weapon"
+    },
+    "Half plate": {
+        "description": "",
+        "name": "Half plate",
+        "type": "Armor"
+    },
+    "Halfling": {
+        "description": "",
+        "name": "Halfling",
+        "type": "Languages"
+    },
+    "Handaxes": {
+        "description": "",
+        "name": "Handaxes",
+        "type": "Weapon"
+    },
+    "Heavy Armor": {
+        "description": "",
+        "name": "Heavy Armor",
+        "type": "Armor"
+    },
+    "Herbalism kit": {
+        "description": "",
+        "name": "Herbalism kit",
+        "type": "Tools"
+    },
+    "Hide": {
+        "description": "",
+        "name": "Hide",
+        "type": "Armor"
+    },
+    "Horn": {
+        "description": "",
+        "name": "Horn",
+        "type": "Tools"
+    },
+    "Infernal": {
+        "description": "",
+        "name": "Infernal",
+        "type": "Languages"
+    },
+    "Javelins": {
+        "description": "",
+        "name": "Javelins",
+        "type": "Weapon"
+    },
+    "Jeweler's tools": {
+        "description": "",
+        "name": "Jeweler's tools",
+        "type": "Tools"
+    },
+    "Lances": {
+        "description": "",
+        "name": "Lances",
+        "type": "Weapon"
+    },
+    "Leather": {
+        "description": "",
+        "name": "Leather",
+        "type": "Armor"
+    },
+    "Leatherworker's tools": {
+        "description": "",
+        "name": "Leatherworker's tools",
+        "type": "Tools"
+    },
+    "Light Armor": {
+        "description": "",
+        "name": "Light Armor",
+        "type": "Armor"
+    },
+    "Light hammers": {
+        "description": "",
+        "name": "Light hammers",
+        "type": "Weapon"
+    },
+    "Longbows": {
+        "description": "",
+        "name": "Longbows",
+        "type": "Weapon"
+    },
+    "Longswords": {
+        "description": "",
+        "name": "Longswords",
+        "type": "Weapon"
+    },
+    "Lute": {
+        "description": "",
+        "name": "Lute",
+        "type": "Tools"
+    },
+    "Lyre": {
+        "description": "",
+        "name": "Lyre",
+        "type": "Tools"
+    },
+    "Maces": {
+        "description": "",
+        "name": "Maces",
+        "type": "Weapon"
+    },
+    "Martial Melee Weapons": {
+        "description": "",
+        "name": "Martial Melee Weapons",
+        "type": "Weapon"
+    },
+    "Martial Ranged Weapons": {
+        "description": "",
+        "name": "Martial Ranged Weapons",
+        "type": "Weapon"
+    },
+    "Mason's tools": {
+        "description": "",
+        "name": "Mason's tools",
+        "type": "Tools"
+    },
+    "Mauls": {
+        "description": "",
+        "name": "Mauls",
+        "type": "Weapon"
+    },
+    "Medium Armor": {
+        "description": "",
+        "name": "Medium Armor",
+        "type": "Armor"
+    },
+    "Morningstars": {
+        "description": "",
+        "name": "Morningstars",
+        "type": "Weapon"
+    },
+    "Musical instrument": {
+        "description": "",
+        "name": "Musical instrument",
+        "type": "Tools"
+    },
+    "Navigator's tools": {
+        "description": "",
+        "name": "Navigator's tools",
+        "type": "Tools"
+    },
+    "Nets": {
+        "description": "",
+        "name": "Nets",
+        "type": "Weapon"
+    },
+    "Orc": {
+        "description": "",
+        "name": "Orc",
+        "type": "Languages"
+    },
+    "Padded": {
+        "description": "",
+        "name": "Padded",
+        "type": "Armor"
+    },
+    "Painter's supplies": {
+        "description": "",
+        "name": "Painter's supplies",
+        "type": "Tools"
+    },
+    "Pan flute": {
+        "description": "",
+        "name": "Pan flute",
+        "type": "Tools"
+    },
+    "Pikes": {
+        "description": "",
+        "name": "Pikes",
+        "type": "Weapon"
+    },
+    "Plate": {
+        "description": "",
+        "name": "Plate",
+        "type": "Armor"
+    },
+    "Playing card": {
+        "description": "",
+        "name": "Playing card",
+        "type": "Tools"
+    },
+    "Poisoner's kit": {
+        "description": "",
+        "name": "Poisoner's kit",
+        "type": "Tools"
+    },
+    "Potter's tools": {
+        "description": "",
+        "name": "Potter's tools",
+        "type": "Tools"
+    },
+    "Primordial": {
+        "description": "",
+        "name": "Primordial",
+        "type": "Languages"
+    },
+    "Quarterstaffs": {
+        "description": "",
+        "name": "Quarterstaffs",
+        "type": "Weapon"
+    },
+    "Rapiers": {
+        "description": "",
+        "name": "Rapiers",
+        "type": "Weapon"
+    },
+    "Ring mail": {
+        "description": "",
+        "name": "Ring mail",
+        "type": "Armor"
+    },
+    "Scale mail": {
+        "description": "",
+        "name": "Scale mail",
+        "type": "Armor"
+    },
+    "Scimitars": {
+        "description": "",
+        "name": "Scimitars",
+        "type": "Weapon"
+    },
+    "Shawm": {
+        "description": "",
+        "name": "Shawm",
+        "type": "Tools"
+    },
+    "Shield": {
+        "description": "",
+        "name": "Shield",
+        "type": "Armor"
+    },
+    "Shortbows": {
+        "description": "",
+        "name": "Shortbows",
+        "type": "Weapon"
+    },
+    "Shortswords": {
+        "description": "",
+        "name": "Shortswords",
+        "type": "Weapon"
+    },
+    "Sickles": {
+        "description": "",
+        "name": "Sickles",
+        "type": "Weapon"
+    },
+    "Simple Melee Weapons": {
+        "description": "",
+        "name": "Simple Melee Weapons",
+        "type": "Weapon"
+    },
+    "Simple Ranged Weapons": {
+        "description": "",
+        "name": "Simple Ranged Weapons",
+        "type": "Weapon"
+    },
+    "Slings": {
+        "description": "",
+        "name": "Slings",
+        "type": "Weapon"
+    },
+    "Smith's tools": {
+        "description": "",
+        "name": "Smith's tools",
+        "type": "Tools"
+    },
+    "Spears": {
+        "description": "",
+        "name": "Spears",
+        "type": "Weapon"
+    },
+    "Splint": {
+        "description": "",
+        "name": "Splint",
+        "type": "Armor"
+    },
+    "Studded leather": {
+        "description": "",
+        "name": "Studded leather",
+        "type": "Armor"
+    },
+    "Sylvan": {
+        "description": "",
+        "name": "Sylvan",
+        "type": "Languages"
+    },
+    "Thieves' tools": {
+        "description": "",
+        "name": "Thieves' tools",
+        "type": "Tools"
+    },
+    "Tinker's tools": {
+        "description": "",
+        "name": "Tinker's tools",
+        "type": "Tools"
+    },
+    "Tridents": {
+        "description": "",
+        "name": "Tridents",
+        "type": "Weapon"
+    },
+    "Undercommon": {
+        "description": "",
+        "name": "Undercommon",
+        "type": "Languages"
+    },
+    "Vehicles (land or water)": {
+        "description": "",
+        "name": "Vehicles (land or water)",
+        "type": "Tools"
+    },
+    "Viol": {
+        "description": "",
+        "name": "Viol",
+        "type": "Tools"
+    },
+    "War Picks": {
+        "description": "",
+        "name": "War Picks",
+        "type": "Weapon"
+    },
+    "Warhammers": {
+        "description": "",
+        "name": "Warhammers",
+        "type": "Weapon"
+    },
+    "Weaver's tools": {
+        "description": "",
+        "name": "Weaver's tools",
+        "type": "Tools"
+    },
+    "Whips": {
+        "description": "",
+        "name": "Whips",
+        "type": "Weapon"
+    },
+    "Woodcarver's tools": {
+        "description": "",
+        "name": "Woodcarver's tools",
+        "type": "Tools"
+    }
+}
