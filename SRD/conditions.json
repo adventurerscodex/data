@@ -1,58 +1,81 @@
 {
-    "Blinded": {
-        "conditionDescription": "* A blinded creature can't see and automatically\nfails any ability check that requires sight.\n* Attack rolls against the creature have advantage,\nand the creature's attack rolls have disadvantage.\n",
-        "conditionName": "Blinded"
+    "license": {
+        "license": [
+            "OPEN GAME LICENSE Version 1.0a",
+            "1. Definitions: (a)\"Contributors\" means the copyright and/or trademark owners who have contributed Open Game Content; (b)\"Derivative Material\" means copyrighted material including derivative works and translations (including into other computer languages), potation, modification, correction, addition, extension, upgrade, improvement, compilation, abridgment or other form in which an existing work may be recast, transformed or adapted; (c) \"Distribute\" means to reproduce, license, rent, lease, sell, broadcast, publicly display, transmit or otherwise distribute; (d)\"Open Game Content\" means the game mechanic and includes the methods, procedures, processes and routines to the extent such content does not embody the Product Identity and is an enhancement over the prior art and any additional content clearly identified as Open Game Content by the Contributor, and means any work covered by this License, including translations and derivative works under copyright law, but specifically excludes Product Identity. (e) \"Product Identity\" means product and product line names, logos and identifying marks including trade dress; artifacts; creatures characters; stories, storylines, plots, thematic elements, dialogue, incidents, language, artwork, symbols, designs, depictions, likenesses, formats, poses, concepts, themes and graphic, photographic and other visual or audio representations; names and descriptions of characters, spells, enchantments, personalities, teams, personas, likenesses and special abilities; places, locations, environments, creatures, equipment, magical or supernatural abilities or effects, logos, symbols, or graphic designs; and any other trademark or registered trademark clearly identified as Product identity by the owner of the Product Identity, and which specifically excludes the Open Game Content; (f) \"Trademark\" means the logos, names, mark, sign, motto, designs that are used by a Contributor to identify itself or its products or the associated products contributed to the Open Game License by the Contributor (g) \"Use\", \"Used\" or \"Using\" means to use, Distribute, copy, edit, format, modify, translate and otherwise create Derivative Material of Open Game Content. (h) \"You\" or \"Your\" means the licensee in terms of this agreement.",
+            "2. The License: This License applies to any Open Game Content that contains a notice indicating that the Open Game Content may only be Used under and in terms of this License. You must affix such a notice to any Open Game Content that you Use. No terms may be added to or subtracted from this License except as described by the License itself. No other terms or conditions may be applied to any Open Game Content distributed using this License.",
+            "3. Offer and Acceptance: By Using the Open Game Content You indicate Your acceptance of the terms of this License.",
+            "4. Grant and Consideration: In consideration for agreeing to use this License, the Contributors grant You a perpetual, worldwide, royalty-free, nonexclusive license with the exact terms of this License to Use, the Open Game Content.",
+            "5. Representation of Authority to Contribute: If You are contributing original material as Open Game Content, You represent that Your Contributions are Your original creation and/or You have sufficient rights to grant the rights conveyed by this License.",
+            "6. Notice of License Copyright: You must update the COPYRIGHT NOTICE portion of this License to include the exact text of the COPYRIGHT NOTICE of any Open Game Content You are copying, modifying or distributing, and You must add the title, the copyright date, and the copyright holder's name to the COPYRIGHT NOTICE of any original Open Game Content you Distribute.",
+            "7. Use of Product Identity: You agree not to Use any Product Identity, including as an indication as to compatibility, except as expressly licensed in another, independent Agreement with the owner of each element of that Product Identity. You agree not to indicate compatibility or co-adaptability with any Trademark or Registered Trademark in conjunction with a work containing Open Game Content except as expressly licensed in another, independent Agreement with the owner of such Trademark or Registered Trademark. The use of any Product Identity in Open Game Content does not constitute a challenge to the ownership of that Product Identity. The owner of any Product Identity used in Open Game Content shall retain all rights, title and interest in and to that Product Identity.",
+            "8. Identification: If you distribute Open Game Content You must clearly indicate which portions of the work that you are distributing are Open Game Content.",
+            "9. Updating the License: Wizards or its designated Agents may publish updated versions of this License. You may use any authorized version of this License to copy, modify and distribute any Open Game Content originally distributed under any version of this License.",
+            "10. Copy of this License: You MUST include a copy of this License with every copy of the Open Game Content You Distribute.",
+            "11. Use of Contributor Credits: You may not market or advertise the Open Game Content using the name of any Contributor unless You have written permission from the Contributor to do so.",
+            "12. Inability to Comply: If it is impossible for You to comply with any of the terms of this License with respect to some or all of the Open Game Content due to statute, judicial order, or governmental regulation then You may not Use any Open Game Material so affected.",
+            "13. Termination: This License will terminate automatically if You fail to comply with all terms herein and fail to cure such breach within 30 days of becoming aware of the breach. All sublicenses shall survive the termination of this License.",
+            "14. Reformation: If any provision of this License is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable.",
+            "15. COPYRIGHT NOTICE Open Game License v 1.0a Copyright 2000, Wizards of the Coast, LLC.",
+            "System Reference Document 5.1 Copyright 2016, Wizards of the Coast, Inc.; Authors Mike Mearls, Jeremy Crawford, Chris Perkins, Rodney Thompson, Peter Lee, James Wyatt, Robert J. Schwalb, Bruce R. Cordell, Chris Sims, and Steve Townshend, based on original material by E. Gary Gygax and Dave Arneson."
+        ]
     },
-    "Charmed": {
-        "conditionDescription": "* A charmed creature can't attack the charmer or\ntarget the charmer with harmful abilities or\nmagical effects.\n* The charmer has advantage on any ability check to\ninteract socially with the creature.\n",
-        "conditionName": "Charmed"
-    },
-    "Deafened": {
-        "conditionDescription": "* A deafened creature can't hear and automatically\nfails any ability check that requires hearing.\n",
-        "conditionName": "Deafened"
-    },
-    "Exhaustion": {
-        "conditionDescription": "Some special abilities and environmental hazards, such as\nstarvation and the long-term effects of freezing or scorching\ntemperatures, can lead to a special condition called\nexhaustion. Exhaustion is measured in six levels. An effect\ncan give a creature one or more levels of exhaustion, as\nspecified in the effect's description.\nLevel Effect\n1 Disadvantage on ability checks\n2 Speed halved\n3 Disadvantage on attack rolls and saving throws\n4 Hit point maximum halved\n5 Speed reduced to 0\n6 Death\nIf an already exhausted creature suffers another effect that\ncauses exhaustion, its current level of exhaustion increases\nby the amount specified in the effect's description.\nA creature suffers the effect of its current level of\nexhaustion as well as all lower levels. For example, a creature\nsuffering level 2 exhaustion has its speed halved and has\ndisadvantage on ability checks.\nAn effect that removes exhaustion reduces its level as\nspecified in the effect's description, with all exhaustion\neffects ending if a creature's exhaustion level is reduced\nbelow 1.\nFinishing a long rest reduces a creature's exhaustion level\nby 1, provided that the creature has also ingested some food\nand drink.\n",
-        "conditionName": "Exhaustion"
-    },
-    "Frightened": {
-        "conditionDescription": "* A frightened creature has disadvantage on ability\nchecks and attack rolls while the source of its fear\nis within line of sight.\n* The creature can't willingly move closer to the\nsource of its fear.\n",
-        "conditionName": "Frightened"
-    },
-    "Grappled": {
-        "conditionDescription": "* A grappled creature's speed becomes 0, and it\ncan't benefit from any bonus to its speed.\n* The condition ends if the grappler is incapacitated\n(see the condition).\n* The condition also ends if an effect removes the\ngrappled creature from the reach of the grappler\nor grappling effect, such as when a creature is\nhurled away by the thunder-wave spell.\n",
-        "conditionName": "Grappled"
-    },
-    "Incapacitated": {
-        "conditionDescription": "* An incapacitated creature can't take actions or\nreactions.\n",
-        "conditionName": "Incapacitated"
-    },
-    "Invisible": {
-        "conditionDescription": "* An invisible creature is impossible to see without\nthe aid of magic or a special sense. For the purpose\nof hiding, the creature is heavily obscured. The\ncreature's location can be detected by any noise it\nmakes or any tracks it leaves.\n* Attack rolls against the creature have\ndisadvantage, and the creature's attack rolls have\nadvantage.\n",
-        "conditionName": "Invisible"
-    },
-    "Paralyzed": {
-        "conditionDescription": "* A paralyzed creature is incapacitated (see the\ncondition) and can't move or speak.\n* The creature automatically fails Strength and Dexterity saving throws.\n* Attack rolls against the creature have advantage.\n* Any attack that hits the creature is a critical hit if\nthe attacker is within 5 feet of the creature.\n",
-        "conditionName": "Paralyzed"
-    },
-    "Petrified": {
-        "conditionDescription": "* A petrified creature is transformed, along with any\nnonmagical object it is wearing or carrying, into a\nsolid inanimate substance (usually stone). Its\nweight increases by a factor of ten, and it ceases\naging.\n* The creature is incapacitated (see the condition),\ncan't move or speak, and is unaware of its\nsurroundings.\n* Attack rolls against the creature have advantage.\n* The creature automatically fails Strength and\nDexterity saving throws.\n* The creature has resistance to all damage.\n* The creature is immune to poison and disease,\nalthough a poison or disease already in its system\nis suspended, not neutralized.\n",
-        "conditionName": "Petrified"
-    },
-    "Poisoned": {
-        "conditionDescription": "* A poisoned creature has disadvantage on attack\nrolls and ability checks.\n",
-        "conditionName": "Poisoned"
-    },
-    "Prone": {
-        "conditionDescription": "* A prone creature's only movement option is to\ncrawl, unless it stands up and thereby ends the\ncondition.\n* The creature has disadvantage on attack rolls.\n* An attack roll against the creature has advantage if\nthe attacker is within 5 feet of the creature.\nOtherwise, the attack roll has disadvantage.\n",
-        "conditionName": "Prone"
-    },
-    "Restrained": {
-        "conditionDescription": "* A restrained creature's speed becomes 0, and it\ncan't benefit from any bonus to its speed.\n* Attack rolls against the creature have advantage,\nand the creature's attack rolls have disadvantage.\n* The creature has disadvantage on Dexterity saving\nthrows.\n",
-        "conditionName": "Restrained"
-    },
-    "Stunned": {
-        "conditionDescription": "* A stunned creature is incapacitated (see the\ncondition), can't move, and can speak only\nfalteringly.\n* The creature automatically fails Strength and\nDexterity saving throws.\n* Attack rolls against the creature have advantage.\nUnconscious\n",
-        "conditionName": "Stunned"
+    "values": {
+        "Blinded": {
+            "conditionDescription": "* A blinded creature can't see and automatically fails any ability check that requires sight.\n* Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.\n",
+            "conditionName": "Blinded"
+        },
+        "Charmed": {
+            "conditionDescription": "* A charmed creature can't attack the charmer or target the charmer with harmful abilities or magical effects.\n* The charmer has advantage on any ability check to interact socially with the creature.\n",
+            "conditionName": "Charmed"
+        },
+        "Deafened": {
+            "conditionDescription": "* A deafened creature can't hear and automatically fails any ability check that requires hearing.\n",
+            "conditionName": "Deafened"
+        },
+        "Exhaustion": {
+            "conditionDescription": "Some special abilities and environmental hazards, such as starvation and the long-term effects of freezing or scorching temperatures, can lead to a special condition called exhaustion. Exhaustion is measured in six levels. An effect can give a creature one or more levels of exhaustion, as specified in the effect's description.\nLevel Effect\n1 Disadvantage on ability checks\n2 Speed halved\n3 Disadvantage on attack rolls and saving throws\n4 Hit point maximum halved\n5 Speed reduced to 0\n6 Death\nIf an already exhausted creature suffers another effect that causes exhaustion, its current level of exhaustion increases by the amount specified in the effect's description.\nA creature suffers the effect of its current level of exhaustion as well as all lower levels. For example, a creature suffering level 2 exhaustion has its speed halved and has disadvantage on ability checks.\nAn effect that removes exhaustion reduces its level as specified in the effect's description, with all exhaustion effects ending if a creature's exhaustion level is reduced below 1.\nFinishing a long rest reduces a creature's exhaustion level by 1, provided that the creature has also ingested some food and drink.\n",
+            "conditionName": "Exhaustion"
+        },
+        "Frightened": {
+            "conditionDescription": "* A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight.\n* The creature can't willingly move closer to the source of its fear.\n",
+            "conditionName": "Frightened"
+        },
+        "Grappled": {
+            "conditionDescription": "* A grappled creature's speed becomes 0, and it can't benefit from any bonus to its speed.\n* The condition ends if the grappler is incapacitated (see the condition).\n* The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the thunder-wave spell.\n",
+            "conditionName": "Grappled"
+        },
+        "Incapacitated": {
+            "conditionDescription": "* An incapacitated creature can't take actions or reactions.\n",
+            "conditionName": "Incapacitated"
+        },
+        "Invisible": {
+            "conditionDescription": "* An invisible creature is impossible to see without the aid of magic or a special sense. For the purpose of hiding, the creature is heavily obscured. The creature's location can be detected by any noise it makes or any tracks it leaves.\n* Attack rolls against the creature have disadvantage, and the creature's attack rolls have advantage.\n",
+            "conditionName": "Invisible"
+        },
+        "Paralyzed": {
+            "conditionDescription": "* A paralyzed creature is incapacitated (see the condition) and can't move or speak.\n* The creature automatically fails Strength and Dexterity saving throws.\n* Attack rolls against the creature have advantage.\n* Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.\n",
+            "conditionName": "Paralyzed"
+        },
+        "Petrified": {
+            "conditionDescription": "* A petrified creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging.\n* The creature is incapacitated (see the condition), can't move or speak, and is unaware of its surroundings.\n* Attack rolls against the creature have advantage.\n* The creature automatically fails Strength and Dexterity saving throws.\n* The creature has resistance to all damage.\n* The creature is immune to poison and disease, although a poison or disease already in its system is suspended, not neutralized.\n",
+            "conditionName": "Petrified"
+        },
+        "Poisoned": {
+            "conditionDescription": "* A poisoned creature has disadvantage on attack rolls and ability checks.\n",
+            "conditionName": "Poisoned"
+        },
+        "Prone": {
+            "conditionDescription": "* A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition.\n* The creature has disadvantage on attack rolls.\n* An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage.\n",
+            "conditionName": "Prone"
+        },
+        "Restrained": {
+            "conditionDescription": "* A restrained creature's speed becomes 0, and it can't benefit from any bonus to its speed.\n* Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.\n* The creature has disadvantage on Dexterity saving throws.\n",
+            "conditionName": "Restrained"
+        },
+        "Stunned": {
+            "conditionDescription": "* A stunned creature is incapacitated (see the condition), can't move, and can speak only falteringly.\n* The creature automatically fails Strength and Dexterity saving throws.\n* Attack rolls against the creature have advantage.\n",
+            "conditionName": "Stunned"
+        }
     }
 }
