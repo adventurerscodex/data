@@ -216,16 +216,6 @@
             "name": "Draconic Ancestry",
             "race": "Dragonborn"
         },
-        "Dragonborn Traits (Dragonborn)": {
-            "description": "Your draconic heritage manifests in a variety of traits you share with other dragonborn.\n",
-            "name": "Dragonborn Traits",
-            "race": "Dragonborn"
-        },
-        "Dwarf Traits (Dwarf)": {
-            "description": "Your dwarf character has an assortment of inborn abilities, part and parcel of dwarven nature.\n",
-            "name": "Dwarf Traits",
-            "race": "Dwarf"
-        },
         "Dwarven Combat Training (Dwarf)": {
             "description": "You have proficiency with the battleaxe, handaxe, light hammer, and warhammer.\n",
             "name": "Dwarven Combat Training",
@@ -240,11 +230,6 @@
             "description": "Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.\n",
             "name": "Dwarven Toughness",
             "race": "Hill Dwarf"
-        },
-        "Elf Traits (Elf)": {
-            "description": "Your elf character has a variety of natural abilities, the result of thousands of years of elven refinement.\n",
-            "name": "Elf Traits",
-            "race": "Elf"
         },
         "Elf Weapon Training (High Elf)": {
             "description": "You have proficiency with the longsword, shortsword, shortbow, and longbow. Cantrip. You know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it.\n",
@@ -271,50 +256,15 @@
             "name": "Gnome Cunning",
             "race": "Gnome"
         },
-        "Gnome Traits (Gnome)": {
-            "description": "Your gnome character has certain characteristics in common with all other gnomes.\n",
-            "name": "Gnome Traits",
-            "race": "Gnome"
-        },
-        "Half-Elf Traits (Half-Elf)": {
-            "description": "Your half-elf character has some qualities in common with elves and some that are unique to half-elves.\n",
-            "name": "Half-Elf Traits",
-            "race": "Half-Elf"
-        },
-        "Half-Orc Traits (Half-Orc)": {
-            "description": "Your half-orc character has certain traits deriving from your orc ancestry.\n",
-            "name": "Half-Orc Traits",
-            "race": "Half-Orc"
-        },
         "Halfling Nimbleness (Halfling)": {
             "description": "You can move through the space of any creature that is of a size larger than yours.\n",
             "name": "Halfling Nimbleness",
-            "race": "Halfling"
-        },
-        "Halfling Traits (Halfling)": {
-            "description": "Your halfling character has a number of traits in common with all other halflings.\n",
-            "name": "Halfling Traits",
             "race": "Halfling"
         },
         "Hellish Resistance (Tiefling)": {
             "description": "You have resistance to fire damage.\n",
             "name": "Hellish Resistance",
             "race": "Tiefling"
-        },
-        "High Elf Traits (High Elf)": {
-            "description": "As a high elf, you have a keen mind and a mastery of at least the basics of magic. In many fantasy gaming worlds, there are two kinds of high elves. One type is haughty and reclusive, believing themselves to be superior to non-elves and even other elves. The other type is more common and more friendly, and often encountered among humans and other races.\n",
-            "name": "High Elf Traits",
-            "race": "High Elf"
-        },
-        "Hill Dwarf Traits (Hill Dwarf)": {
-            "description": "As a hill dwarf, you have keen senses, deep intuition, and remarkable resilience.\n",
-            "name": "Hill Dwarf Traits",
-            "race": "Hill Dwarf"
-        },
-        "Human Traits (Human)": {
-            "description": "It's hard to make generalizations about humans, but your human character has these traits. Ability Score Increase. Your ability scores each increase by 1.\n",
-            "name": "Human Traits",
-            "race": "Human"
         },
         "Infernal Legacy (Tiefling)": {
             "description": "You know the thaumaturgy cantrip. When you reach 3rd level, you can cast the hellish rebuke spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the darkness spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.\n",
@@ -345,11 +295,6 @@
             "description": "When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can't use this feature again until you finish a long rest.\n",
             "name": "Relentless Endurance",
             "race": "Half-Orc"
-        },
-        "Rock Gnome Traits (Rock Gnome)": {
-            "description": "As a rock gnome, you have a natural inventiveness and hardiness beyond that of other gnomes.\n",
-            "name": "Rock Gnome Traits",
-            "race": "Rock Gnome"
         },
         "Savage Attacks (Half-Orc)": {
             "description": "When you score a critical hit with a melee weapon attack, you can roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit.\n",
@@ -455,11 +400,6 @@
             "description": "Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.\n",
             "name": "Stonecunning",
             "race": "Dwarf"
-        },
-        "Tiefling Traits (Tiefling)": {
-            "description": "Tieflings share certain racial traits as a result of their infernal descent.\n",
-            "name": "Tiefling Traits",
-            "race": "Tiefling"
         },
         "Tinker (Rock Gnome)": {
             "description": "You have proficiency with artisan's tools (tinker's tools). Using those tools, you can spend 1 hour and 10 gp worth of materials to construct a Tiny clockwork device (AC 5, 1 hp). The device ceases to function after 24 hours (unless you spend 1 hour repairing it to keep the device functioning), or when you use your action to dismantle it; at that time, you can reclaim the materials used to create it. You can have up to three such devices active at a time.\n\nWhen you create a device, choose one of the\nfollowing options:\n\nClockwork Toy. This toy is a clockwork animal, monster, or person, such as a frog, mouse, bird, dragon, or soldier. When placed on the ground, the toy moves 5 feet across the ground on each of your turns in a random direction. It makes noises as appropriate to the creature it represents.\n\nFire Starter. The device produces a miniature flame, which you can use to light a candle, torch, or campfire. Using the device requires your action.\n\nMusic Box. When opened, this music box plays a single song at a moderate volume. The box stops playing when it reaches the song's end or when it is closed.\n",
