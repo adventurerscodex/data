@@ -1,8 +1,8 @@
 {
     "Breastplate": {
-        "armorClass": "14 + Dex modifier (max 2)",
+        "armorClass": 14,
         "armorCurrencyDenomination": "GP",
-        "armorDescription": "This armor consists of a fitted metal chest piece worn with supple leather. Although it leaves the legs and arms relatively unprotected, this armor provides good protection for the wearer's vital organs while leaving the wearer relatively unencumbered.",
+        "armorDescription": "This armor consists of a fitted metal chest piece worn with supple leather. Although it leaves the legs and arms relatively unprotected, this armor provides good protection for the wearer's vital organs while leaving the wearer relatively unencumbered. AC: 14 + Dex modifier (max 2).",
         "armorName": "Breastplate",
         "armorPrice": 400.0,
         "armorStealth": "Normal",
@@ -11,7 +11,7 @@
         "armorWeight": 20.0
     },
     "Chain mail": {
-        "armorClass": "16",
+        "armorClass": 16,
         "armorCurrencyDenomination": "GP",
         "armorDescription": "Made of interlocking metal rings, chain mail includes a layer of quilted fabric worn underneath the mail to prevent chafing and to cushion the impact of blows. The suit includes gauntlets.",
         "armorName": "Chain mail",
@@ -22,9 +22,9 @@
         "armorWeight": 55.0
     },
     "Chain shirt": {
-        "armorClass": "13 + Dex modifier (max 2)",
+        "armorClass": 13,
         "armorCurrencyDenomination": "GP",
-        "armorDescription": "Made of interlocking metal rings, a chain shirt is worn between layers of clothing or leather. This armor offers modest protection to the wearer's upper body and allows the sound of the rings rubbing against one another to be muffled by outer layers.",
+        "armorDescription": "Made of interlocking metal rings, a chain shirt is worn between layers of clothing or leather. This armor offers modest protection to the wearer's upper body and allows the sound of the rings rubbing against one another to be muffled by outer layers. AC: 13 + Dex modifier (max 2).",
         "armorName": "Chain shirt",
         "armorPrice": 50.0,
         "armorStealth": "Normal",
@@ -33,9 +33,9 @@
         "armorWeight": 20.0
     },
     "Half plate": {
-        "armorClass": "15 + Dex modifier (max 2)",
+        "armorClass": 15,
         "armorCurrencyDenomination": "GP",
-        "armorDescription": "Half plate consists of shaped metal plates that cover most of the wearer's body. It does not include leg protection beyond simple greaves that are attached with leather straps.",
+        "armorDescription": "Half plate consists of shaped metal plates that cover most of the wearer's body. It does not include leg protection beyond simple greaves that are attached with leather straps. AC: 15 + Dex modifier (max 2).",
         "armorName": "Half plate",
         "armorPrice": 750.0,
         "armorStealth": "Disadvantage",
@@ -44,9 +44,9 @@
         "armorWeight": 40.0
     },
     "Hide": {
-        "armorClass": "12 + Dex modifier (max 2)",
+        "armorClass": 12,
         "armorCurrencyDenomination": "GP",
-        "armorDescription": "This crude armor consists of thick furs and pelts. It is commonly worn by barbarian tribes, evil humanoids, and other folk who lack access to the tools and materials needed to create better armor.",
+        "armorDescription": "This crude armor consists of thick furs and pelts. It is commonly worn by barbarian tribes, evil humanoids, and other folk who lack access to the tools and materials needed to create better armor. AC: 12 + Dex modifier (max 2).",
         "armorName": "Hide",
         "armorPrice": 10.0,
         "armorStealth": "Normal",
@@ -55,9 +55,9 @@
         "armorWeight": 12.0
     },
     "Leather": {
-        "armorClass": "11 + Dex modifier",
+        "armorClass": 11,
         "armorCurrencyDenomination": "GP",
-        "armorDescription": "The breastplate and shoulder protectors of this armor are made of leather that has been stiffened by being boiled in oil. The rest of the armor is made of softer and more flexible materials.",
+        "armorDescription": "The breastplate and shoulder protectors of this armor are made of leather that has been stiffened by being boiled in oil. The rest of the armor is made of softer and more flexible materials. AC: 11 + Dex modifier.",
         "armorName": "Leather",
         "armorPrice": 10.0,
         "armorStealth": "Normal",
@@ -66,9 +66,9 @@
         "armorWeight": 10.0
     },
     "Padded": {
-        "armorClass": "11 + Dex modifier",
+        "armorClass": 11,
         "armorCurrencyDenomination": "GP",
-        "armorDescription": "Padded armor consists of quilted layers of cloth and batting.",
+        "armorDescription": "Padded armor consists of quilted layers of cloth and batting. AC: 11 + Dex modifier.",
         "armorName": "Padded",
         "armorPrice": 5.0,
         "armorStealth": "Disadvantage",
@@ -77,7 +77,7 @@
         "armorWeight": 8.0
     },
     "Plate": {
-        "armorClass": "18",
+        "armorClass": 18,
         "armorCurrencyDenomination": "GP",
         "armorDescription": "Plate consists of shaped, interlocking metal plates to cover the entire body. A suit of plate includes gauntlets, heavy leather boots, a visored helmet, and thick layers of padding underneath the armor. Buckles and straps distribute the weight over the body.",
         "armorName": "Plate",
@@ -88,7 +88,7 @@
         "armorWeight": 65.0
     },
     "Ring mail": {
-        "armorClass": "14",
+        "armorClass": 14,
         "armorCurrencyDenomination": "GP",
         "armorDescription": "This armor is leather armor with heavy rings sewn into it. The rings help reinforce the armor against blows from swords and axes. Ring mail is inferior to chain mail, and it's usually worn only by those who can't afford better armor.",
         "armorName": "Ring mail",
@@ -99,9 +99,9 @@
         "armorWeight": 40.0
     },
     "Scale mail": {
-        "armorClass": "14 + Dex modifier (max 2)",
+        "armorClass": 14,
         "armorCurrencyDenomination": "GP",
-        "armorDescription": "This armor consists of a coat and leggings (and perhaps a separate skirt) of leather covered with overlapping pieces of metal, much like the scales of a fish. The suit includes gauntlets.",
+        "armorDescription": "This armor consists of a coat and leggings (and perhaps a separate skirt) of leather covered with overlapping pieces of metal, much like the scales of a fish. The suit includes gauntlets. AC: 14 + Dex modifier (max 2).",
         "armorName": "Scale mail",
         "armorPrice": 50.0,
         "armorStealth": "Disadvantage",
@@ -110,7 +110,7 @@
         "armorWeight": 45.0
     },
     "Shield": {
-        "armorClass": "+2",
+        "armorClass": 2,
         "armorCurrencyDenomination": "GP",
         "armorDescription": "A shield is made from wood or metal and is carried in one hand. Wielding a shield increases your Armor Class by 2. You can benefit from only one shield at a time.",
         "armorName": "Shield",
@@ -121,7 +121,7 @@
         "armorWeight": 6.0
     },
     "Splint": {
-        "armorClass": "17",
+        "armorClass": 17,
         "armorCurrencyDenomination": "GP",
         "armorDescription": "This armor is made of narrow vertical strips of metal riveted to a backing of leather that is worn over cloth padding. Flexible chain mail protects the joints.",
         "armorName": "Splint",
@@ -132,9 +132,9 @@
         "armorWeight": 60.0
     },
     "Studded leather": {
-        "armorClass": "12 + Dex modifier",
+        "armorClass": 12,
         "armorCurrencyDenomination": "GP",
-        "armorDescription": "Made from tough but flexible leather, studded leather is reinforced with close-set rivets or spikes.",
+        "armorDescription": "Made from tough but flexible leather, studded leather is reinforced with close-set rivets or spikes. AC: 12 + Dex modifier.",
         "armorName": "Studded leather",
         "armorPrice": 45.0,
         "armorStealth": "Normal",
