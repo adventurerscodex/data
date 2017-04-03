@@ -1,9 +1,8 @@
 {
-  "source": [
-    {
+  "source": {
       "name": "Enchanted Learning",
       "url": "http://www.enchantedlearning.com/wordlist/adjectives.shtml"
-    },
+  },
   "values": [
     "abandoned",
     "able",
