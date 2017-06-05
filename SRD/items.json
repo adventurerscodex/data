@@ -49,6 +49,13 @@
             "itemName": "Alchemist's supplies",
             "itemWeight": 8.0
         },
+        "Alms box": {
+            "itemCost": 5.0,
+            "itemCurrencyDenomination": "CP",
+            "itemDesc": "",
+            "itemName": "Alms box",
+            "itemWeight": 0.5
+        },
         "Antitoxin (vial)": {
             "itemCost": 50.0,
             "itemCurrencyDenomination": "GP",
@@ -104,6 +111,13 @@
             "itemDesc": "",
             "itemName": "Backpack",
             "itemWeight": 5.0
+        },
+        "Bag of sand little": {
+            "itemCost": 2.0,
+            "itemCurrencyDenomination": "CP",
+            "itemDesc": "",
+            "itemName": "Bag of sand little",
+            "itemWeight": 0.5
         },
         "Bagpipes": {
             "itemCost": 30.0,
@@ -244,6 +258,13 @@
             "itemDesc": "This cylindrical leather case can hold up to ten rolled-up sheets of paper or five rolled-up sheets of parchment.",
             "itemName": "Case map or scroll",
             "itemWeight": 1.0
+        },
+        "Censer": {
+            "itemCost": 1.0,
+            "itemCurrencyDenomination": "GP",
+            "itemDesc": "",
+            "itemName": "Censer",
+            "itemWeight": 0.5
         },
         "Chain (10 feet)": {
             "itemCost": 5.0,
@@ -511,6 +532,13 @@
             "itemName": "Hunting trap",
             "itemWeight": 25.0
         },
+        "Incense block": {
+            "itemCost": 3.0,
+            "itemCurrencyDenomination": "SP",
+            "itemDesc": "",
+            "itemName": "Incense block",
+            "itemWeight": 0.5
+        },
         "Ink (1 ounce bottle)": {
             "itemCost": 10.0,
             "itemCurrencyDenomination": "GP",
@@ -538,6 +566,13 @@
             "itemDesc": "",
             "itemName": "Jug or pitcher",
             "itemWeight": 4.0
+        },
+        "Knife small": {
+            "itemCost": 1.0,
+            "itemCurrencyDenomination": "GP",
+            "itemDesc": "",
+            "itemName": "Knife small",
+            "itemWeight": 1.0
         },
         "Ladder (10-foot)": {
             "itemCost": 1.0,
@@ -882,6 +917,13 @@
             "itemName": "Spyglass",
             "itemWeight": 1.0
         },
+        "String (10 feet)": {
+            "itemCost": 1.0,
+            "itemCurrencyDenomination": "CP",
+            "itemDesc": "",
+            "itemName": "String (10 feet)",
+            "itemWeight": 0.0
+        },
         "Tent two-person": {
             "itemCost": 2.0,
             "itemCurrencyDenomination": "GP",
@@ -916,6 +958,13 @@
             "itemDesc": "A torch burns for 1 hour, providing bright light in a 20-foot radius and dim light for an additional 20 feet. If you make a melee attack with a burning torch and hit, it deals 1 fire damage.",
             "itemName": "Torch",
             "itemWeight": 1.0
+        },
+        "Vestments": {
+            "itemCost": 15.0,
+            "itemCurrencyDenomination": "GP",
+            "itemDesc": "",
+            "itemName": "Vestments",
+            "itemWeight": 6.0
         },
         "Vial": {
             "itemCost": 1.0,
