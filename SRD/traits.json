@@ -52,22 +52,32 @@
             "race": "Half-Orc"
         },
         "Ability Score Increase (Halfling)": {
-            "description": "Your Charisma score increases by 1.\n",
+            "description": "Your Dexterity score increases by 2.\n",
             "name": "Ability Score Increase",
             "race": "Halfling"
         },
         "Ability Score Increase (High Elf)": {
-            "description": "Your Intelligence score increases by 1.\n",
+            "description": "Your Dexterity score increases by 2.\n",
             "name": "Ability Score Increase",
             "race": "High Elf"
         },
         "Ability Score Increase (Hill Dwarf)": {
-            "description": "Your Wisdom score increases by 1.\n",
+            "description": "Your Constitution score increases by 2.\n",
             "name": "Ability Score Increase",
             "race": "Hill Dwarf"
         },
+        "Ability Score Increase (Human)": {
+            "description": "Your ability scores each increase by 1.\n",
+            "name": "Ability Score Increase",
+            "race": "Human"
+        },
+        "Ability Score Increase (Lightfoot Halfling)": {
+            "description": "Your Dexterity score increases by 2.\n",
+            "name": "Ability Score Increase",
+            "race": "Lightfoot Halfling"
+        },
         "Ability Score Increase (Rock Gnome)": {
-            "description": "Your Constitution score increases by 1.\n",
+            "description": "Your Intelligence score increases by 2.\n",
             "name": "Ability Score Increase",
             "race": "Rock Gnome"
         },
@@ -75,6 +85,26 @@
             "description": "Your Intelligence score increases by 1, and your Charisma score increases by 2.\n",
             "name": "Ability Score Increase",
             "race": "Tiefling"
+        },
+        "Additional Ability Score Increase (High Elf)": {
+            "description": "Your Intelligence score increases by 1.\n",
+            "name": "Additional Ability Score Increase",
+            "race": "High Elf"
+        },
+        "Additional Ability Score Increase (Hill Dwarf)": {
+            "description": "Your Wisdom score increases by 1.\n",
+            "name": "Additional Ability Score Increase",
+            "race": "Hill Dwarf"
+        },
+        "Additional Ability Score Increase (Lightfoot Halfling)": {
+            "description": "Your Charisma score increases by 1.\n",
+            "name": "Additional Ability Score Increase",
+            "race": "Lightfoot Halfling"
+        },
+        "Additional Ability Score Increase (Rock Gnome)": {
+            "description": "Your Constitution score increases by 1.\n",
+            "name": "Additional Ability Score Increase",
+            "race": "Rock Gnome"
         },
         "Age (Dragonborn)": {
             "description": "Young dragonborn grow quickly. They walk hours after hatching, attain the size and development of a 10-year-old human child by the age of 3, and reach adulthood by 15. They live to be around 80.\n",
@@ -111,10 +141,30 @@
             "name": "Age",
             "race": "Halfling"
         },
+        "Age (High Elf)": {
+            "description": "Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old.\n",
+            "name": "Age",
+            "race": "High Elf"
+        },
+        "Age (Hill Dwarf)": {
+            "description": "Dwarves mature at the same rate as humans, but they're considered young until they reach the age of 50. On average, they live about 350 years.\n",
+            "name": "Age",
+            "race": "Hill Dwarf"
+        },
         "Age (Human)": {
             "description": "Humans reach adulthood in their late teens and live less than a century.\n",
             "name": "Age",
             "race": "Human"
+        },
+        "Age (Lightfoot Halfling)": {
+            "description": "A halfling reaches adulthood at the age of 20 and generally lives into the middle of his or her second century.\n",
+            "name": "Age",
+            "race": "Lightfoot Halfling"
+        },
+        "Age (Rock Gnome)": {
+            "description": "Gnomes mature at the same rate humans do, and most are expected to settle down into an adult life by around age 40. They can live 350 to almost 500 years.\n",
+            "name": "Age",
+            "race": "Rock Gnome"
         },
         "Age (Tiefling)": {
             "description": "Tieflings mature at the same rate as humans but live a few years longer.\n",
@@ -156,10 +206,30 @@
             "name": "Alignment",
             "race": "Halfling"
         },
+        "Alignment (High Elf)": {
+            "description": "Elves love freedom, variety, and selfexpression, so they lean strongly toward the gentler aspects of chaos. They value and protect others' freedom as well as their own, and they are more often good than not.\n",
+            "name": "Alignment",
+            "race": "High Elf"
+        },
+        "Alignment (Hill Dwarf)": {
+            "description": "Most dwarves are lawful, believing firmly in the benefits of a well-ordered society. They tend toward good as well, with a strong sense of fair play and a belief that everyone deserves to share in the benefits of a just order.\n",
+            "name": "Alignment",
+            "race": "Hill Dwarf"
+        },
         "Alignment (Human)": {
             "description": "Humans tend toward no particular alignment. The best and the worst are found among them.\n",
             "name": "Alignment",
             "race": "Human"
+        },
+        "Alignment (Lightfoot Halfling)": {
+            "description": "Most halflings are lawful good. As a rule, they are good-hearted and kind, hate to see others in pain, and have no tolerance for oppression. They are also very orderly and traditional, leaning heavily on the support of their community and the comfort of their old ways.\n",
+            "name": "Alignment",
+            "race": "Lightfoot Halfling"
+        },
+        "Alignment (Rock Gnome)": {
+            "description": "Gnomes are most often good. Those who tend toward law are sages, engineers, researchers, scholars, investigators, or inventors. Those who tend toward chaos are minstrels, tricksters, wanderers, or fanciful jewelers. Gnomes are good-hearted, and even the tricksters among them are more playful than vicious.\n",
+            "name": "Alignment",
+            "race": "Rock Gnome"
         },
         "Alignment (Tiefling)": {
             "description": "Tieflings might not have an innate tendency toward evil, but many of them end up there. Evil or not, an independent nature inclines many tieflings toward a chaotic alignment.\n",
@@ -176,10 +246,20 @@
             "name": "Brave",
             "race": "Halfling"
         },
+        "Brave (Lightfoot Halfling)": {
+            "description": "You have advantage on saving throws against being frightened.\n",
+            "name": "Brave",
+            "race": "Lightfoot Halfling"
+        },
         "Breath Weapon (Dragonborn)": {
             "description": "You can use your action to exhale destructive energy. Your draconic ancestry determines the size, shape, and damage type of the exhalation.\n\nWhen you use your breath weapon, each creature in the area of the exhalation must make a saving throw, the type of which is determined by your draconic ancestry. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 damage on a failed save, and half as much damage on a successful one. The damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16th level.\n\nAfter you use your breath weapon, you can't use it again until you complete a short or long rest.\n",
             "name": "Breath Weapon",
             "race": "Dragonborn"
+        },
+        "Cantrip (High Elf)": {
+            "description": "You know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it.\n",
+            "name": "Cantrip",
+            "race": "High Elf"
         },
         "Damage Resistance (Dragonborn)": {
             "description": "You have resistance to the damage type associated with your draconic ancestry.\n",
@@ -206,6 +286,26 @@
             "name": "Darkvision",
             "race": "Half-Elf"
         },
+        "Darkvision (Half-Orc)": {
+            "description": "Thanks to your orc blood, you have superior vision in dark and dim conditions. You can see in  dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can\u2019t discern color in darkness, only shades of gray.\n",
+            "name": "Darkvision",
+            "race": "Half-Orc"
+        },
+        "Darkvision (High Elf)": {
+            "description": "Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.\n",
+            "name": "Darkvision",
+            "race": "High Elf"
+        },
+        "Darkvision (Hill Dwarf)": {
+            "description": "Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.\n",
+            "name": "Darkvision",
+            "race": "Hill Dwarf"
+        },
+        "Darkvision (Rock Gnome)": {
+            "description": "Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.\n",
+            "name": "Darkvision",
+            "race": "Rock Gnome"
+        },
         "Darkvision (Tiefling)": {
             "description": "Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.\n",
             "name": "Darkvision",
@@ -221,10 +321,20 @@
             "name": "Dwarven Combat Training",
             "race": "Dwarf"
         },
+        "Dwarven Combat Training (Hill Dwarf)": {
+            "description": "You have proficiency with the battleaxe, handaxe, light hammer, and warhammer.\n",
+            "name": "Dwarven Combat Training",
+            "race": "Hill Dwarf"
+        },
         "Dwarven Resilience (Dwarf)": {
             "description": "You have advantage on saving throws against poison, and you have resistance against poison damage.\n",
             "name": "Dwarven Resilience",
             "race": "Dwarf"
+        },
+        "Dwarven Resilience (Hill Dwarf)": {
+            "description": "You have advantage on saving throws against poison, and you have resistance against poison damage.\n",
+            "name": "Dwarven Resilience",
+            "race": "Hill Dwarf"
         },
         "Dwarven Toughness (Hill Dwarf)": {
             "description": "Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.\n",
@@ -232,7 +342,7 @@
             "race": "Hill Dwarf"
         },
         "Elf Weapon Training (High Elf)": {
-            "description": "You have proficiency with the longsword, shortsword, shortbow, and longbow. Cantrip. You know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it.\n",
+            "description": "You have proficiency with the longsword, shortsword, shortbow, and longbow.\n",
             "name": "Elf Weapon Training",
             "race": "High Elf"
         },
@@ -251,15 +361,30 @@
             "name": "Fey Ancestry",
             "race": "Half-Elf"
         },
+        "Fey Ancestry (High Elf)": {
+            "description": "You have advantage on saving throws against being charmed, and magic can't put you to sleep.\n",
+            "name": "Fey Ancestry",
+            "race": "High Elf"
+        },
         "Gnome Cunning (Gnome)": {
             "description": "You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic.\n",
             "name": "Gnome Cunning",
             "race": "Gnome"
         },
+        "Gnome Cunning (Rock Gnome)": {
+            "description": "You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic.\n",
+            "name": "Gnome Cunning",
+            "race": "Rock Gnome"
+        },
         "Halfling Nimbleness (Halfling)": {
             "description": "You can move through the space of any creature that is of a size larger than yours.\n",
             "name": "Halfling Nimbleness",
             "race": "Halfling"
+        },
+        "Halfling Nimbleness (Lightfoot Halfling)": {
+            "description": "You can move through the space of any creature that is of a size larger than yours.\n",
+            "name": "Halfling Nimbleness",
+            "race": "Lightfoot Halfling"
         },
         "Hellish Resistance (Tiefling)": {
             "description": "You have resistance to fire damage.\n",
@@ -276,20 +401,30 @@
             "name": "Keen Senses",
             "race": "Elf"
         },
-        "Lightfoot (Halfling)": {
-            "description": "As a lightfoot halfling, you can easily hide from notice, even using other people as cover. You're inclined to be affable and get along well with others. Lightfoots are more prone to wanderlust than other halflings, and often dwell alongside other races or take up a nomadic life.\n",
-            "name": "Lightfoot",
+        "Keen Senses (High Elf)": {
+            "description": "You have proficiency in the Perception skill.\n",
+            "name": "Keen Senses",
+            "race": "High Elf"
+        },
+        "Lucky (Halfling)": {
+            "description": "When you roll a 1 on the d20 for an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll.\n",
+            "name": "Lucky",
             "race": "Halfling"
+        },
+        "Lucky (Lightfoot Halfling)": {
+            "description": "When you roll a 1 on the d20 for an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll.\n",
+            "name": "Lucky",
+            "race": "Lightfoot Halfling"
         },
         "Menacing (Half-Orc)": {
             "description": "You gain proficiency in the Intimidation skill.\n",
             "name": "Menacing",
             "race": "Half-Orc"
         },
-        "Naturally Stealthy (Halfling)": {
+        "Naturally Stealthy (Lightfoot Halfling)": {
             "description": "You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you.\n",
             "name": "Naturally Stealthy",
-            "race": "Halfling"
+            "race": "Lightfoot Halfling"
         },
         "Relentless Endurance (Half-Orc)": {
             "description": "When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can't use this feature again until you finish a long rest.\n",
@@ -336,10 +471,30 @@
             "name": "Size",
             "race": "Halfling"
         },
+        "Size (High Elf)": {
+            "description": "Elves range from under 5 to over 6 feet tall and have slender builds. Your size is Medium.\n",
+            "name": "Size",
+            "race": "High Elf"
+        },
+        "Size (Hill Dwarf)": {
+            "description": "Dwarves stand between 4 and 5 feet tall and average about 150 pounds. Your size is Medium.\n",
+            "name": "Size",
+            "race": "Hill Dwarf"
+        },
         "Size (Human)": {
             "description": "Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium.\n",
             "name": "Size",
             "race": "Human"
+        },
+        "Size (Lightfoot Halfling)": {
+            "description": "Halflings average about 3 feet tall and weigh about 40 pounds. Your size is Small.\n",
+            "name": "Size",
+            "race": "Lightfoot Halfling"
+        },
+        "Size (Rock Gnome)": {
+            "description": "Gnomes are between 3 and 4 feet tall and average about 40 pounds. Your size is Small.\n",
+            "name": "Size",
+            "race": "Rock Gnome"
         },
         "Size (Tiefling)": {
             "description": "Tieflings are about the same size and build as humans. Your size is Medium.\n",
@@ -382,14 +537,34 @@
             "race": "Half-Orc"
         },
         "Speed (Halfling)": {
-            "description": "Your base walking speed is 25 feet. Lucky. When you roll a 1 on the d20 for an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll.\n",
+            "description": "Your base walking speed is 25 feet.\n",
             "name": "Speed",
             "race": "Halfling"
+        },
+        "Speed (High Elf)": {
+            "description": "Your base walking speed is 30 feet.\n",
+            "name": "Speed",
+            "race": "High Elf"
+        },
+        "Speed (Hill Dwarf)": {
+            "description": "Your base walking speed is 25 feet. Your speed is not reduced by wearing heavy armor.\n",
+            "name": "Speed",
+            "race": "Hill Dwarf"
         },
         "Speed (Human)": {
             "description": "Your base walking speed is 30 feet.\n",
             "name": "Speed",
             "race": "Human"
+        },
+        "Speed (Lightfoot Halfling)": {
+            "description": "Your base walking speed is 25 feet.\n",
+            "name": "Speed",
+            "race": "Lightfoot Halfling"
+        },
+        "Speed (Rock Gnome)": {
+            "description": "Your base walking speed is 25 feet.\n",
+            "name": "Speed",
+            "race": "Rock Gnome"
         },
         "Speed (Tiefling)": {
             "description": "Your base walking speed is 30 feet.\n",
@@ -401,6 +576,11 @@
             "name": "Stonecunning",
             "race": "Dwarf"
         },
+        "Stonecunning (Hill Dwarf)": {
+            "description": "Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.\n",
+            "name": "Stonecunning",
+            "race": "Hill Dwarf"
+        },
         "Tinker (Rock Gnome)": {
             "description": "You have proficiency with artisan's tools (tinker's tools). Using those tools, you can spend 1 hour and 10 gp worth of materials to construct a Tiny clockwork device (AC 5, 1 hp). The device ceases to function after 24 hours (unless you spend 1 hour repairing it to keep the device functioning), or when you use your action to dismantle it; at that time, you can reclaim the materials used to create it. You can have up to three such devices active at a time.\n\nWhen you create a device, choose one of the\nfollowing options:\n\nClockwork Toy. This toy is a clockwork animal, monster, or person, such as a frog, mouse, bird, dragon, or soldier. When placed on the ground, the toy moves 5 feet across the ground on each of your turns in a random direction. It makes noises as appropriate to the creature it represents.\n\nFire Starter. The device produces a miniature flame, which you can use to light a candle, torch, or campfire. Using the device requires your action.\n\nMusic Box. When opened, this music box plays a single song at a moderate volume. The box stops playing when it reaches the song's end or when it is closed.\n",
             "name": "Tinker",
@@ -410,6 +590,11 @@
             "description": "Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is \"trance.\") While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.\n",
             "name": "Trance",
             "race": "Elf"
+        },
+        "Trance (High Elf)": {
+            "description": "Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is \"trance.\") While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.\n",
+            "name": "Trance",
+            "race": "High Elf"
         }
     }
 }
