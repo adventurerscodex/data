@@ -1,0 +1,19 @@
+{
+    "values": [
+        {
+            "Level_1_High_Elf_Wizard_Alcolyte": "/data/templates/characters/level_1_high_elf_wizard_alcolyte"
+        },
+        {
+            "Level_1_Hill_Dwarf_Cleric_Soldier": "/data/templates/characters/level_1_hill_dwarf_cleric_soldier"
+        },
+        {
+            "Level_1_Human_Fighter_Folk_Hero": "/data/templates/characters/level_1_human_fighter_folk_hero"
+        },
+        {
+            "Level_1_Human_Fighter_Folk_Hero": "/data/templates/characters/level_1_human_fighter_folk_hero"
+        },
+        {
+            "Level_1_Lightfoot_Halfling_Rogue_Criminal": "/data/templates/characters/level_1_lightfoot_halfling_rogue_criminal"
+        }
+    ]
+}
