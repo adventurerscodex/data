@@ -1,0 +1,585 @@
+{
+    "license": {
+        "license": [
+            "OPEN GAME LICENSE Version 1.0a",
+            "1. Definitions: (a)\"Contributors\" means the copyright and/or trademark owners who have contributed Open Game Content; (b)\"Derivative Material\" means copyrighted material including derivative works and translations (including into other computer languages), potation, modification, correction, addition, extension, upgrade, improvement, compilation, abridgment or other form in which an existing work may be recast, transformed or adapted; (c) \"Distribute\" means to reproduce, license, rent, lease, sell, broadcast, publicly display, transmit or otherwise distribute; (d)\"Open Game Content\" means the game mechanic and includes the methods, procedures, processes and routines to the extent such content does not embody the Product Identity and is an enhancement over the prior art and any additional content clearly identified as Open Game Content by the Contributor, and means any work covered by this License, including translations and derivative works under copyright law, but specifically excludes Product Identity. (e) \"Product Identity\" means product and product line names, logos and identifying marks including trade dress; artifacts; creatures characters; stories, storylines, plots, thematic elements, dialogue, incidents, language, artwork, symbols, designs, depictions, likenesses, formats, poses, concepts, themes and graphic, photographic and other visual or audio representations; names and descriptions of characters, spells, enchantments, personalities, teams, personas, likenesses and special abilities; places, locations, environments, creatures, equipment, magical or supernatural abilities or effects, logos, symbols, or graphic designs; and any other trademark or registered trademark clearly identified as Product identity by the owner of the Product Identity, and which specifically excludes the Open Game Content; (f) \"Trademark\" means the logos, names, mark, sign, motto, designs that are used by a Contributor to identify itself or its products or the associated products contributed to the Open Game License by the Contributor (g) \"Use\", \"Used\" or \"Using\" means to use, Distribute, copy, edit, format, modify, translate and otherwise create Derivative Material of Open Game Content. (h) \"You\" or \"Your\" means the licensee in terms of this agreement.",
+            "2. The License: This License applies to any Open Game Content that contains a notice indicating that the Open Game Content may only be Used under and in terms of this License. You must affix such a notice to any Open Game Content that you Use. No terms may be added to or subtracted from this License except as described by the License itself. No other terms or conditions may be applied to any Open Game Content distributed using this License.",
+            "3. Offer and Acceptance: By Using the Open Game Content You indicate Your acceptance of the terms of this License.",
+            "4. Grant and Consideration: In consideration for agreeing to use this License, the Contributors grant You a perpetual, worldwide, royalty-free, nonexclusive license with the exact terms of this License to Use, the Open Game Content.",
+            "5. Representation of Authority to Contribute: If You are contributing original material as Open Game Content, You represent that Your Contributions are Your original creation and/or You have sufficient rights to grant the rights conveyed by this License.",
+            "6. Notice of License Copyright: You must update the COPYRIGHT NOTICE portion of this License to include the exact text of the COPYRIGHT NOTICE of any Open Game Content You are copying, modifying or distributing, and You must add the title, the copyright date, and the copyright holder's name to the COPYRIGHT NOTICE of any original Open Game Content you Distribute.",
+            "7. Use of Product Identity: You agree not to Use any Product Identity, including as an indication as to compatibility, except as expressly licensed in another, independent Agreement with the owner of each element of that Product Identity. You agree not to indicate compatibility or co-adaptability with any Trademark or Registered Trademark in conjunction with a work containing Open Game Content except as expressly licensed in another, independent Agreement with the owner of such Trademark or Registered Trademark. The use of any Product Identity in Open Game Content does not constitute a challenge to the ownership of that Product Identity. The owner of any Product Identity used in Open Game Content shall retain all rights, title and interest in and to that Product Identity.",
+            "8. Identification: If you distribute Open Game Content You must clearly indicate which portions of the work that you are distributing are Open Game Content.",
+            "9. Updating the License: Wizards or its designated Agents may publish updated versions of this License. You may use any authorized version of this License to copy, modify and distribute any Open Game Content originally distributed under any version of this License.",
+            "10. Copy of this License: You MUST include a copy of this License with every copy of the Open Game Content You Distribute.",
+            "11. Use of Contributor Credits: You may not market or advertise the Open Game Content using the name of any Contributor unless You have written permission from the Contributor to do so.",
+            "12. Inability to Comply: If it is impossible for You to comply with any of the terms of this License with respect to some or all of the Open Game Content due to statute, judicial order, or governmental regulation then You may not Use any Open Game Material so affected.",
+            "13. Termination: This License will terminate automatically if You fail to comply with all terms herein and fail to cure such breach within 30 days of becoming aware of the breach. All sublicenses shall survive the termination of this License.",
+            "14. Reformation: If any provision of this License is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable.",
+            "15. COPYRIGHT NOTICE Open Game License v 1.0a Copyright 2000, Wizards of the Coast, LLC.",
+            "System Reference Document 5.1 Copyright 2016, Wizards of the Coast, Inc.; Authors Mike Mearls, Jeremy Crawford, Chris Perkins, Rodney Thompson, Peter Lee, James Wyatt, Robert J. Schwalb, Bruce R. Cordell, Chris Sims, and Steve Townshend, based on original material by E. Gary Gygax and Dave Arneson."
+        ]
+    },
+    "values": {
+        "Abyssal": {
+            "description": "",
+            "name": "Abyssal",
+            "type": "Languages"
+        },
+        "Alchemist's supplies": {
+            "description": "",
+            "name": "Alchemist's supplies",
+            "type": "Tools"
+        },
+        "Artisan's tools": {
+            "description": "",
+            "name": "Artisan's tools",
+            "type": "Tools"
+        },
+        "Bagpipes": {
+            "description": "",
+            "name": "Bagpipes",
+            "type": "Tools"
+        },
+        "Battleaxes": {
+            "description": "",
+            "name": "Battleaxes",
+            "type": "Weapon"
+        },
+        "Blowguns": {
+            "description": "",
+            "name": "Blowguns",
+            "type": "Weapon"
+        },
+        "Breastplate": {
+            "description": "",
+            "name": "Breastplate",
+            "type": "Armor"
+        },
+        "Brewer's supplies": {
+            "description": "",
+            "name": "Brewer's supplies",
+            "type": "Tools"
+        },
+        "Calligrapher's supplies": {
+            "description": "",
+            "name": "Calligrapher's supplies",
+            "type": "Tools"
+        },
+        "Carpenter's tools": {
+            "description": "",
+            "name": "Carpenter's tools",
+            "type": "Tools"
+        },
+        "Cartographer's tools": {
+            "description": "",
+            "name": "Cartographer's tools",
+            "type": "Tools"
+        },
+        "Celestial": {
+            "description": "",
+            "name": "Celestial",
+            "type": "Languages"
+        },
+        "Chain mail": {
+            "description": "",
+            "name": "Chain mail",
+            "type": "Armor"
+        },
+        "Chain shirt": {
+            "description": "",
+            "name": "Chain shirt",
+            "type": "Armor"
+        },
+        "Clubs": {
+            "description": "",
+            "name": "Clubs",
+            "type": "Weapon"
+        },
+        "Cobbler's tools": {
+            "description": "",
+            "name": "Cobbler's tools",
+            "type": "Tools"
+        },
+        "Common": {
+            "description": "",
+            "name": "Common",
+            "type": "Languages"
+        },
+        "Cook's utensils": {
+            "description": "",
+            "name": "Cook's utensils",
+            "type": "Tools"
+        },
+        "Crossbows, hand": {
+            "description": "",
+            "name": "Crossbows, hand",
+            "type": "Weapon"
+        },
+        "Crossbows, heavy": {
+            "description": "",
+            "name": "Crossbows, heavy",
+            "type": "Weapon"
+        },
+        "Crossbows, light": {
+            "description": "",
+            "name": "Crossbows, light",
+            "type": "Weapon"
+        },
+        "Daggers": {
+            "description": "",
+            "name": "Daggers",
+            "type": "Weapon"
+        },
+        "Darts": {
+            "description": "",
+            "name": "Darts",
+            "type": "Weapon"
+        },
+        "Deep Speech": {
+            "description": "",
+            "name": "Deep Speech",
+            "type": "Languages"
+        },
+        "Dice set": {
+            "description": "",
+            "name": "Dice set",
+            "type": "Tools"
+        },
+        "Disguise kit": {
+            "description": "",
+            "name": "Disguise kit",
+            "type": "Tools"
+        },
+        "Draconic": {
+            "description": "",
+            "name": "Draconic",
+            "type": "Languages"
+        },
+        "Drum": {
+            "description": "",
+            "name": "Drum",
+            "type": "Tools"
+        },
+        "Dulcimer": {
+            "description": "",
+            "name": "Dulcimer",
+            "type": "Tools"
+        },
+        "Dwarvish": {
+            "description": "",
+            "name": "Dwarvish",
+            "type": "Languages"
+        },
+        "Elvish": {
+            "description": "",
+            "name": "Elvish",
+            "type": "Languages"
+        },
+        "Flails": {
+            "description": "",
+            "name": "Flails",
+            "type": "Weapon"
+        },
+        "Flute": {
+            "description": "",
+            "name": "Flute",
+            "type": "Tools"
+        },
+        "Forgery kit": {
+            "description": "",
+            "name": "Forgery kit",
+            "type": "Tools"
+        },
+        "Gaming set": {
+            "description": "",
+            "name": "Gaming set",
+            "type": "Tools"
+        },
+        "Giant": {
+            "description": "",
+            "name": "Giant",
+            "type": "Languages"
+        },
+        "Glaives": {
+            "description": "",
+            "name": "Glaives",
+            "type": "Weapon"
+        },
+        "Glassblower's tools": {
+            "description": "",
+            "name": "Glassblower's tools",
+            "type": "Tools"
+        },
+        "Gnomish": {
+            "description": "",
+            "name": "Gnomish",
+            "type": "Languages"
+        },
+        "Goblin": {
+            "description": "",
+            "name": "Goblin",
+            "type": "Languages"
+        },
+        "Greataxes": {
+            "description": "",
+            "name": "Greataxes",
+            "type": "Weapon"
+        },
+        "Greatclubs": {
+            "description": "",
+            "name": "Greatclubs",
+            "type": "Weapon"
+        },
+        "Greatswords": {
+            "description": "",
+            "name": "Greatswords",
+            "type": "Weapon"
+        },
+        "Halberds": {
+            "description": "",
+            "name": "Halberds",
+            "type": "Weapon"
+        },
+        "Half plate": {
+            "description": "",
+            "name": "Half plate",
+            "type": "Armor"
+        },
+        "Halfling": {
+            "description": "",
+            "name": "Halfling",
+            "type": "Languages"
+        },
+        "Handaxes": {
+            "description": "",
+            "name": "Handaxes",
+            "type": "Weapon"
+        },
+        "Heavy Armor": {
+            "description": "",
+            "name": "Heavy Armor",
+            "type": "Armor"
+        },
+        "Herbalism kit": {
+            "description": "",
+            "name": "Herbalism kit",
+            "type": "Tools"
+        },
+        "Hide": {
+            "description": "",
+            "name": "Hide",
+            "type": "Armor"
+        },
+        "Horn": {
+            "description": "",
+            "name": "Horn",
+            "type": "Tools"
+        },
+        "Infernal": {
+            "description": "",
+            "name": "Infernal",
+            "type": "Languages"
+        },
+        "Javelins": {
+            "description": "",
+            "name": "Javelins",
+            "type": "Weapon"
+        },
+        "Jeweler's tools": {
+            "description": "",
+            "name": "Jeweler's tools",
+            "type": "Tools"
+        },
+        "Lances": {
+            "description": "",
+            "name": "Lances",
+            "type": "Weapon"
+        },
+        "Leather": {
+            "description": "",
+            "name": "Leather",
+            "type": "Armor"
+        },
+        "Leatherworker's tools": {
+            "description": "",
+            "name": "Leatherworker's tools",
+            "type": "Tools"
+        },
+        "Light Armor": {
+            "description": "",
+            "name": "Light Armor",
+            "type": "Armor"
+        },
+        "Light hammers": {
+            "description": "",
+            "name": "Light hammers",
+            "type": "Weapon"
+        },
+        "Longbows": {
+            "description": "",
+            "name": "Longbows",
+            "type": "Weapon"
+        },
+        "Longswords": {
+            "description": "",
+            "name": "Longswords",
+            "type": "Weapon"
+        },
+        "Lute": {
+            "description": "",
+            "name": "Lute",
+            "type": "Tools"
+        },
+        "Lyre": {
+            "description": "",
+            "name": "Lyre",
+            "type": "Tools"
+        },
+        "Maces": {
+            "description": "",
+            "name": "Maces",
+            "type": "Weapon"
+        },
+        "Martial Melee Weapons": {
+            "description": "",
+            "name": "Martial Melee Weapons",
+            "type": "Weapon"
+        },
+        "Martial Ranged Weapons": {
+            "description": "",
+            "name": "Martial Ranged Weapons",
+            "type": "Weapon"
+        },
+        "Mason's tools": {
+            "description": "",
+            "name": "Mason's tools",
+            "type": "Tools"
+        },
+        "Mauls": {
+            "description": "",
+            "name": "Mauls",
+            "type": "Weapon"
+        },
+        "Medium Armor": {
+            "description": "",
+            "name": "Medium Armor",
+            "type": "Armor"
+        },
+        "Morningstars": {
+            "description": "",
+            "name": "Morningstars",
+            "type": "Weapon"
+        },
+        "Musical instrument": {
+            "description": "",
+            "name": "Musical instrument",
+            "type": "Tools"
+        },
+        "Navigator's tools": {
+            "description": "",
+            "name": "Navigator's tools",
+            "type": "Tools"
+        },
+        "Nets": {
+            "description": "",
+            "name": "Nets",
+            "type": "Weapon"
+        },
+        "Orc": {
+            "description": "",
+            "name": "Orc",
+            "type": "Languages"
+        },
+        "Padded": {
+            "description": "",
+            "name": "Padded",
+            "type": "Armor"
+        },
+        "Painter's supplies": {
+            "description": "",
+            "name": "Painter's supplies",
+            "type": "Tools"
+        },
+        "Pan flute": {
+            "description": "",
+            "name": "Pan flute",
+            "type": "Tools"
+        },
+        "Pikes": {
+            "description": "",
+            "name": "Pikes",
+            "type": "Weapon"
+        },
+        "Plate": {
+            "description": "",
+            "name": "Plate",
+            "type": "Armor"
+        },
+        "Playing card": {
+            "description": "",
+            "name": "Playing card",
+            "type": "Tools"
+        },
+        "Poisoner's kit": {
+            "description": "",
+            "name": "Poisoner's kit",
+            "type": "Tools"
+        },
+        "Potter's tools": {
+            "description": "",
+            "name": "Potter's tools",
+            "type": "Tools"
+        },
+        "Primordial": {
+            "description": "",
+            "name": "Primordial",
+            "type": "Languages"
+        },
+        "Quarterstaffs": {
+            "description": "",
+            "name": "Quarterstaffs",
+            "type": "Weapon"
+        },
+        "Rapiers": {
+            "description": "",
+            "name": "Rapiers",
+            "type": "Weapon"
+        },
+        "Ring mail": {
+            "description": "",
+            "name": "Ring mail",
+            "type": "Armor"
+        },
+        "Scale mail": {
+            "description": "",
+            "name": "Scale mail",
+            "type": "Armor"
+        },
+        "Scimitars": {
+            "description": "",
+            "name": "Scimitars",
+            "type": "Weapon"
+        },
+        "Shawm": {
+            "description": "",
+            "name": "Shawm",
+            "type": "Tools"
+        },
+        "Shield": {
+            "description": "",
+            "name": "Shield",
+            "type": "Armor"
+        },
+        "Shortbows": {
+            "description": "",
+            "name": "Shortbows",
+            "type": "Weapon"
+        },
+        "Shortswords": {
+            "description": "",
+            "name": "Shortswords",
+            "type": "Weapon"
+        },
+        "Sickles": {
+            "description": "",
+            "name": "Sickles",
+            "type": "Weapon"
+        },
+        "Simple Melee Weapons": {
+            "description": "",
+            "name": "Simple Melee Weapons",
+            "type": "Weapon"
+        },
+        "Simple Ranged Weapons": {
+            "description": "",
+            "name": "Simple Ranged Weapons",
+            "type": "Weapon"
+        },
+        "Slings": {
+            "description": "",
+            "name": "Slings",
+            "type": "Weapon"
+        },
+        "Smith's tools": {
+            "description": "",
+            "name": "Smith's tools",
+            "type": "Tools"
+        },
+        "Spears": {
+            "description": "",
+            "name": "Spears",
+            "type": "Weapon"
+        },
+        "Splint": {
+            "description": "",
+            "name": "Splint",
+            "type": "Armor"
+        },
+        "Studded leather": {
+            "description": "",
+            "name": "Studded leather",
+            "type": "Armor"
+        },
+        "Sylvan": {
+            "description": "",
+            "name": "Sylvan",
+            "type": "Languages"
+        },
+        "Thieves' tools": {
+            "description": "",
+            "name": "Thieves' tools",
+            "type": "Tools"
+        },
+        "Tinker's tools": {
+            "description": "",
+            "name": "Tinker's tools",
+            "type": "Tools"
+        },
+        "Tridents": {
+            "description": "",
+            "name": "Tridents",
+            "type": "Weapon"
+        },
+        "Undercommon": {
+            "description": "",
+            "name": "Undercommon",
+            "type": "Languages"
+        },
+        "Vehicles (land or water)": {
+            "description": "",
+            "name": "Vehicles (land or water)",
+            "type": "Tools"
+        },
+        "Viol": {
+            "description": "",
+            "name": "Viol",
+            "type": "Tools"
+        },
+        "War Picks": {
+            "description": "",
+            "name": "War Picks",
+            "type": "Weapon"
+        },
+        "Warhammers": {
+            "description": "",
+            "name": "Warhammers",
+            "type": "Weapon"
+        },
+        "Weaver's tools": {
+            "description": "",
+            "name": "Weaver's tools",
+            "type": "Tools"
+        },
+        "Whips": {
+            "description": "",
+            "name": "Whips",
+            "type": "Weapon"
+        },
+        "Woodcarver's tools": {
+            "description": "",
+            "name": "Woodcarver's tools",
+            "type": "Tools"
+        }
+    }
+}
