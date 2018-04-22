@@ -31,10 +31,10 @@
             "isRitual": false,
             "level": 2,
             "materialComponents": "powdered rhubarb leaf and an adder's stomach",
+            "name": "Acid Arrow",
             "range": "90 feet",
             "saveAttr": "",
             "school": "Evocation",
-            "spellName": "Acid Arrow",
             "type": "Ranged Spell Attack"
         },
         "Acid Splash": {
@@ -47,10 +47,10 @@
             "isRitual": false,
             "level": 0,
             "materialComponents": "",
+            "name": "Acid Splash",
             "range": "60 feet",
             "saveAttr": "Dex",
             "school": "Conjuration",
-            "spellName": "Acid Splash",
             "type": "Savings Throw"
         },
         "Aid": {
@@ -63,10 +63,10 @@
             "isRitual": false,
             "level": 2,
             "materialComponents": "a tiny strip of white cloth",
+            "name": "Aid",
             "range": "30 feet",
             "saveAttr": "",
             "school": "Abjuration",
-            "spellName": "Aid",
             "type": "Automatic"
         },
         "Alarm": {
@@ -79,10 +79,10 @@
             "isRitual": true,
             "level": 1,
             "materialComponents": "a tiny bell and a piece of fine silver wire",
+            "name": "Alarm",
             "range": "30 feet",
             "saveAttr": "",
             "school": "Abjuration",
-            "spellName": "Alarm",
             "type": "Automatic"
         },
         "Alter Self": {
@@ -95,10 +95,10 @@
             "isRitual": false,
             "level": 2,
             "materialComponents": "",
+            "name": "Alter Self",
             "range": "Self",
             "saveAttr": "",
             "school": "Transmutation",
-            "spellName": "Alter Self",
             "type": "Automatic"
         },
         "Animal Friendship": {
@@ -111,10 +111,10 @@
             "isRitual": false,
             "level": 1,
             "materialComponents": "a morsel of food",
+            "name": "Animal Friendship",
             "range": "30 feet",
             "saveAttr": "Wis",
             "school": "Enchantment",
-            "spellName": "Animal Friendship",
             "type": "Savings Throw"
         },
         "Animal Messenger": {
@@ -127,10 +127,10 @@
             "isRitual": true,
             "level": 2,
             "materialComponents": "a morsel of food",
+            "name": "Animal Messenger",
             "range": "30 feet",
             "saveAttr": "",
             "school": "Enchantment",
-            "spellName": "Animal Messenger",
             "type": "Automatic"
         },
         "Animal Shapes": {
@@ -143,10 +143,10 @@
             "isRitual": false,
             "level": 8,
             "materialComponents": "",
+            "name": "Animal Shapes",
             "range": "30 feet",
             "saveAttr": "",
             "school": "Transmutation",
-            "spellName": "Animal Shapes",
             "type": "Automatic"
         },
         "Animate Dead": {
@@ -159,10 +159,10 @@
             "isRitual": false,
             "level": 3,
             "materialComponents": "a drop of blood, a piece of flesh, and a pinch of bone dust",
+            "name": "Animate Dead",
             "range": "10 feet",
             "saveAttr": "",
             "school": "Necromancy",
-            "spellName": "Animate Dead",
             "type": "Automatic"
         },
         "Animate Objects": {
@@ -175,10 +175,10 @@
             "isRitual": false,
             "level": 5,
             "materialComponents": "",
+            "name": "Animate Objects",
             "range": "120 feet",
             "saveAttr": "",
             "school": "Transmutation",
-            "spellName": "Animate Objects",
             "type": "Automatic"
         },
         "Antilife Shell": {
@@ -191,10 +191,10 @@
             "isRitual": false,
             "level": 5,
             "materialComponents": "",
+            "name": "Antilife Shell",
             "range": "Self (10-foot radius)",
             "saveAttr": "",
             "school": "Abjuration",
-            "spellName": "Antilife Shell",
             "type": "Automatic"
         },
         "Antimagic Field": {
@@ -207,10 +207,10 @@
             "isRitual": false,
             "level": 8,
             "materialComponents": "a pinch of powdered iron or iron filings",
+            "name": "Antimagic Field",
             "range": "Self (10-foot-radius sphere)",
             "saveAttr": "",
             "school": "Abjuration",
-            "spellName": "Antimagic Field",
             "type": "Automatic"
         },
         "Antipathy/Sympathy": {
@@ -223,10 +223,10 @@
             "isRitual": false,
             "level": 8,
             "materialComponents": "either a lump of alum soaked in vinegar for the antipathy effect or a drop of honey for the sympathy effect",
+            "name": "Antipathy/Sympathy",
             "range": "60 feet",
             "saveAttr": "Wis",
             "school": "Enchantment",
-            "spellName": "Antipathy/Sympathy",
             "type": "Savings Throw"
         },
         "Arcane Eye": {
@@ -239,10 +239,10 @@
             "isRitual": false,
             "level": 4,
             "materialComponents": "a bit of bat fur",
+            "name": "Arcane Eye",
             "range": "30 feet",
             "saveAttr": "",
             "school": "Divination",
-            "spellName": "Arcane Eye",
             "type": "Automatic"
         },
         "Arcane Hand": {
@@ -255,10 +255,10 @@
             "isRitual": false,
             "level": 5,
             "materialComponents": "an eggshell and a snakeskin glove",
+            "name": "Arcane Hand",
             "range": "120 feet",
             "saveAttr": "",
             "school": "Evocation",
-            "spellName": "Arcane Hand",
             "type": "Automatic"
         },
         "Arcane Lock": {
@@ -271,10 +271,10 @@
             "isRitual": false,
             "level": 2,
             "materialComponents": "gold dust worth at least 25 gp, which the spell consumes",
+            "name": "Arcane Lock",
             "range": "Touch",
             "saveAttr": "",
             "school": "Abjuration",
-            "spellName": "Arcane Lock",
             "type": "Automatic"
         },
         "Arcane Sword": {
@@ -287,10 +287,10 @@
             "isRitual": false,
             "level": 7,
             "materialComponents": "a miniature platinum sword with a grip and pommel of copper and zinc, worth 250 gp",
+            "name": "Arcane Sword",
             "range": "60 feet",
             "saveAttr": "",
             "school": "Evocation",
-            "spellName": "Arcane Sword",
             "type": "Automatic"
         },
         "Arcanist's Magic Aura": {
@@ -303,10 +303,10 @@
             "isRitual": false,
             "level": 2,
             "materialComponents": "a small square of silk",
+            "name": "Arcanist's Magic Aura",
             "range": "Touch",
             "saveAttr": "",
             "school": "Illusion",
-            "spellName": "Arcanist's Magic Aura",
             "type": "Automatic"
         },
         "Astral Projection": {
@@ -319,10 +319,10 @@
             "isRitual": false,
             "level": 9,
             "materialComponents": "for each creature you affect with this spell, you must provide one jacinth worth at least 1,000 gp and one ornately carved bar of silver worth at least 100 gp, all of which the spell consumes",
+            "name": "Astral Projection",
             "range": "10 feet",
             "saveAttr": "",
             "school": "Necromancy",
-            "spellName": "Astral Projection",
             "type": "Automatic"
         },
         "Augury": {
@@ -335,10 +335,10 @@
             "isRitual": true,
             "level": 2,
             "materialComponents": "specially marked sticks, bones, or similar tokens worth at least 25 gp",
+            "name": "Augury",
             "range": "Self",
             "saveAttr": "",
             "school": "Divination",
-            "spellName": "Augury",
             "type": "Automatic"
         },
         "Awaken": {
@@ -351,10 +351,10 @@
             "isRitual": false,
             "level": 5,
             "materialComponents": "an agate worth at least 1,000 gp, which the spell consumes",
+            "name": "Awaken",
             "range": "Touch",
             "saveAttr": "",
             "school": "Transmutation",
-            "spellName": "Awaken",
             "type": "Automatic"
         },
         "Bane": {
@@ -367,10 +367,10 @@
             "isRitual": false,
             "level": 1,
             "materialComponents": "a drop of blood",
+            "name": "Bane",
             "range": "30 feet",
             "saveAttr": "Cha",
             "school": "Enchantment",
-            "spellName": "Bane",
             "type": "Savings Throw"
         },
         "Banishment": {
@@ -383,10 +383,10 @@
             "isRitual": false,
             "level": 4,
             "materialComponents": "an item distasteful to the target",
+            "name": "Banishment",
             "range": "60 feet",
             "saveAttr": "Cha",
             "school": "Abjuration",
-            "spellName": "Banishment",
             "type": "Savings Throw"
         },
         "Barkskin": {
@@ -399,10 +399,10 @@
             "isRitual": false,
             "level": 2,
             "materialComponents": "a handful of oak bark",
+            "name": "Barkskin",
             "range": "Touch",
             "saveAttr": "",
             "school": "Transmutation",
-            "spellName": "Barkskin",
             "type": "Automatic"
         },
         "Beacon of Hope": {
@@ -415,10 +415,10 @@
             "isRitual": false,
             "level": 3,
             "materialComponents": "",
+            "name": "Beacon of Hope",
             "range": "30 feet",
             "saveAttr": "",
             "school": "Abjuration",
-            "spellName": "Beacon of Hope",
             "type": "Automatic"
         },
         "Bestow Curse": {
@@ -431,10 +431,10 @@
             "isRitual": false,
             "level": 3,
             "materialComponents": "",
+            "name": "Bestow Curse",
             "range": "Touch",
             "saveAttr": "Wis",
             "school": "Necromancy",
-            "spellName": "Bestow Curse",
             "type": "Savings Throw"
         },
         "Black Tentacles": {
@@ -447,10 +447,10 @@
             "isRitual": false,
             "level": 4,
             "materialComponents": "a piece of tentacle from a giant octopus or a giant squid",
+            "name": "Black Tentacles",
             "range": "90 feet",
             "saveAttr": "Dex",
             "school": "Conjuration",
-            "spellName": "Black Tentacles",
             "type": "Savings Throw"
         },
         "Blade Barrier": {
@@ -463,10 +463,10 @@
             "isRitual": false,
             "level": 6,
             "materialComponents": "",
+            "name": "Blade Barrier",
             "range": "90 feet",
             "saveAttr": "Dex",
             "school": "Evocation",
-            "spellName": "Blade Barrier",
             "type": "Savings Throw"
         },
         "Bless": {
@@ -479,10 +479,10 @@
             "isRitual": false,
             "level": 1,
             "materialComponents": "a sprinkling of holy water",
+            "name": "Bless",
             "range": "30 feet",
             "saveAttr": "",
             "school": "Enchantment",
-            "spellName": "Bless",
             "type": "Automatic"
         },
         "Blight": {
@@ -495,10 +495,10 @@
             "isRitual": false,
             "level": 4,
             "materialComponents": "",
+            "name": "Blight",
             "range": "30 feet",
             "saveAttr": "Con",
             "school": "Necromancy",
-            "spellName": "Blight",
             "type": "Savings Throw"
         },
         "Blindness/Deafness": {
@@ -511,10 +511,10 @@
             "isRitual": false,
             "level": 2,
             "materialComponents": "",
+            "name": "Blindness/Deafness",
             "range": "30 feet",
             "saveAttr": "Con",
             "school": "Necromancy",
-            "spellName": "Blindness/Deafness",
             "type": "Savings Throw"
         },
         "Blink": {
@@ -527,10 +527,10 @@
             "isRitual": false,
             "level": 3,
             "materialComponents": "",
+            "name": "Blink",
             "range": "Self",
             "saveAttr": "",
             "school": "Transmutation",
-            "spellName": "Blink",
             "type": "Attack Roll"
         },
         "Blur": {
@@ -543,10 +543,10 @@
             "isRitual": false,
             "level": 2,
             "materialComponents": "",
+            "name": "Blur",
             "range": "Self",
             "saveAttr": "",
             "school": "Illusion",
-            "spellName": "Blur",
             "type": "Automatic"
         },
         "Branding Smite": {
@@ -559,10 +559,10 @@
             "isRitual": false,
             "level": 2,
             "materialComponents": "",
+            "name": "Branding Smite",
             "range": "Self",
             "saveAttr": "",
             "school": "Evocation",
-            "spellName": "Branding Smite",
             "type": "Automatic"
         },
         "Burning Hands": {
@@ -575,10 +575,10 @@
             "isRitual": false,
             "level": 1,
             "materialComponents": "",
+            "name": "Burning Hands",
             "range": "Self (15-foot cone)",
             "saveAttr": "Dex",
             "school": "Evocation",
-            "spellName": "Burning Hands",
             "type": "Savings Throw"
         },
         "Call Lightning": {
@@ -591,10 +591,10 @@
             "isRitual": false,
             "level": 3,
             "materialComponents": "",
+            "name": "Call Lightning",
             "range": "120 feet",
             "saveAttr": "Dex",
             "school": "Conjuration",
-            "spellName": "Call Lightning",
             "type": "Savings Throw"
         },
         "Calm Emotions": {
@@ -607,10 +607,10 @@
             "isRitual": false,
             "level": 2,
             "materialComponents": "",
+            "name": "Calm Emotions",
             "range": "60 feet",
             "saveAttr": "Cha",
             "school": "Enchantment",
-            "spellName": "Calm Emotions",
             "type": "Savings Throw"
         },
         "Chain Lightning": {
@@ -623,10 +623,10 @@
             "isRitual": false,
             "level": 6,
             "materialComponents": "a bit of fur; a piece of amber, glass, or a crystal rod; and three silver pins",
+            "name": "Chain Lightning",
             "range": "150 feet",
             "saveAttr": "Dex",
             "school": "Evocation",
-            "spellName": "Chain Lightning",
             "type": "Savings Throw"
         },
         "Charm Person": {
@@ -639,10 +639,10 @@
             "isRitual": false,
             "level": 1,
             "materialComponents": "",
+            "name": "Charm Person",
             "range": "30 feet",
             "saveAttr": "Wis",
             "school": "Enchantment",
-            "spellName": "Charm Person",
             "type": "Savings Throw"
         },
         "Chill Touch": {
@@ -655,10 +655,10 @@
             "isRitual": false,
             "level": 0,
             "materialComponents": "",
+            "name": "Chill Touch",
             "range": "120 feet",
             "saveAttr": "",
             "school": "Necromancy",
-            "spellName": "Chill Touch",
             "type": "Ranged Spell Attack"
         },
         "Circle of Death": {
@@ -671,10 +671,10 @@
             "isRitual": false,
             "level": 6,
             "materialComponents": "the powder of a crushed black pearl worth at least 500 gp",
+            "name": "Circle of Death",
             "range": "150 feet",
             "saveAttr": "Con",
             "school": "Necromancy",
-            "spellName": "Circle of Death",
             "type": "Savings Throw"
         },
         "Clairvoyance": {
@@ -687,10 +687,10 @@
             "isRitual": false,
             "level": 3,
             "materialComponents": "a focus worth at least 100 gp, either a jeweled horn for hearing or a glass eye for seeing",
+            "name": "Clairvoyance",
             "range": "1 mile",
             "saveAttr": "",
             "school": "Divination",
-            "spellName": "Clairvoyance",
             "type": "Automatic"
         },
         "Clone": {
@@ -703,10 +703,10 @@
             "isRitual": false,
             "level": 8,
             "materialComponents": "a diamond worth at least 1,000 gp and at least 1 cubic inch of flesh of the creature that is to be cloned, which the spell consumes, and a vessel worth at least 2,000 gp that has a sealable lid and is large enough to hold a Medium creature, such as a huge urn, coffin, mudfilled cyst in the ground, or crystal container filled with salt water",
+            "name": "Clone",
             "range": "Touch",
             "saveAttr": "",
             "school": "Necromancy",
-            "spellName": "Clone",
             "type": "Automatic"
         },
         "Cloudkill": {
@@ -719,10 +719,10 @@
             "isRitual": false,
             "level": 5,
             "materialComponents": "",
+            "name": "Cloudkill",
             "range": "120 feet",
             "saveAttr": "Con",
             "school": "Conjuration",
-            "spellName": "Cloudkill",
             "type": "Savings Throw"
         },
         "Color Spray": {
@@ -735,10 +735,10 @@
             "isRitual": false,
             "level": 1,
             "materialComponents": "a pinch of powder or sand that is colored red, yellow, and blue",
+            "name": "Color Spray",
             "range": "Self (15-foot cone)",
             "saveAttr": "",
             "school": "Illusion",
-            "spellName": "Color Spray",
             "type": "Automatic"
         },
         "Command": {
@@ -751,10 +751,10 @@
             "isRitual": false,
             "level": 1,
             "materialComponents": "",
+            "name": "Command",
             "range": "60 feet",
             "saveAttr": "Wis",
             "school": "Enchantment",
-            "spellName": "Command",
             "type": "Savings Throw"
         },
         "Commune": {
@@ -767,10 +767,10 @@
             "isRitual": true,
             "level": 5,
             "materialComponents": "incense and a vial of holy or unholy water",
+            "name": "Commune",
             "range": "Self",
             "saveAttr": "",
             "school": "Divination",
-            "spellName": "Commune",
             "type": "Automatic"
         },
         "Commune with Nature": {
@@ -783,10 +783,10 @@
             "isRitual": true,
             "level": 5,
             "materialComponents": "",
+            "name": "Commune with Nature",
             "range": "Self",
             "saveAttr": "",
             "school": "Divination",
-            "spellName": "Commune with Nature",
             "type": "Automatic"
         },
         "Comprehend Languages": {
@@ -799,10 +799,10 @@
             "isRitual": true,
             "level": 1,
             "materialComponents": "a pinch of soot and salt",
+            "name": "Comprehend Languages",
             "range": "Self",
             "saveAttr": "",
             "school": "Divination",
-            "spellName": "Comprehend Languages",
             "type": "Automatic"
         },
         "Compulsion": {
@@ -815,10 +815,10 @@
             "isRitual": false,
             "level": 4,
             "materialComponents": "",
+            "name": "Compulsion",
             "range": "30 feet",
             "saveAttr": "Wis",
             "school": "Enchantment",
-            "spellName": "Compulsion",
             "type": "Savings Throw"
         },
         "Cone of Cold": {
@@ -831,10 +831,10 @@
             "isRitual": false,
             "level": 5,
             "materialComponents": "a small crystal or glass cone",
+            "name": "Cone of Cold",
             "range": "Self (60-foot cone)",
             "saveAttr": "Con",
             "school": "Evocation",
-            "spellName": "Cone of Cold",
             "type": "Savings Throw"
         },
         "Confusion": {
@@ -847,10 +847,10 @@
             "isRitual": false,
             "level": 4,
             "materialComponents": "three nut shells",
+            "name": "Confusion",
             "range": "90 feet",
             "saveAttr": "Wis",
             "school": "Enchantment",
-            "spellName": "Confusion",
             "type": "Savings Throw"
         },
         "Conjure Animals": {
@@ -863,10 +863,10 @@
             "isRitual": false,
             "level": 3,
             "materialComponents": "",
+            "name": "Conjure Animals",
             "range": "60 feet",
             "saveAttr": "",
             "school": "Conjuration",
-            "spellName": "Conjure Animals",
             "type": "Automatic"
         },
         "Conjure Celestial": {
@@ -879,10 +879,10 @@
             "isRitual": false,
             "level": 7,
             "materialComponents": "",
+            "name": "Conjure Celestial",
             "range": "90 feet",
             "saveAttr": "",
             "school": "Conjuration",
-            "spellName": "Conjure Celestial",
             "type": "Automatic"
         },
         "Conjure Elemental": {
@@ -895,10 +895,10 @@
             "isRitual": false,
             "level": 5,
             "materialComponents": "burning incense for air, soft clay for earth, sulfur and phosphorus for fire, or water and sand for water",
+            "name": "Conjure Elemental",
             "range": "90 feet",
             "saveAttr": "",
             "school": "Conjuration",
-            "spellName": "Conjure Elemental",
             "type": "Automatic"
         },
         "Conjure Fey": {
@@ -911,10 +911,10 @@
             "isRitual": false,
             "level": 6,
             "materialComponents": "",
+            "name": "Conjure Fey",
             "range": "90 feet",
             "saveAttr": "",
             "school": "Conjuration",
-            "spellName": "Conjure Fey",
             "type": "Automatic"
         },
         "Conjure Minor Elementals": {
@@ -927,10 +927,10 @@
             "isRitual": false,
             "level": 4,
             "materialComponents": "",
+            "name": "Conjure Minor Elementals",
             "range": "90 feet",
             "saveAttr": "",
             "school": "Conjuration",
-            "spellName": "Conjure Minor Elementals",
             "type": "Automatic"
         },
         "Conjure Woodland Beings": {
@@ -943,10 +943,10 @@
             "isRitual": false,
             "level": 4,
             "materialComponents": "one holly berry per creature summoned",
+            "name": "Conjure Woodland Beings",
             "range": "60 feet",
             "saveAttr": "",
             "school": "Conjuration",
-            "spellName": "Conjure Woodland Beings",
             "type": "Automatic"
         },
         "Contact Other Plane": {
@@ -959,10 +959,10 @@
             "isRitual": true,
             "level": 5,
             "materialComponents": "",
+            "name": "Contact Other Plane",
             "range": "Self",
             "saveAttr": "Int",
             "school": "Divination",
-            "spellName": "Contact Other Plane",
             "type": "Savings Throw"
         },
         "Contagion": {
@@ -975,10 +975,10 @@
             "isRitual": false,
             "level": 5,
             "materialComponents": "",
+            "name": "Contagion",
             "range": "Touch",
             "saveAttr": "",
             "school": "Necromancy",
-            "spellName": "Contagion",
             "type": "Melee Spell Attack"
         },
         "Contingency": {
@@ -991,10 +991,10 @@
             "isRitual": false,
             "level": 6,
             "materialComponents": "a statuette of yourself carved from ivory and decorated with gems worth at least 1,500 gp",
+            "name": "Contingency",
             "range": "Self",
             "saveAttr": "",
             "school": "Evocation",
-            "spellName": "Contingency",
             "type": "Automatic"
         },
         "Continual Flame": {
@@ -1007,10 +1007,10 @@
             "isRitual": false,
             "level": 2,
             "materialComponents": "ruby dust worth 50 gp, which the spell consumes",
+            "name": "Continual Flame",
             "range": "Touch",
             "saveAttr": "",
             "school": "Evocation",
-            "spellName": "Continual Flame",
             "type": "Automatic"
         },
         "Control Water": {
@@ -1023,10 +1023,10 @@
             "isRitual": false,
             "level": 4,
             "materialComponents": "a drop of water and a pinch of dust",
+            "name": "Control Water",
             "range": "300 feet",
             "saveAttr": "Str",
             "school": "Transmutation",
-            "spellName": "Control Water",
             "type": "Savings Throw"
         },
         "Control Weather": {
@@ -1039,10 +1039,10 @@
             "isRitual": false,
             "level": 8,
             "materialComponents": "burning incense and bits of earth and wood mixed in water",
+            "name": "Control Weather",
             "range": "Self (5-mile radius)",
             "saveAttr": "",
             "school": "Transmutation",
-            "spellName": "Control Weather",
             "type": "Automatic"
         },
         "Counterspell": {
@@ -1055,10 +1055,10 @@
             "isRitual": false,
             "level": 3,
             "materialComponents": "",
+            "name": "Counterspell",
             "range": "60 feet",
             "saveAttr": "",
             "school": "Abjuration",
-            "spellName": "Counterspell",
             "type": "Ability Check"
         },
         "Create Food and Water": {
@@ -1071,10 +1071,10 @@
             "isRitual": false,
             "level": 3,
             "materialComponents": "",
+            "name": "Create Food and Water",
             "range": "30 feet",
             "saveAttr": "",
             "school": "Conjuration",
-            "spellName": "Create Food and Water",
             "type": "Automatic"
         },
         "Create Undead": {
@@ -1087,10 +1087,10 @@
             "isRitual": false,
             "level": 6,
             "materialComponents": "one clay pot filled with grave dirt, one clay pot filled with brackish water, and one 150 gp black onyx stone for each corpse",
+            "name": "Create Undead",
             "range": "10 feet",
             "saveAttr": "",
             "school": "Necromancy",
-            "spellName": "Create Undead",
             "type": "Automatic"
         },
         "Create or Destroy Water": {
@@ -1103,10 +1103,10 @@
             "isRitual": false,
             "level": 1,
             "materialComponents": "a drop of water if creating water or a few grains of sand if destroying it",
+            "name": "Create or Destroy Water",
             "range": "30 feet",
             "saveAttr": "",
             "school": "Transmutation",
-            "spellName": "Create or Destroy Water",
             "type": "Automatic"
         },
         "Creation": {
@@ -1119,10 +1119,10 @@
             "isRitual": false,
             "level": 5,
             "materialComponents": "a tiny piece of matter of the same type of the item you plan to create",
+            "name": "Creation",
             "range": "30 feet",
             "saveAttr": "",
             "school": "Illusion",
-            "spellName": "Creation",
             "type": "Automatic"
         },
         "Cure Wounds": {
@@ -1135,10 +1135,10 @@
             "isRitual": false,
             "level": 1,
             "materialComponents": "",
+            "name": "Cure Wounds",
             "range": "Touch",
             "saveAttr": "",
             "school": "Evocation",
-            "spellName": "Cure Wounds",
             "type": "Automatic"
         },
         "Dancing Lights": {
@@ -1151,10 +1151,10 @@
             "isRitual": false,
             "level": 0,
             "materialComponents": "a bit of phosphorus or wychwood, or a glowworm",
+            "name": "Dancing Lights",
             "range": "120 feet",
             "saveAttr": "",
             "school": "Evocation",
-            "spellName": "Dancing Lights",
             "type": "Automatic"
         },
         "Darkness": {
@@ -1167,10 +1167,10 @@
             "isRitual": false,
             "level": 2,
             "materialComponents": "bat fur and a drop of pitch or piece of coal",
+            "name": "Darkness",
             "range": "60 feet",
             "saveAttr": "",
             "school": "Evocation",
-            "spellName": "Darkness",
             "type": "Automatic"
         },
         "Darkvision": {
@@ -1183,10 +1183,10 @@
             "isRitual": false,
             "level": 2,
             "materialComponents": "either a pinch of dried carrot or an agate",
+            "name": "Darkvision",
             "range": "Touch",
             "saveAttr": "",
             "school": "Transmutation",
-            "spellName": "Darkvision",
             "type": "Automatic"
         },
         "Daylight": {
@@ -1199,10 +1199,10 @@
             "isRitual": false,
             "level": 3,
             "materialComponents": "",
+            "name": "Daylight",
             "range": "60 feet",
             "saveAttr": "",
             "school": "Evocation",
-            "spellName": "Daylight",
             "type": "Automatic"
         },
         "Death Ward": {
@@ -1215,10 +1215,10 @@
             "isRitual": false,
             "level": 4,
             "materialComponents": "",
+            "name": "Death Ward",
             "range": "Touch",
             "saveAttr": "",
             "school": "Abjuration",
-            "spellName": "Death Ward",
             "type": "Automatic"
         },
         "Delayed Blast Fireball": {
@@ -1231,10 +1231,10 @@
             "isRitual": false,
             "level": 7,
             "materialComponents": "a tiny ball of bat guano and sulfur",
+            "name": "Delayed Blast Fireball",
             "range": "150 feet",
             "saveAttr": "Dex",
             "school": "Evocation",
-            "spellName": "Delayed Blast Fireball",
             "type": "Savings Throw"
         },
         "Demiplane": {
@@ -1247,10 +1247,10 @@
             "isRitual": false,
             "level": 8,
             "materialComponents": "",
+            "name": "Demiplane",
             "range": "60 feet",
             "saveAttr": "",
             "school": "Conjuration",
-            "spellName": "Demiplane",
             "type": "Automatic"
         },
         "Detect Evil and Good": {
@@ -1263,10 +1263,10 @@
             "isRitual": false,
             "level": 1,
             "materialComponents": "",
+            "name": "Detect Evil and Good",
             "range": "Self",
             "saveAttr": "",
             "school": "Divination",
-            "spellName": "Detect Evil and Good",
             "type": "Automatic"
         },
         "Detect Magic": {
@@ -1279,10 +1279,10 @@
             "isRitual": true,
             "level": 1,
             "materialComponents": "",
+            "name": "Detect Magic",
             "range": "Self",
             "saveAttr": "",
             "school": "Divination",
-            "spellName": "Detect Magic",
             "type": "Automatic"
         },
         "Detect Poison and Disease": {
@@ -1295,10 +1295,10 @@
             "isRitual": true,
             "level": 1,
             "materialComponents": "a yew leaf",
+            "name": "Detect Poison and Disease",
             "range": "Self",
             "saveAttr": "",
             "school": "Divination",
-            "spellName": "Detect Poison and Disease",
             "type": "Automatic"
         },
         "Detect Thoughts": {
@@ -1311,10 +1311,10 @@
             "isRitual": false,
             "level": 2,
             "materialComponents": "a copper piece",
+            "name": "Detect Thoughts",
             "range": "Self",
             "saveAttr": "",
             "school": "Divination",
-            "spellName": "Detect Thoughts",
             "type": "Automatic"
         },
         "Dimension Door": {
@@ -1327,10 +1327,10 @@
             "isRitual": false,
             "level": 4,
             "materialComponents": "",
+            "name": "Dimension Door",
             "range": "500 feet",
             "saveAttr": "",
             "school": "Conjuration",
-            "spellName": "Dimension Door",
             "type": "Automatic"
         },
         "Disguise Self": {
@@ -1343,10 +1343,10 @@
             "isRitual": false,
             "level": 1,
             "materialComponents": "",
+            "name": "Disguise Self",
             "range": "Self",
             "saveAttr": "",
             "school": "Illusion",
-            "spellName": "Disguise Self",
             "type": "Automatic"
         },
         "Disintegrate": {
@@ -1359,10 +1359,10 @@
             "isRitual": false,
             "level": 6,
             "materialComponents": "a lodestone and a pinch of dust",
+            "name": "Disintegrate",
             "range": "60 feet",
             "saveAttr": "Dex",
             "school": "Transmutation",
-            "spellName": "Disintegrate",
             "type": "Savings Throw"
         },
         "Dispel Evil and Good": {
@@ -1375,10 +1375,10 @@
             "isRitual": false,
             "level": 5,
             "materialComponents": "holy water or powdered silver and iron",
+            "name": "Dispel Evil and Good",
             "range": "Self",
             "saveAttr": "Cha",
             "school": "Abjuration",
-            "spellName": "Dispel Evil and Good",
             "type": "Savings Throw"
         },
         "Dispel Magic": {
@@ -1391,10 +1391,10 @@
             "isRitual": false,
             "level": 3,
             "materialComponents": "",
+            "name": "Dispel Magic",
             "range": "120 feet",
             "saveAttr": "",
             "school": "Abjuration",
-            "spellName": "Dispel Magic",
             "type": "Ability Check"
         },
         "Divination": {
@@ -1407,10 +1407,10 @@
             "isRitual": true,
             "level": 4,
             "materialComponents": "incense and a sacrificial offering appropriate to your religion, together worth at least 25 gp, which the spell consumes",
+            "name": "Divination",
             "range": "Self",
             "saveAttr": "",
             "school": "Divination",
-            "spellName": "Divination",
             "type": "Automatic"
         },
         "Divine Favor": {
@@ -1423,10 +1423,10 @@
             "isRitual": false,
             "level": 1,
             "materialComponents": "",
+            "name": "Divine Favor",
             "range": "Self",
             "saveAttr": "",
             "school": "Evocation",
-            "spellName": "Divine Favor",
             "type": "Automatic"
         },
         "Divine Word": {
@@ -1439,10 +1439,10 @@
             "isRitual": false,
             "level": 7,
             "materialComponents": "",
+            "name": "Divine Word",
             "range": "30 feet",
             "saveAttr": "Cha",
             "school": "Evocation",
-            "spellName": "Divine Word",
             "type": "Savings Throw"
         },
         "Dominate Beast": {
@@ -1455,10 +1455,10 @@
             "isRitual": false,
             "level": 4,
             "materialComponents": "",
+            "name": "Dominate Beast",
             "range": "60 feet",
             "saveAttr": "Wis",
             "school": "Enchantment",
-            "spellName": "Dominate Beast",
             "type": "Savings Throw"
         },
         "Dominate Monster": {
@@ -1471,10 +1471,10 @@
             "isRitual": false,
             "level": 8,
             "materialComponents": "",
+            "name": "Dominate Monster",
             "range": "60 feet",
             "saveAttr": "Wis",
             "school": "Enchantment",
-            "spellName": "Dominate Monster",
             "type": "Savings Throw"
         },
         "Dominate Person": {
@@ -1487,10 +1487,10 @@
             "isRitual": false,
             "level": 5,
             "materialComponents": "",
+            "name": "Dominate Person",
             "range": "60 feet",
             "saveAttr": "Wis",
             "school": "Enchantment",
-            "spellName": "Dominate Person",
             "type": "Savings Throw"
         },
         "Dream": {
@@ -1503,10 +1503,10 @@
             "isRitual": false,
             "level": 5,
             "materialComponents": "a handful of sand, a dab of ink, and a writing quill plucked from a sleeping bird",
+            "name": "Dream",
             "range": "Special",
             "saveAttr": "",
             "school": "Illusion",
-            "spellName": "Dream",
             "type": "Automatic"
         },
         "Druidcraft": {
@@ -1519,10 +1519,10 @@
             "isRitual": false,
             "level": 0,
             "materialComponents": "",
+            "name": "Druidcraft",
             "range": "30 feet",
             "saveAttr": "",
             "school": "Transmutation",
-            "spellName": "Druidcraft",
             "type": "Automatic"
         },
         "Earthquake": {
@@ -1535,10 +1535,10 @@
             "isRitual": false,
             "level": 8,
             "materialComponents": "a pinch of dirt, a piece of rock, and a lump of clay",
+            "name": "Earthquake",
             "range": "500 feet",
             "saveAttr": "Con",
             "school": "Evocation",
-            "spellName": "Earthquake",
             "type": "Savings Throw"
         },
         "Eldritch Blast": {
@@ -1551,10 +1551,10 @@
             "isRitual": false,
             "level": 0,
             "materialComponents": "",
+            "name": "Eldritch Blast",
             "range": "120 feet",
             "saveAttr": "",
             "school": "Evocation",
-            "spellName": "Eldritch Blast",
             "type": "Ranged Spell Attack"
         },
         "Enhance Ability": {
@@ -1567,10 +1567,10 @@
             "isRitual": false,
             "level": 2,
             "materialComponents": "fur or a feather from a beast",
+            "name": "Enhance Ability",
             "range": "Touch",
             "saveAttr": "",
             "school": "Transmutation",
-            "spellName": "Enhance Ability",
             "type": "Automatic"
         },
         "Enlarge/Reduce": {
@@ -1583,10 +1583,10 @@
             "isRitual": false,
             "level": 2,
             "materialComponents": "a pinch of powdered iron",
+            "name": "Enlarge/Reduce",
             "range": "30 feet",
             "saveAttr": "Con",
             "school": "Transmutation",
-            "spellName": "Enlarge/Reduce",
             "type": "Savings Throw"
         },
         "Entangle": {
@@ -1599,10 +1599,10 @@
             "isRitual": false,
             "level": 1,
             "materialComponents": "",
+            "name": "Entangle",
             "range": "90 feet",
             "saveAttr": "Str",
             "school": "Conjuration",
-            "spellName": "Entangle",
             "type": "Savings Throw"
         },
         "Enthrall": {
@@ -1615,10 +1615,10 @@
             "isRitual": false,
             "level": 2,
             "materialComponents": "",
+            "name": "Enthrall",
             "range": "60 feet",
             "saveAttr": "Wis",
             "school": "Enchantment",
-            "spellName": "Enthrall",
             "type": "Savings Throw"
         },
         "Etherealness": {
@@ -1631,10 +1631,10 @@
             "isRitual": false,
             "level": 7,
             "materialComponents": "",
+            "name": "Etherealness",
             "range": "Self",
             "saveAttr": "",
             "school": "Transmutation",
-            "spellName": "Etherealness",
             "type": "Automatic"
         },
         "Expeditious Retreat": {
@@ -1647,10 +1647,10 @@
             "isRitual": false,
             "level": 1,
             "materialComponents": "",
+            "name": "Expeditious Retreat",
             "range": "Self",
             "saveAttr": "",
             "school": "Transmutation",
-            "spellName": "Expeditious Retreat",
             "type": "Automatic"
         },
         "Eyebite": {
@@ -1663,10 +1663,10 @@
             "isRitual": false,
             "level": 6,
             "materialComponents": "",
+            "name": "Eyebite",
             "range": "Self",
             "saveAttr": "Wis",
             "school": "Necromancy",
-            "spellName": "Eyebite",
             "type": "Savings Throw"
         },
         "Fabricate": {
@@ -1679,10 +1679,10 @@
             "isRitual": false,
             "level": 4,
             "materialComponents": "",
+            "name": "Fabricate",
             "range": "120 feet",
             "saveAttr": "",
             "school": "Transmutation",
-            "spellName": "Fabricate",
             "type": "Automatic"
         },
         "Faerie Fire": {
@@ -1695,10 +1695,10 @@
             "isRitual": false,
             "level": 1,
             "materialComponents": "",
+            "name": "Faerie Fire",
             "range": "60 feet",
             "saveAttr": "Dex",
             "school": "Evocation",
-            "spellName": "Faerie Fire",
             "type": "Savings Throw"
         },
         "Faithful Hound": {
@@ -1711,10 +1711,10 @@
             "isRitual": false,
             "level": 4,
             "materialComponents": "a tiny silver whistle, a piece of bone, and a thread",
+            "name": "Faithful Hound",
             "range": "30 feet",
             "saveAttr": "",
             "school": "Conjuration",
-            "spellName": "Faithful Hound",
             "type": "Automatic"
         },
         "False Life": {
@@ -1727,10 +1727,10 @@
             "isRitual": false,
             "level": 1,
             "materialComponents": "a small amount of alcohol or distilled spirits",
+            "name": "False Life",
             "range": "Self",
             "saveAttr": "",
             "school": "Necromancy",
-            "spellName": "False Life",
             "type": "Automatic"
         },
         "Fear": {
@@ -1743,10 +1743,10 @@
             "isRitual": false,
             "level": 3,
             "materialComponents": "a white feather or the heart of a hen",
+            "name": "Fear",
             "range": "Self (30-foot cone)",
             "saveAttr": "Wis",
             "school": "Illusion",
-            "spellName": "Fear",
             "type": "Savings Throw"
         },
         "Feather Fall": {
@@ -1759,10 +1759,10 @@
             "isRitual": false,
             "level": 1,
             "materialComponents": "a small feather or piece of down",
+            "name": "Feather Fall",
             "range": "60 feet",
             "saveAttr": "",
             "school": "Transmutation",
-            "spellName": "Feather Fall",
             "type": "Automatic"
         },
         "Feeblemind": {
@@ -1775,10 +1775,10 @@
             "isRitual": false,
             "level": 8,
             "materialComponents": "a handful of clay, crystal, glass, or mineral spheres",
+            "name": "Feeblemind",
             "range": "150 feet",
             "saveAttr": "Int",
             "school": "Enchantment",
-            "spellName": "Feeblemind",
             "type": "Savings Throw"
         },
         "Find Familiar": {
@@ -1791,10 +1791,10 @@
             "isRitual": true,
             "level": 1,
             "materialComponents": "10 gp worth of charcoal, incense, and herbs that must be consumed by fire in a brass brazier",
+            "name": "Find Familiar",
             "range": "10 feet",
             "saveAttr": "",
             "school": "Conjuration",
-            "spellName": "Find Familiar",
             "type": "Automatic"
         },
         "Find Steed": {
@@ -1807,10 +1807,10 @@
             "isRitual": false,
             "level": 2,
             "materialComponents": "",
+            "name": "Find Steed",
             "range": "30 feet",
             "saveAttr": "",
             "school": "Conjuration",
-            "spellName": "Find Steed",
             "type": "Automatic"
         },
         "Find Traps": {
@@ -1823,10 +1823,10 @@
             "isRitual": false,
             "level": 2,
             "materialComponents": "",
+            "name": "Find Traps",
             "range": "120 feet",
             "saveAttr": "",
             "school": "Divination",
-            "spellName": "Find Traps",
             "type": "Automatic"
         },
         "Find the Path": {
@@ -1839,10 +1839,10 @@
             "isRitual": false,
             "level": 6,
             "materialComponents": "a set of divinatory tools-such as bones, ivory sticks, cards, teeth, or carved runes-worth 100 gp and an object from the location you wish to find",
+            "name": "Find the Path",
             "range": "Self",
             "saveAttr": "",
             "school": "Divination",
-            "spellName": "Find the Path",
             "type": "Automatic"
         },
         "Finger of Death": {
@@ -1855,10 +1855,10 @@
             "isRitual": false,
             "level": 7,
             "materialComponents": "",
+            "name": "Finger of Death",
             "range": "60 feet",
             "saveAttr": "Con",
             "school": "Necromancy",
-            "spellName": "Finger of Death",
             "type": "Savings Throw"
         },
         "Fire Bolt": {
@@ -1871,10 +1871,10 @@
             "isRitual": false,
             "level": 0,
             "materialComponents": "",
+            "name": "Fire Bolt",
             "range": "120 feet",
             "saveAttr": "",
             "school": "Evocation",
-            "spellName": "Fire Bolt",
             "type": "Ranged Spell Attack"
         },
         "Fire Shield": {
@@ -1887,10 +1887,10 @@
             "isRitual": false,
             "level": 4,
             "materialComponents": "a bit of phosphorus or a firefly",
+            "name": "Fire Shield",
             "range": "Self",
             "saveAttr": "",
             "school": "Evocation",
-            "spellName": "Fire Shield",
             "type": "Automatic"
         },
         "Fire Storm": {
@@ -1903,10 +1903,10 @@
             "isRitual": false,
             "level": 7,
             "materialComponents": "",
+            "name": "Fire Storm",
             "range": "150 feet",
             "saveAttr": "Dex",
             "school": "Evocation",
-            "spellName": "Fire Storm",
             "type": "Savings Throw"
         },
         "Fireball": {
@@ -1919,10 +1919,10 @@
             "isRitual": false,
             "level": 3,
             "materialComponents": "a tiny ball of bat guano and sulfur",
+            "name": "Fireball",
             "range": "150 feet",
             "saveAttr": "Dex",
             "school": "Evocation",
-            "spellName": "Fireball",
             "type": "Savings Throw"
         },
         "Flame Blade": {
@@ -1935,10 +1935,10 @@
             "isRitual": false,
             "level": 2,
             "materialComponents": "leaf of sumac",
+            "name": "Flame Blade",
             "range": "Self",
             "saveAttr": "",
             "school": "Evocation",
-            "spellName": "Flame Blade",
             "type": "Melee Spell Attack"
         },
         "Flame Strike": {
@@ -1951,10 +1951,10 @@
             "isRitual": false,
             "level": 5,
             "materialComponents": "pinch of sulfur",
+            "name": "Flame Strike",
             "range": "60 feet",
             "saveAttr": "Dex",
             "school": "Evocation",
-            "spellName": "Flame Strike",
             "type": "Savings Throw"
         },
         "Flaming Sphere": {
@@ -1967,10 +1967,10 @@
             "isRitual": false,
             "level": 2,
             "materialComponents": "a bit of tallow, a pinch of brimstone, and a dusting of powdered iron",
+            "name": "Flaming Sphere",
             "range": "60 feet",
             "saveAttr": "Dex",
             "school": "Conjuration",
-            "spellName": "Flaming Sphere",
             "type": "Savings Throw"
         },
         "Flesh to Stone": {
@@ -1983,10 +1983,10 @@
             "isRitual": false,
             "level": 6,
             "materialComponents": "a pinch of lime, water, and earth",
+            "name": "Flesh to Stone",
             "range": "60 feet",
             "saveAttr": "Con",
             "school": "Transmutation",
-            "spellName": "Flesh to Stone",
             "type": "Savings Throw"
         },
         "Floating Disk": {
@@ -1999,10 +1999,10 @@
             "isRitual": true,
             "level": 1,
             "materialComponents": "a drop of mercury",
+            "name": "Floating Disk",
             "range": "30 feet",
             "saveAttr": "",
             "school": "Conjuration",
-            "spellName": "Floating Disk",
             "type": "Automatic"
         },
         "Fly": {
@@ -2015,10 +2015,10 @@
             "isRitual": false,
             "level": 3,
             "materialComponents": "a wing feather from any bird",
+            "name": "Fly",
             "range": "Touch",
             "saveAttr": "",
             "school": "Transmutation",
-            "spellName": "Fly",
             "type": "Automatic"
         },
         "Fog Cloud": {
@@ -2031,10 +2031,10 @@
             "isRitual": false,
             "level": 1,
             "materialComponents": "",
+            "name": "Fog Cloud",
             "range": "120 feet",
             "saveAttr": "",
             "school": "Conjuration",
-            "spellName": "Fog Cloud",
             "type": "Automatic"
         },
         "Forbiddance": {
@@ -2047,10 +2047,10 @@
             "isRitual": true,
             "level": 6,
             "materialComponents": "a sprinkling of holy water, rare incense, and powdered ruby worth at least 1,000 gp",
+            "name": "Forbiddance",
             "range": "Touch",
             "saveAttr": "",
             "school": "Abjuration",
-            "spellName": "Forbiddance",
             "type": "Automatic"
         },
         "Forcecage": {
@@ -2063,10 +2063,10 @@
             "isRitual": false,
             "level": 7,
             "materialComponents": "ruby dust worth 1,500 gp",
+            "name": "Forcecage",
             "range": "100 feet",
             "saveAttr": "Cha",
             "school": "Evocation",
-            "spellName": "Forcecage",
             "type": "Savings Throw"
         },
         "Foresight": {
@@ -2079,10 +2079,10 @@
             "isRitual": false,
             "level": 9,
             "materialComponents": "a hummingbird feather",
+            "name": "Foresight",
             "range": "Touch",
             "saveAttr": "",
             "school": "Divination",
-            "spellName": "Foresight",
             "type": "Automatic"
         },
         "Freedom of Movement": {
@@ -2095,10 +2095,10 @@
             "isRitual": false,
             "level": 4,
             "materialComponents": "a leather strap, bound around the arm or a similar appendage",
+            "name": "Freedom of Movement",
             "range": "Touch",
             "saveAttr": "",
             "school": "Abjuration",
-            "spellName": "Freedom of Movement",
             "type": "Automatic"
         },
         "Freezing Sphere": {
@@ -2111,10 +2111,10 @@
             "isRitual": false,
             "level": 6,
             "materialComponents": "a small crystal sphere",
+            "name": "Freezing Sphere",
             "range": "300 feet",
             "saveAttr": "Con",
             "school": "Evocation",
-            "spellName": "Freezing Sphere",
             "type": "Savings Throw"
         },
         "Gaseous Form": {
@@ -2127,10 +2127,10 @@
             "isRitual": false,
             "level": 3,
             "materialComponents": "a bit of gauze and a wisp of smoke",
+            "name": "Gaseous Form",
             "range": "Touch",
             "saveAttr": "",
             "school": "Transmutation",
-            "spellName": "Gaseous Form",
             "type": "Automatic"
         },
         "Gate": {
@@ -2143,10 +2143,10 @@
             "isRitual": false,
             "level": 9,
             "materialComponents": "a diamond worth at least 5,000 gp",
+            "name": "Gate",
             "range": "60 feet",
             "saveAttr": "",
             "school": "Conjuration",
-            "spellName": "Gate",
             "type": "Automatic"
         },
         "Geas": {
@@ -2159,10 +2159,10 @@
             "isRitual": false,
             "level": 5,
             "materialComponents": "",
+            "name": "Geas",
             "range": "60 feet",
             "saveAttr": "Wis",
             "school": "Enchantment",
-            "spellName": "Geas",
             "type": "Savings Throw"
         },
         "Gentle Repose": {
@@ -2175,10 +2175,10 @@
             "isRitual": true,
             "level": 2,
             "materialComponents": "a pinch of salt and one copper piece placed on each of the corpse's eyes, which must remain there for the duration",
+            "name": "Gentle Repose",
             "range": "Touch",
             "saveAttr": "",
             "school": "Necromancy",
-            "spellName": "Gentle Repose",
             "type": "Automatic"
         },
         "Giant Insect": {
@@ -2191,10 +2191,10 @@
             "isRitual": false,
             "level": 4,
             "materialComponents": "",
+            "name": "Giant Insect",
             "range": "30 feet",
             "saveAttr": "",
             "school": "Transmutation",
-            "spellName": "Giant Insect",
             "type": "Automatic"
         },
         "Glibness": {
@@ -2207,10 +2207,10 @@
             "isRitual": false,
             "level": 8,
             "materialComponents": "",
+            "name": "Glibness",
             "range": "Self",
             "saveAttr": "",
             "school": "Transmutation",
-            "spellName": "Glibness",
             "type": "Ability Check"
         },
         "Globe of Invulnerability": {
@@ -2223,10 +2223,10 @@
             "isRitual": false,
             "level": 6,
             "materialComponents": "a glass or crystal bead that shatters when the spell ends",
+            "name": "Globe of Invulnerability",
             "range": "Self (10-foot radius)",
             "saveAttr": "",
             "school": "Abjuration",
-            "spellName": "Globe of Invulnerability",
             "type": "Automatic"
         },
         "Glyph of Warding": {
@@ -2239,10 +2239,10 @@
             "isRitual": false,
             "level": 3,
             "materialComponents": "incense and powdered diamond worth at least 200 gp, which the spell consumes",
+            "name": "Glyph of Warding",
             "range": "Touch",
             "saveAttr": "Dex",
             "school": "Abjuration",
-            "spellName": "Glyph of Warding",
             "type": "Savings Throw"
         },
         "Goodberry": {
@@ -2255,10 +2255,10 @@
             "isRitual": false,
             "level": 1,
             "materialComponents": "a sprig of mistletoe",
+            "name": "Goodberry",
             "range": "Touch",
             "saveAttr": "",
             "school": "Transmutation",
-            "spellName": "Goodberry",
             "type": "Automatic"
         },
         "Grease": {
@@ -2271,10 +2271,10 @@
             "isRitual": false,
             "level": 1,
             "materialComponents": "a bit of pork rind or butter",
+            "name": "Grease",
             "range": "60 feet",
             "saveAttr": "Dex",
             "school": "Conjuration",
-            "spellName": "Grease",
             "type": "Savings Throw"
         },
         "Greater Invisibility": {
@@ -2287,10 +2287,10 @@
             "isRitual": false,
             "level": 4,
             "materialComponents": "",
+            "name": "Greater Invisibility",
             "range": "Touch",
             "saveAttr": "",
             "school": "Illusion",
-            "spellName": "Greater Invisibility",
             "type": "Automatic"
         },
         "Greater Restoration": {
@@ -2303,10 +2303,10 @@
             "isRitual": false,
             "level": 5,
             "materialComponents": "diamond dust worth at least 100 gp, which the spell consumes",
+            "name": "Greater Restoration",
             "range": "Touch",
             "saveAttr": "",
             "school": "Abjuration",
-            "spellName": "Greater Restoration",
             "type": "Automatic"
         },
         "Guardian of Faith": {
@@ -2319,10 +2319,10 @@
             "isRitual": false,
             "level": 4,
             "materialComponents": "",
+            "name": "Guardian of Faith",
             "range": "30 feet",
             "saveAttr": "Dex",
             "school": "Conjuration",
-            "spellName": "Guardian of Faith",
             "type": "Savings Throw"
         },
         "Guards and Wards": {
@@ -2335,10 +2335,10 @@
             "isRitual": false,
             "level": 6,
             "materialComponents": "burning incense, a small measure of brimstone and oil, a knotted string, a small amount of umber hulk blood, and a small silver rod worth at least 10 gp",
+            "name": "Guards and Wards",
             "range": "Touch",
             "saveAttr": "",
             "school": "Abjuration",
-            "spellName": "Guards and Wards",
             "type": "Automatic"
         },
         "Guidance": {
@@ -2351,10 +2351,10 @@
             "isRitual": false,
             "level": 0,
             "materialComponents": "",
+            "name": "Guidance",
             "range": "Touch",
             "saveAttr": "",
             "school": "Divination",
-            "spellName": "Guidance",
             "type": "Automatic"
         },
         "Guiding Bolt": {
@@ -2367,10 +2367,10 @@
             "isRitual": false,
             "level": 1,
             "materialComponents": "",
+            "name": "Guiding Bolt",
             "range": "120 feet",
             "saveAttr": "",
             "school": "Evocation",
-            "spellName": "Guiding Bolt",
             "type": "Ranged Spell Attack"
         },
         "Gust of Wind": {
@@ -2383,10 +2383,10 @@
             "isRitual": false,
             "level": 2,
             "materialComponents": "a legume seed",
+            "name": "Gust of Wind",
             "range": "Self (60-foot line)",
             "saveAttr": "Str",
             "school": "Evocation",
-            "spellName": "Gust of Wind",
             "type": "Savings Throw"
         },
         "Hallow": {
@@ -2399,10 +2399,10 @@
             "isRitual": false,
             "level": 5,
             "materialComponents": "herbs, oils, and incense worth at least 1,000 gp, which the spell consumes",
+            "name": "Hallow",
             "range": "Touch",
             "saveAttr": "Cha",
             "school": "Evocation",
-            "spellName": "Hallow",
             "type": "Savings Throw"
         },
         "Hallucinatory Terrain": {
@@ -2415,10 +2415,10 @@
             "isRitual": false,
             "level": 4,
             "materialComponents": "a stone, a twig, and a bit of green plant",
+            "name": "Hallucinatory Terrain",
             "range": "300 feet",
             "saveAttr": "",
             "school": "Illusion",
-            "spellName": "Hallucinatory Terrain",
             "type": "Automatic"
         },
         "Harm": {
@@ -2431,10 +2431,10 @@
             "isRitual": false,
             "level": 6,
             "materialComponents": "",
+            "name": "Harm",
             "range": "60 feet",
             "saveAttr": "Con",
             "school": "Necromancy",
-            "spellName": "Harm",
             "type": "Savings Throw"
         },
         "Haste": {
@@ -2447,10 +2447,10 @@
             "isRitual": false,
             "level": 3,
             "materialComponents": "a shaving of licorice root",
+            "name": "Haste",
             "range": "30 feet",
             "saveAttr": "",
             "school": "Transmutation",
-            "spellName": "Haste",
             "type": "Automatic"
         },
         "Heal": {
@@ -2463,10 +2463,10 @@
             "isRitual": false,
             "level": 6,
             "materialComponents": "",
+            "name": "Heal",
             "range": "60 feet",
             "saveAttr": "",
             "school": "Evocation",
-            "spellName": "Heal",
             "type": "Automatic"
         },
         "Healing Word": {
@@ -2479,10 +2479,10 @@
             "isRitual": false,
             "level": 1,
             "materialComponents": "",
+            "name": "Healing Word",
             "range": "60 feet",
             "saveAttr": "",
             "school": "Evocation",
-            "spellName": "Healing Word",
             "type": "Automatic"
         },
         "Heat Metal": {
@@ -2495,10 +2495,10 @@
             "isRitual": false,
             "level": 2,
             "materialComponents": "a piece of iron and a flame",
+            "name": "Heat Metal",
             "range": "60 feet",
             "saveAttr": "Con",
             "school": "Transmutation",
-            "spellName": "Heat Metal",
             "type": "Savings Throw"
         },
         "Hellish Rebuke": {
@@ -2511,10 +2511,10 @@
             "isRitual": false,
             "level": 1,
             "materialComponents": "",
+            "name": "Hellish Rebuke",
             "range": "60 feet",
             "saveAttr": "Dex",
             "school": "Evocation",
-            "spellName": "Hellish Rebuke",
             "type": "Savings Throw"
         },
         "Heroes' Feast": {
@@ -2527,10 +2527,10 @@
             "isRitual": false,
             "level": 6,
             "materialComponents": "a gem-encrusted bowl worth at least 1,000 gp, which the spell consumes",
+            "name": "Heroes' Feast",
             "range": "30 feet",
             "saveAttr": "",
             "school": "Conjuration",
-            "spellName": "Heroes' Feast",
             "type": "Automatic"
         },
         "Heroism": {
@@ -2543,10 +2543,10 @@
             "isRitual": false,
             "level": 1,
             "materialComponents": "",
+            "name": "Heroism",
             "range": "Touch",
             "saveAttr": "",
             "school": "Enchantment",
-            "spellName": "Heroism",
             "type": "Automatic"
         },
         "Hideous Laughter": {
@@ -2559,10 +2559,10 @@
             "isRitual": false,
             "level": 1,
             "materialComponents": "tiny tarts and a feather that is waved in the air",
+            "name": "Hideous Laughter",
             "range": "30 feet",
             "saveAttr": "Wis",
             "school": "Enchantment",
-            "spellName": "Hideous Laughter",
             "type": "Savings Throw"
         },
         "Hold Monster": {
@@ -2575,10 +2575,10 @@
             "isRitual": false,
             "level": 5,
             "materialComponents": "a small, straight piece of iron",
+            "name": "Hold Monster",
             "range": "90 feet",
             "saveAttr": "Wis",
             "school": "Enchantment",
-            "spellName": "Hold Monster",
             "type": "Savings Throw"
         },
         "Hold Person": {
@@ -2591,10 +2591,10 @@
             "isRitual": false,
             "level": 2,
             "materialComponents": "a small, straight piece of iron",
+            "name": "Hold Person",
             "range": "60 feet",
             "saveAttr": "Wis",
             "school": "Enchantment",
-            "spellName": "Hold Person",
             "type": "Savings Throw"
         },
         "Holy Aura": {
@@ -2607,10 +2607,10 @@
             "isRitual": false,
             "level": 8,
             "materialComponents": "a tiny reliquary worth at least 1,000 gp containing a sacred relic, such as a scrap of cloth from a saint's robe or a piece of  parchment from a religious text",
+            "name": "Holy Aura",
             "range": "Self",
             "saveAttr": "",
             "school": "Abjuration",
-            "spellName": "Holy Aura",
             "type": "Automatic"
         },
         "Hunter's Mark": {
@@ -2623,10 +2623,10 @@
             "isRitual": false,
             "level": 1,
             "materialComponents": "",
+            "name": "Hunter's Mark",
             "range": "90 feet",
             "saveAttr": "",
             "school": "Divination",
-            "spellName": "Hunter's Mark",
             "type": "Automatic"
         },
         "Hypnotic Pattern": {
@@ -2639,10 +2639,10 @@
             "isRitual": false,
             "level": 3,
             "materialComponents": "a glowing stick of incense or a crystal vial filled with phosphorescent material",
+            "name": "Hypnotic Pattern",
             "range": "120 feet",
             "saveAttr": "Wis",
             "school": "Illusion",
-            "spellName": "Hypnotic Pattern",
             "type": "Savings Throw"
         },
         "Ice Storm": {
@@ -2655,10 +2655,10 @@
             "isRitual": false,
             "level": 4,
             "materialComponents": "a pinch of dust and a few drops of water",
+            "name": "Ice Storm",
             "range": "300 feet",
             "saveAttr": "Dex",
             "school": "Evocation",
-            "spellName": "Ice Storm",
             "type": "Savings Throw"
         },
         "Identify": {
@@ -2671,10 +2671,10 @@
             "isRitual": true,
             "level": 1,
             "materialComponents": "a pearl worth at least 100 gp and an owl feather",
+            "name": "Identify",
             "range": "Touch",
             "saveAttr": "",
             "school": "Divination",
-            "spellName": "Identify",
             "type": "Automatic"
         },
         "Illusory Script": {
@@ -2687,10 +2687,10 @@
             "isRitual": true,
             "level": 1,
             "materialComponents": "a lead-based ink worth at least 10 gp, which the spell consumes",
+            "name": "Illusory Script",
             "range": "Touch",
             "saveAttr": "",
             "school": "Illusion",
-            "spellName": "Illusory Script",
             "type": "Automatic"
         },
         "Imprisonment": {
@@ -2703,10 +2703,10 @@
             "isRitual": false,
             "level": 9,
             "materialComponents": "a vellum depiction or a carved statuette in the likeness of the target, and a special component that varies according to the version of the spell you choose, worth at least 500 gp per Hit Die of the target",
+            "name": "Imprisonment",
             "range": "30 feet",
             "saveAttr": "Wis",
             "school": "Abjuration",
-            "spellName": "Imprisonment",
             "type": "Savings Throw"
         },
         "Incendiary Cloud": {
@@ -2719,10 +2719,10 @@
             "isRitual": false,
             "level": 8,
             "materialComponents": "",
+            "name": "Incendiary Cloud",
             "range": "150 feet",
             "saveAttr": "Dex",
             "school": "Conjuration",
-            "spellName": "Incendiary Cloud",
             "type": "Savings Throw"
         },
         "Inflict Wounds": {
@@ -2735,10 +2735,10 @@
             "isRitual": false,
             "level": 1,
             "materialComponents": "",
+            "name": "Inflict Wounds",
             "range": "Touch",
             "saveAttr": "",
             "school": "Necromancy",
-            "spellName": "Inflict Wounds",
             "type": "Melee Spell Attack"
         },
         "Insect Plague": {
@@ -2751,10 +2751,10 @@
             "isRitual": false,
             "level": 5,
             "materialComponents": "a few grains of sugar, some kernels of grain, and a smear of fat",
+            "name": "Insect Plague",
             "range": "300 feet",
             "saveAttr": "Con",
             "school": "Conjuration",
-            "spellName": "Insect Plague",
             "type": "Savings Throw"
         },
         "Instant Summons": {
@@ -2767,10 +2767,10 @@
             "isRitual": true,
             "level": 6,
             "materialComponents": "a sapphire worth 1,000 gp",
+            "name": "Instant Summons",
             "range": "Touch",
             "saveAttr": "",
             "school": "Conjuration",
-            "spellName": "Instant Summons",
             "type": "Automatic"
         },
         "Invisibility": {
@@ -2783,10 +2783,10 @@
             "isRitual": false,
             "level": 2,
             "materialComponents": "an eyelash encased in gum arabic",
+            "name": "Invisibility",
             "range": "Touch",
             "saveAttr": "",
             "school": "Illusion",
-            "spellName": "Invisibility",
             "type": "Automatic"
         },
         "Irresistible Dance": {
@@ -2799,10 +2799,10 @@
             "isRitual": false,
             "level": 6,
             "materialComponents": "",
+            "name": "Irresistible Dance",
             "range": "30 feet",
             "saveAttr": "",
             "school": "Enchantment",
-            "spellName": "Irresistible Dance",
             "type": "Automatic"
         },
         "Jump": {
@@ -2815,10 +2815,10 @@
             "isRitual": false,
             "level": 1,
             "materialComponents": "a grasshopper's hind leg",
+            "name": "Jump",
             "range": "Touch",
             "saveAttr": "",
             "school": "Transmutation",
-            "spellName": "Jump",
             "type": "Automatic"
         },
         "Knock": {
@@ -2831,10 +2831,10 @@
             "isRitual": false,
             "level": 2,
             "materialComponents": "",
+            "name": "Knock",
             "range": "60 feet",
             "saveAttr": "",
             "school": "Transmutation",
-            "spellName": "Knock",
             "type": "Automatic"
         },
         "Legend Lore": {
@@ -2847,10 +2847,10 @@
             "isRitual": false,
             "level": 5,
             "materialComponents": "incense worth at least 250 gp, which the spell consumes, and four ivory strips worth at least 50 gp each",
+            "name": "Legend Lore",
             "range": "Self",
             "saveAttr": "",
             "school": "Divination",
-            "spellName": "Legend Lore",
             "type": "Automatic"
         },
         "Lesser Restoration": {
@@ -2863,10 +2863,10 @@
             "isRitual": false,
             "level": 2,
             "materialComponents": "",
+            "name": "Lesser Restoration",
             "range": "Touch",
             "saveAttr": "",
             "school": "Abjuration",
-            "spellName": "Lesser Restoration",
             "type": "Automatic"
         },
         "Levitate": {
@@ -2879,10 +2879,10 @@
             "isRitual": false,
             "level": 2,
             "materialComponents": "either a small leather loop or a piece of golden wire bent into a cup shape with a long shank on one end",
+            "name": "Levitate",
             "range": "60 feet",
             "saveAttr": "Con",
             "school": "Transmutation",
-            "spellName": "Levitate",
             "type": "Savings Throw"
         },
         "Light": {
@@ -2895,10 +2895,10 @@
             "isRitual": false,
             "level": 0,
             "materialComponents": "a firefly or phosphorescent moss",
+            "name": "Light",
             "range": "Touch",
             "saveAttr": "Dex",
             "school": "Evocation",
-            "spellName": "Light",
             "type": "Savings Throw"
         },
         "Lightning Bolt": {
@@ -2911,10 +2911,10 @@
             "isRitual": false,
             "level": 3,
             "materialComponents": "a bit of fur and a rod of amber, crystal, or glass",
+            "name": "Lightning Bolt",
             "range": "Self (100-foot line)",
             "saveAttr": "Dex",
             "school": "Evocation",
-            "spellName": "Lightning Bolt",
             "type": "Savings Throw"
         },
         "Locate Animals or Plants": {
@@ -2927,10 +2927,10 @@
             "isRitual": true,
             "level": 2,
             "materialComponents": "a bit of fur from a bloodhound",
+            "name": "Locate Animals or Plants",
             "range": "Self",
             "saveAttr": "",
             "school": "Divination",
-            "spellName": "Locate Animals or Plants",
             "type": "Automatic"
         },
         "Locate Creature": {
@@ -2943,10 +2943,10 @@
             "isRitual": false,
             "level": 4,
             "materialComponents": "a bit of fur from a bloodhound",
+            "name": "Locate Creature",
             "range": "Self",
             "saveAttr": "",
             "school": "Divination",
-            "spellName": "Locate Creature",
             "type": "Automatic"
         },
         "Locate Object": {
@@ -2959,10 +2959,10 @@
             "isRitual": false,
             "level": 2,
             "materialComponents": "a forked twig",
+            "name": "Locate Object",
             "range": "Self",
             "saveAttr": "",
             "school": "Divination",
-            "spellName": "Locate Object",
             "type": "Automatic"
         },
         "Longstrider": {
@@ -2975,10 +2975,10 @@
             "isRitual": false,
             "level": 1,
             "materialComponents": "a pinch of dirt",
+            "name": "Longstrider",
             "range": "Touch",
             "saveAttr": "",
             "school": "Transmutation",
-            "spellName": "Longstrider",
             "type": "Automatic"
         },
         "Mage Armor": {
@@ -2991,10 +2991,10 @@
             "isRitual": false,
             "level": 1,
             "materialComponents": "a piece of cured leather",
+            "name": "Mage Armor",
             "range": "Touch",
             "saveAttr": "",
             "school": "Abjuration",
-            "spellName": "Mage Armor",
             "type": "Automatic"
         },
         "Mage Hand": {
@@ -3007,10 +3007,10 @@
             "isRitual": false,
             "level": 0,
             "materialComponents": "",
+            "name": "Mage Hand",
             "range": "30 feet",
             "saveAttr": "",
             "school": "Conjuration",
-            "spellName": "Mage Hand",
             "type": "Automatic"
         },
         "Magic Circle": {
@@ -3023,10 +3023,10 @@
             "isRitual": false,
             "level": 3,
             "materialComponents": "holy water or powdered silver and iron worth at least 100 gp, which the spell consumes",
+            "name": "Magic Circle",
             "range": "10 feet",
             "saveAttr": "Cha",
             "school": "Abjuration",
-            "spellName": "Magic Circle",
             "type": "Savings Throw"
         },
         "Magic Jar": {
@@ -3039,10 +3039,10 @@
             "isRitual": false,
             "level": 6,
             "materialComponents": "a gem, crystal, reliquary, or some other ornamental container worth at least 500 gp",
+            "name": "Magic Jar",
             "range": "Self",
             "saveAttr": "Cha",
             "school": "Necromancy",
-            "spellName": "Magic Jar",
             "type": "Savings Throw"
         },
         "Magic Missile": {
@@ -3055,10 +3055,10 @@
             "isRitual": false,
             "level": 1,
             "materialComponents": "",
+            "name": "Magic Missile",
             "range": "120 feet",
             "saveAttr": "",
             "school": "Evocation",
-            "spellName": "Magic Missile",
             "type": "Automatic"
         },
         "Magic Mouth": {
@@ -3071,10 +3071,10 @@
             "isRitual": true,
             "level": 2,
             "materialComponents": "a small bit of honeycomb and jade dust worth at least 10 gp, which the spell consumes",
+            "name": "Magic Mouth",
             "range": "30 feet",
             "saveAttr": "",
             "school": "Illusion",
-            "spellName": "Magic Mouth",
             "type": "Automatic"
         },
         "Magic Weapon": {
@@ -3087,10 +3087,10 @@
             "isRitual": false,
             "level": 2,
             "materialComponents": "",
+            "name": "Magic Weapon",
             "range": "Touch",
             "saveAttr": "",
             "school": "Transmutation",
-            "spellName": "Magic Weapon",
             "type": "Automatic"
         },
         "Magnificent Mansion": {
@@ -3103,10 +3103,10 @@
             "isRitual": false,
             "level": 7,
             "materialComponents": "a miniature portal carved from ivory, a small piece of polished marble, and a tiny silver spoon, each item worth at least 5 gp",
+            "name": "Magnificent Mansion",
             "range": "300 feet",
             "saveAttr": "",
             "school": "Conjuration",
-            "spellName": "Magnificent Mansion",
             "type": "Automatic"
         },
         "Major Image": {
@@ -3119,10 +3119,10 @@
             "isRitual": false,
             "level": 3,
             "materialComponents": "a bit of fleece",
+            "name": "Major Image",
             "range": "120 feet",
             "saveAttr": "",
             "school": "Illusion",
-            "spellName": "Major Image",
             "type": "Automatic"
         },
         "Mass Cure Wounds": {
@@ -3135,10 +3135,10 @@
             "isRitual": false,
             "level": 5,
             "materialComponents": "",
+            "name": "Mass Cure Wounds",
             "range": "60 feet",
             "saveAttr": "",
             "school": "Evocation",
-            "spellName": "Mass Cure Wounds",
             "type": "Automatic"
         },
         "Mass Heal": {
@@ -3151,10 +3151,10 @@
             "isRitual": false,
             "level": 9,
             "materialComponents": "",
+            "name": "Mass Heal",
             "range": "60 feet",
             "saveAttr": "",
             "school": "Evocation",
-            "spellName": "Mass Heal",
             "type": "Automatic"
         },
         "Mass Healing Word": {
@@ -3167,10 +3167,10 @@
             "isRitual": false,
             "level": 3,
             "materialComponents": "",
+            "name": "Mass Healing Word",
             "range": "60 feet",
             "saveAttr": "",
             "school": "Evocation",
-            "spellName": "Mass Healing Word",
             "type": "Automatic"
         },
         "Mass Suggestion": {
@@ -3183,10 +3183,10 @@
             "isRitual": false,
             "level": 6,
             "materialComponents": "a snake's tongue and either a bit of honeycomb or a drop of sweet oil",
+            "name": "Mass Suggestion",
             "range": "60 feet",
             "saveAttr": "Wis",
             "school": "Enchantment",
-            "spellName": "Mass Suggestion",
             "type": "Savings Throw"
         },
         "Maze": {
@@ -3199,10 +3199,10 @@
             "isRitual": false,
             "level": 8,
             "materialComponents": "",
+            "name": "Maze",
             "range": "60 feet",
             "saveAttr": "",
             "school": "Conjuration",
-            "spellName": "Maze",
             "type": "Automatic"
         },
         "Meld into Stone": {
@@ -3215,10 +3215,10 @@
             "isRitual": true,
             "level": 3,
             "materialComponents": "",
+            "name": "Meld into Stone",
             "range": "Touch",
             "saveAttr": "",
             "school": "Transmutation",
-            "spellName": "Meld into Stone",
             "type": "Automatic"
         },
         "Mending": {
@@ -3231,10 +3231,10 @@
             "isRitual": false,
             "level": 0,
             "materialComponents": "two lodestones",
+            "name": "Mending",
             "range": "Touch",
             "saveAttr": "",
             "school": "Transmutation",
-            "spellName": "Mending",
             "type": "Automatic"
         },
         "Message": {
@@ -3247,10 +3247,10 @@
             "isRitual": false,
             "level": 0,
             "materialComponents": "a short piece of copper wire",
+            "name": "Message",
             "range": "120 feet",
             "saveAttr": "",
             "school": "Transmutation",
-            "spellName": "Message",
             "type": "Automatic"
         },
         "Meteor Swarm": {
@@ -3263,10 +3263,10 @@
             "isRitual": false,
             "level": 9,
             "materialComponents": "",
+            "name": "Meteor Swarm",
             "range": "1 mile",
             "saveAttr": "Dex",
             "school": "Evocation",
-            "spellName": "Meteor Swarm",
             "type": "Savings Throw"
         },
         "Mind Blank": {
@@ -3279,10 +3279,10 @@
             "isRitual": false,
             "level": 8,
             "materialComponents": "",
+            "name": "Mind Blank",
             "range": "Touch",
             "saveAttr": "",
             "school": "Abjuration",
-            "spellName": "Mind Blank",
             "type": "Automatic"
         },
         "Minor Illusion": {
@@ -3295,10 +3295,10 @@
             "isRitual": false,
             "level": 0,
             "materialComponents": "a bit of fleece",
+            "name": "Minor Illusion",
             "range": "30 feet",
             "saveAttr": "",
             "school": "Illusion",
-            "spellName": "Minor Illusion",
             "type": "Automatic"
         },
         "Mirage Arcane": {
@@ -3311,10 +3311,10 @@
             "isRitual": false,
             "level": 7,
             "materialComponents": "",
+            "name": "Mirage Arcane",
             "range": "Sight",
             "saveAttr": "",
             "school": "Illusion",
-            "spellName": "Mirage Arcane",
             "type": "Automatic"
         },
         "Mirror Image": {
@@ -3327,10 +3327,10 @@
             "isRitual": false,
             "level": 2,
             "materialComponents": "",
+            "name": "Mirror Image",
             "range": "Self",
             "saveAttr": "",
             "school": "Illusion",
-            "spellName": "Mirror Image",
             "type": "Automatic"
         },
         "Mislead": {
@@ -3343,10 +3343,10 @@
             "isRitual": false,
             "level": 5,
             "materialComponents": "",
+            "name": "Mislead",
             "range": "Self",
             "saveAttr": "",
             "school": "Illusion",
-            "spellName": "Mislead",
             "type": "Automatic"
         },
         "Misty Step": {
@@ -3359,10 +3359,10 @@
             "isRitual": false,
             "level": 2,
             "materialComponents": "",
+            "name": "Misty Step",
             "range": "Self",
             "saveAttr": "",
             "school": "Conjuration",
-            "spellName": "Misty Step",
             "type": "Automatic"
         },
         "Modify Memory": {
@@ -3375,10 +3375,10 @@
             "isRitual": false,
             "level": 5,
             "materialComponents": "",
+            "name": "Modify Memory",
             "range": "30 feet",
             "saveAttr": "Wis",
             "school": "Enchantment",
-            "spellName": "Modify Memory",
             "type": "Savings Throw"
         },
         "Moonbeam": {
@@ -3391,10 +3391,10 @@
             "isRitual": false,
             "level": 2,
             "materialComponents": "several seeds of any moonseed plant and a piece of opalescent feldspar",
+            "name": "Moonbeam",
             "range": "120 feet",
             "saveAttr": "Con",
             "school": "Evocation",
-            "spellName": "Moonbeam",
             "type": "Savings Throw"
         },
         "Move Earth": {
@@ -3407,10 +3407,10 @@
             "isRitual": false,
             "level": 6,
             "materialComponents": "an iron blade and a small bag containing a mixture of soils-clay, loam, and sand",
+            "name": "Move Earth",
             "range": "120 feet",
             "saveAttr": "",
             "school": "Transmutation",
-            "spellName": "Move Earth",
             "type": "Automatic"
         },
         "Nondetection": {
@@ -3423,10 +3423,10 @@
             "isRitual": false,
             "level": 3,
             "materialComponents": "a pinch of diamond dust worth 25 gp sprinkled over the target, which the spell consumes",
+            "name": "Nondetection",
             "range": "Touch",
             "saveAttr": "",
             "school": "Abjuration",
-            "spellName": "Nondetection",
             "type": "Automatic"
         },
         "Pass without Trace": {
@@ -3439,10 +3439,10 @@
             "isRitual": false,
             "level": 2,
             "materialComponents": "ashes from a burned leaf of mistletoe and a sprig of spruce",
+            "name": "Pass without Trace",
             "range": "Self",
             "saveAttr": "",
             "school": "Abjuration",
-            "spellName": "Pass without Trace",
             "type": "Automatic"
         },
         "Passwall": {
@@ -3455,10 +3455,10 @@
             "isRitual": false,
             "level": 5,
             "materialComponents": "a pinch of sesame seeds",
+            "name": "Passwall",
             "range": "30 feet",
             "saveAttr": "",
             "school": "Transmutation",
-            "spellName": "Passwall",
             "type": "Automatic"
         },
         "Phantasmal Killer": {
@@ -3471,10 +3471,10 @@
             "isRitual": false,
             "level": 4,
             "materialComponents": "",
+            "name": "Phantasmal Killer",
             "range": "120 feet",
             "saveAttr": "Wis",
             "school": "Illusion",
-            "spellName": "Phantasmal Killer",
             "type": "Savings Throw"
         },
         "Phantom Steed": {
@@ -3487,10 +3487,10 @@
             "isRitual": true,
             "level": 3,
             "materialComponents": "",
+            "name": "Phantom Steed",
             "range": "30 feet",
             "saveAttr": "",
             "school": "Illusion",
-            "spellName": "Phantom Steed",
             "type": "Automatic"
         },
         "Planar Ally": {
@@ -3503,10 +3503,10 @@
             "isRitual": false,
             "level": 6,
             "materialComponents": "",
+            "name": "Planar Ally",
             "range": "60 feet",
             "saveAttr": "",
             "school": "Conjuration",
-            "spellName": "Planar Ally",
             "type": "Automatic"
         },
         "Planar Binding": {
@@ -3519,10 +3519,10 @@
             "isRitual": false,
             "level": 5,
             "materialComponents": "a jewel worth at least 1,000 gp, which the spell consumes",
+            "name": "Planar Binding",
             "range": "60 feet",
             "saveAttr": "Cha",
             "school": "Abjuration",
-            "spellName": "Planar Binding",
             "type": "Savings Throw"
         },
         "Plane Shift": {
@@ -3535,10 +3535,10 @@
             "isRitual": false,
             "level": 7,
             "materialComponents": "a forked, metal rod worth at least 250 gp, attuned to a particular plane of existence",
+            "name": "Plane Shift",
             "range": "Touch",
             "saveAttr": "",
             "school": "Conjuration",
-            "spellName": "Plane Shift",
             "type": "Melee Spell Attack"
         },
         "Plant Growth": {
@@ -3551,10 +3551,10 @@
             "isRitual": false,
             "level": 3,
             "materialComponents": "",
+            "name": "Plant Growth",
             "range": "150 feet",
             "saveAttr": "",
             "school": "Transmutation",
-            "spellName": "Plant Growth",
             "type": "Automatic"
         },
         "Poison Spray": {
@@ -3567,10 +3567,10 @@
             "isRitual": false,
             "level": 0,
             "materialComponents": "",
+            "name": "Poison Spray",
             "range": "10 feet",
             "saveAttr": "Con",
             "school": "Conjuration",
-            "spellName": "Poison Spray",
             "type": "Savings Throw"
         },
         "Polymorph": {
@@ -3583,10 +3583,10 @@
             "isRitual": false,
             "level": 4,
             "materialComponents": "a caterpillar cocoon",
+            "name": "Polymorph",
             "range": "60 feet",
             "saveAttr": "Wis",
             "school": "Transmutation",
-            "spellName": "Polymorph",
             "type": "Savings Throw"
         },
         "Power Word Kill": {
@@ -3599,10 +3599,10 @@
             "isRitual": false,
             "level": 9,
             "materialComponents": "",
+            "name": "Power Word Kill",
             "range": "60 feet",
             "saveAttr": "",
             "school": "Enchantment",
-            "spellName": "Power Word Kill",
             "type": "Automatic"
         },
         "Prayer of Healing": {
@@ -3615,10 +3615,10 @@
             "isRitual": false,
             "level": 2,
             "materialComponents": "",
+            "name": "Prayer of Healing",
             "range": "30 feet",
             "saveAttr": "",
             "school": "Evocation",
-            "spellName": "Prayer of Healing",
             "type": "Automatic"
         },
         "Prestidigitation": {
@@ -3631,10 +3631,10 @@
             "isRitual": false,
             "level": 0,
             "materialComponents": "",
+            "name": "Prestidigitation",
             "range": "10 feet",
             "saveAttr": "",
             "school": "Transmutation",
-            "spellName": "Prestidigitation",
             "type": "Automatic"
         },
         "Prismatic Spray": {
@@ -3647,10 +3647,10 @@
             "isRitual": false,
             "level": 7,
             "materialComponents": "",
+            "name": "Prismatic Spray",
             "range": "Self (60-foot cone)",
             "saveAttr": "Dex",
             "school": "Evocation",
-            "spellName": "Prismatic Spray",
             "type": "Savings Throw"
         },
         "Prismatic Wall": {
@@ -3663,10 +3663,10 @@
             "isRitual": false,
             "level": 9,
             "materialComponents": "",
+            "name": "Prismatic Wall",
             "range": "60 feet",
             "saveAttr": "",
             "school": "Abjuration",
-            "spellName": "Prismatic Wall",
             "type": "Automatic"
         },
         "Private Sanctum": {
@@ -3679,10 +3679,10 @@
             "isRitual": false,
             "level": 4,
             "materialComponents": "a thin sheet of lead, a piece of opaque glass, a wad of cotton or cloth, and powdered chrysolite",
+            "name": "Private Sanctum",
             "range": "120 feet",
             "saveAttr": "",
             "school": "Abjuration",
-            "spellName": "Private Sanctum",
             "type": "Automatic"
         },
         "Produce Flame": {
@@ -3695,10 +3695,10 @@
             "isRitual": false,
             "level": 0,
             "materialComponents": "",
+            "name": "Produce Flame",
             "range": "Self",
             "saveAttr": "",
             "school": "Conjuration",
-            "spellName": "Produce Flame",
             "type": "Automatic"
         },
         "Programmed Illusion": {
@@ -3711,10 +3711,10 @@
             "isRitual": false,
             "level": 6,
             "materialComponents": "a bit of fleece and jade dust worth at least 25 gp",
+            "name": "Programmed Illusion",
             "range": "120 feet",
             "saveAttr": "",
             "school": "Illusion",
-            "spellName": "Programmed Illusion",
             "type": "Automatic"
         },
         "Project Image": {
@@ -3727,10 +3727,10 @@
             "isRitual": false,
             "level": 7,
             "materialComponents": "a small replica of you made from materials worth at least 5 gp",
+            "name": "Project Image",
             "range": "500 miles",
             "saveAttr": "",
             "school": "Illusion",
-            "spellName": "Project Image",
             "type": "Automatic"
         },
         "Protection from Energy": {
@@ -3743,10 +3743,10 @@
             "isRitual": false,
             "level": 3,
             "materialComponents": "",
+            "name": "Protection from Energy",
             "range": "Touch",
             "saveAttr": "",
             "school": "Abjuration",
-            "spellName": "Protection from Energy",
             "type": "Automatic"
         },
         "Protection from Evil and Good": {
@@ -3759,10 +3759,10 @@
             "isRitual": false,
             "level": 1,
             "materialComponents": "holy water or powdered silver and iron, which the spell consumes",
+            "name": "Protection from Evil and Good",
             "range": "Touch",
             "saveAttr": "",
             "school": "Abjuration",
-            "spellName": "Protection from Evil and Good",
             "type": "Automatic"
         },
         "Protection from Poison": {
@@ -3775,10 +3775,10 @@
             "isRitual": false,
             "level": 2,
             "materialComponents": "",
+            "name": "Protection from Poison",
             "range": "Touch",
             "saveAttr": "",
             "school": "Abjuration",
-            "spellName": "Protection from Poison",
             "type": "Automatic"
         },
         "Purify Food and Drink": {
@@ -3791,10 +3791,10 @@
             "isRitual": true,
             "level": 1,
             "materialComponents": "",
+            "name": "Purify Food and Drink",
             "range": "10 feet",
             "saveAttr": "",
             "school": "Transmutation",
-            "spellName": "Purify Food and Drink",
             "type": "Automatic"
         },
         "Raise Dead": {
@@ -3807,10 +3807,10 @@
             "isRitual": false,
             "level": 5,
             "materialComponents": "a diamond worth at least 500 gp, which the spell consumes",
+            "name": "Raise Dead",
             "range": "Touch",
             "saveAttr": "",
             "school": "Necromancy",
-            "spellName": "Raise Dead",
             "type": "Automatic"
         },
         "Ray of Enfeeblement": {
@@ -3823,10 +3823,10 @@
             "isRitual": false,
             "level": 2,
             "materialComponents": "",
+            "name": "Ray of Enfeeblement",
             "range": "60 feet",
             "saveAttr": "",
             "school": "Necromancy",
-            "spellName": "Ray of Enfeeblement",
             "type": "Ranged Spell Attack"
         },
         "Ray of Frost": {
@@ -3839,10 +3839,10 @@
             "isRitual": false,
             "level": 0,
             "materialComponents": "",
+            "name": "Ray of Frost",
             "range": "60 feet",
             "saveAttr": "",
             "school": "Evocation",
-            "spellName": "Ray of Frost",
             "type": "Ranged Spell Attack"
         },
         "Regenerate": {
@@ -3855,10 +3855,10 @@
             "isRitual": false,
             "level": 7,
             "materialComponents": "a prayer wheel and holy water",
+            "name": "Regenerate",
             "range": "Touch",
             "saveAttr": "",
             "school": "Transmutation",
-            "spellName": "Regenerate",
             "type": "Automatic"
         },
         "Reincarnate": {
@@ -3871,10 +3871,10 @@
             "isRitual": false,
             "level": 5,
             "materialComponents": "rare oils and unguents worth at least 1,000 gp, which the spell consumes",
+            "name": "Reincarnate",
             "range": "Touch",
             "saveAttr": "",
             "school": "Transmutation",
-            "spellName": "Reincarnate",
             "type": "Automatic"
         },
         "Remove Curse": {
@@ -3887,10 +3887,10 @@
             "isRitual": false,
             "level": 3,
             "materialComponents": "",
+            "name": "Remove Curse",
             "range": "Touch",
             "saveAttr": "",
             "school": "Abjuration",
-            "spellName": "Remove Curse",
             "type": "Automatic"
         },
         "Resilient Sphere": {
@@ -3903,10 +3903,10 @@
             "isRitual": false,
             "level": 4,
             "materialComponents": "a hemispherical piece of clear crystal and a matching hemispherical piece of gum arabic",
+            "name": "Resilient Sphere",
             "range": "30 feet",
             "saveAttr": "Dex",
             "school": "Evocation",
-            "spellName": "Resilient Sphere",
             "type": "Savings Throw"
         },
         "Resistance": {
@@ -3919,10 +3919,10 @@
             "isRitual": false,
             "level": 0,
             "materialComponents": "a miniature cloak",
+            "name": "Resistance",
             "range": "Touch",
             "saveAttr": "",
             "school": "Abjuration",
-            "spellName": "Resistance",
             "type": "Automatic"
         },
         "Resurrection": {
@@ -3935,10 +3935,10 @@
             "isRitual": false,
             "level": 7,
             "materialComponents": "a diamond worth at least 1,000 gp, which the spell consumes",
+            "name": "Resurrection",
             "range": "Touch",
             "saveAttr": "",
             "school": "Necromancy",
-            "spellName": "Resurrection",
             "type": "Automatic"
         },
         "Reverse Gravity": {
@@ -3951,10 +3951,10 @@
             "isRitual": false,
             "level": 7,
             "materialComponents": "a lodestone and iron filings",
+            "name": "Reverse Gravity",
             "range": "100 feet",
             "saveAttr": "",
             "school": "Transmutation",
-            "spellName": "Reverse Gravity",
             "type": "Automatic"
         },
         "Revivify": {
@@ -3967,10 +3967,10 @@
             "isRitual": false,
             "level": 3,
             "materialComponents": "diamonds worth 300 gp, which the spell consumes",
+            "name": "Revivify",
             "range": "Touch",
             "saveAttr": "",
             "school": "Necromancy",
-            "spellName": "Revivify",
             "type": "Automatic"
         },
         "Rope Trick": {
@@ -3983,10 +3983,10 @@
             "isRitual": false,
             "level": 2,
             "materialComponents": "powdered corn extract and a twisted loop of parchment",
+            "name": "Rope Trick",
             "range": "Touch",
             "saveAttr": "",
             "school": "Transmutation",
-            "spellName": "Rope Trick",
             "type": "Automatic"
         },
         "Sacred Flame": {
@@ -3999,10 +3999,10 @@
             "isRitual": false,
             "level": 0,
             "materialComponents": "",
+            "name": "Sacred Flame",
             "range": "60 feet",
             "saveAttr": "Dex",
             "school": "Evocation",
-            "spellName": "Sacred Flame",
             "type": "Savings Throw"
         },
         "Sanctuary": {
@@ -4015,10 +4015,10 @@
             "isRitual": false,
             "level": 1,
             "materialComponents": "a small silver mirror",
+            "name": "Sanctuary",
             "range": "30 feet",
             "saveAttr": "Wis",
             "school": "Abjuration",
-            "spellName": "Sanctuary",
             "type": "Savings Throw"
         },
         "Scorching Ray": {
@@ -4031,10 +4031,10 @@
             "isRitual": false,
             "level": 2,
             "materialComponents": "",
+            "name": "Scorching Ray",
             "range": "120 feet",
             "saveAttr": "",
             "school": "Evocation",
-            "spellName": "Scorching Ray",
             "type": "Ranged Spell Attack"
         },
         "Scrying": {
@@ -4047,10 +4047,10 @@
             "isRitual": false,
             "level": 5,
             "materialComponents": "a focus worth at least 1,000 gp, such as a crystal ball, a silver mirror, or a font filled with holy water",
+            "name": "Scrying",
             "range": "Self",
             "saveAttr": "Wis",
             "school": "Divination",
-            "spellName": "Scrying",
             "type": "Savings Throw"
         },
         "Secret Chest": {
@@ -4063,10 +4063,10 @@
             "isRitual": false,
             "level": 4,
             "materialComponents": "an exquisite chest, 3 feet by 2 feet by 2 feet, constructed from rare materials worth at least 5,000 gp, and a Tiny replica made from the same materials worth at least 50 gp",
+            "name": "Secret Chest",
             "range": "Touch",
             "saveAttr": "",
             "school": "Conjuration",
-            "spellName": "Secret Chest",
             "type": "Automatic"
         },
         "See Invisibility": {
@@ -4079,10 +4079,10 @@
             "isRitual": false,
             "level": 2,
             "materialComponents": "a pinch of talc and a small sprinkling of powdered silver",
+            "name": "See Invisibility",
             "range": "Self",
             "saveAttr": "",
             "school": "Divination",
-            "spellName": "See Invisibility",
             "type": "Automatic"
         },
         "Seeming": {
@@ -4095,10 +4095,10 @@
             "isRitual": false,
             "level": 5,
             "materialComponents": "",
+            "name": "Seeming",
             "range": "30 feet",
             "saveAttr": "Cha",
             "school": "Illusion",
-            "spellName": "Seeming",
             "type": "Savings Throw"
         },
         "Sending": {
@@ -4111,10 +4111,10 @@
             "isRitual": false,
             "level": 3,
             "materialComponents": "a short piece of fine copper wire",
+            "name": "Sending",
             "range": "Unlimited",
             "saveAttr": "",
             "school": "Evocation",
-            "spellName": "Sending",
             "type": "Automatic"
         },
         "Sequester": {
@@ -4127,10 +4127,10 @@
             "isRitual": false,
             "level": 7,
             "materialComponents": "a powder composed of diamond, emerald, ruby, and sapphire dust worth at least 5,000 gp, which the spell consumes",
+            "name": "Sequester",
             "range": "Touch",
             "saveAttr": "",
             "school": "Transmutation",
-            "spellName": "Sequester",
             "type": "Automatic"
         },
         "Shapechange": {
@@ -4143,10 +4143,10 @@
             "isRitual": false,
             "level": 9,
             "materialComponents": "a jade circlet worth at least 1,500 gp, which you must place on your head before you cast the spell",
+            "name": "Shapechange",
             "range": "Self",
             "saveAttr": "",
             "school": "Transmutation",
-            "spellName": "Shapechange",
             "type": "Automatic"
         },
         "Shatter": {
@@ -4159,10 +4159,10 @@
             "isRitual": false,
             "level": 2,
             "materialComponents": "a chip of mica",
+            "name": "Shatter",
             "range": "60 feet",
             "saveAttr": "Con",
             "school": "Evocation",
-            "spellName": "Shatter",
             "type": "Savings Throw"
         },
         "Shield": {
@@ -4175,10 +4175,10 @@
             "isRitual": false,
             "level": 1,
             "materialComponents": "",
+            "name": "Shield",
             "range": "Self",
             "saveAttr": "",
             "school": "Abjuration",
-            "spellName": "Shield",
             "type": "Automatic"
         },
         "Shield of Faith": {
@@ -4191,10 +4191,10 @@
             "isRitual": false,
             "level": 1,
             "materialComponents": "a small parchment with a bit of holy text written on it",
+            "name": "Shield of Faith",
             "range": "60 feet",
             "saveAttr": "",
             "school": "Abjuration",
-            "spellName": "Shield of Faith",
             "type": "Automatic"
         },
         "Shillelagh": {
@@ -4207,10 +4207,10 @@
             "isRitual": false,
             "level": 0,
             "materialComponents": "mistletoe, a shamrock leaf, and a club or quarterstaff",
+            "name": "Shillelagh",
             "range": "Touch",
             "saveAttr": "",
             "school": "Transmutation",
-            "spellName": "Shillelagh",
             "type": "Automatic"
         },
         "Shocking Grasp": {
@@ -4223,10 +4223,10 @@
             "isRitual": false,
             "level": 0,
             "materialComponents": "",
+            "name": "Shocking Grasp",
             "range": "Touch",
             "saveAttr": "",
             "school": "Evocation",
-            "spellName": "Shocking Grasp",
             "type": "Melee Spell Attack"
         },
         "Silence": {
@@ -4239,10 +4239,10 @@
             "isRitual": true,
             "level": 2,
             "materialComponents": "",
+            "name": "Silence",
             "range": "120 feet",
             "saveAttr": "",
             "school": "Illusion",
-            "spellName": "Silence",
             "type": "Automatic"
         },
         "Silent Image": {
@@ -4255,10 +4255,10 @@
             "isRitual": false,
             "level": 1,
             "materialComponents": "a bit of fleece",
+            "name": "Silent Image",
             "range": "60 feet",
             "saveAttr": "",
             "school": "Illusion",
-            "spellName": "Silent Image",
             "type": "Automatic"
         },
         "Simulacrum": {
@@ -4271,10 +4271,10 @@
             "isRitual": false,
             "level": 7,
             "materialComponents": "snow or ice in quantities sufficient to made a life-size copy of the duplicated creature; some hair, fingernail clippings, or other piece of that creature's body placed inside the snow or ice; and powdered ruby worth 1,500 gp, sprinkled over the duplicate and consumed by the spell",
+            "name": "Simulacrum",
             "range": "Touch",
             "saveAttr": "",
             "school": "Illusion",
-            "spellName": "Simulacrum",
             "type": "Automatic"
         },
         "Sleep": {
@@ -4287,10 +4287,10 @@
             "isRitual": false,
             "level": 1,
             "materialComponents": "a pinch of fine sand, rose petals, or a cricket",
+            "name": "Sleep",
             "range": "90 feet",
             "saveAttr": "",
             "school": "Enchantment",
-            "spellName": "Sleep",
             "type": "Automatic"
         },
         "Sleet Storm": {
@@ -4303,10 +4303,10 @@
             "isRitual": false,
             "level": 3,
             "materialComponents": "a pinch of dust and a few drops of water",
+            "name": "Sleet Storm",
             "range": "150 feet",
             "saveAttr": "Dex",
             "school": "Conjuration",
-            "spellName": "Sleet Storm",
             "type": "Savings Throw"
         },
         "Slow": {
@@ -4319,10 +4319,10 @@
             "isRitual": false,
             "level": 3,
             "materialComponents": "a drop of molasses",
+            "name": "Slow",
             "range": "120 feet",
             "saveAttr": "Wis",
             "school": "Transmutation",
-            "spellName": "Slow",
             "type": "Savings Throw"
         },
         "Spare the Dying": {
@@ -4335,10 +4335,10 @@
             "isRitual": false,
             "level": 0,
             "materialComponents": "",
+            "name": "Spare the Dying",
             "range": "Touch",
             "saveAttr": "",
             "school": "Necromancy",
-            "spellName": "Spare the Dying",
             "type": "Automatic"
         },
         "Speak with Animals": {
@@ -4351,10 +4351,10 @@
             "isRitual": true,
             "level": 1,
             "materialComponents": "",
+            "name": "Speak with Animals",
             "range": "Self",
             "saveAttr": "",
             "school": "Divination",
-            "spellName": "Speak with Animals",
             "type": "Automatic"
         },
         "Speak with Dead": {
@@ -4367,10 +4367,10 @@
             "isRitual": false,
             "level": 3,
             "materialComponents": "burning incense",
+            "name": "Speak with Dead",
             "range": "10 feet",
             "saveAttr": "",
             "school": "Necromancy",
-            "spellName": "Speak with Dead",
             "type": "Automatic"
         },
         "Speak with Plants": {
@@ -4383,10 +4383,10 @@
             "isRitual": false,
             "level": 3,
             "materialComponents": "",
+            "name": "Speak with Plants",
             "range": "Self (30-foot radius)",
             "saveAttr": "",
             "school": "Transmutation",
-            "spellName": "Speak with Plants",
             "type": "Automatic"
         },
         "Spider Climb": {
@@ -4399,10 +4399,10 @@
             "isRitual": false,
             "level": 2,
             "materialComponents": "a drop of bitumen and a spider",
+            "name": "Spider Climb",
             "range": "Touch",
             "saveAttr": "",
             "school": "Transmutation",
-            "spellName": "Spider Climb",
             "type": "Automatic"
         },
         "Spike Growth": {
@@ -4415,10 +4415,10 @@
             "isRitual": false,
             "level": 2,
             "materialComponents": "seven sharp thorns or seven small twigs, each sharpened to a point",
+            "name": "Spike Growth",
             "range": "150 feet",
             "saveAttr": "",
             "school": "Transmutation",
-            "spellName": "Spike Growth",
             "type": "Automatic"
         },
         "Spirit Guardians": {
@@ -4431,10 +4431,10 @@
             "isRitual": false,
             "level": 3,
             "materialComponents": "a holy symbol",
+            "name": "Spirit Guardians",
             "range": "Self (15-foot radius)",
             "saveAttr": "Wis",
             "school": "Conjuration",
-            "spellName": "Spirit Guardians",
             "type": "Savings Throw"
         },
         "Spiritual Weapon": {
@@ -4447,10 +4447,10 @@
             "isRitual": false,
             "level": 2,
             "materialComponents": "",
+            "name": "Spiritual Weapon",
             "range": "60 feet",
             "saveAttr": "",
             "school": "Evocation",
-            "spellName": "Spiritual Weapon",
             "type": "Melee Spell Attack"
         },
         "Stinking Cloud": {
@@ -4463,10 +4463,10 @@
             "isRitual": false,
             "level": 3,
             "materialComponents": "a rotten egg or several skunk cabbage leaves",
+            "name": "Stinking Cloud",
             "range": "90 feet",
             "saveAttr": "Con",
             "school": "Conjuration",
-            "spellName": "Stinking Cloud",
             "type": "Savings Throw"
         },
         "Stone Shape": {
@@ -4479,10 +4479,10 @@
             "isRitual": false,
             "level": 4,
             "materialComponents": "soft clay, which must be worked into roughly the desired shape of the stone object",
+            "name": "Stone Shape",
             "range": "Touch",
             "saveAttr": "",
             "school": "Transmutation",
-            "spellName": "Stone Shape",
             "type": "Automatic"
         },
         "Stoneskin": {
@@ -4495,10 +4495,10 @@
             "isRitual": false,
             "level": 4,
             "materialComponents": "diamond dust worth 100 gp, which the spell consumes",
+            "name": "Stoneskin",
             "range": "Touch",
             "saveAttr": "",
             "school": "Abjuration",
-            "spellName": "Stoneskin",
             "type": "Automatic"
         },
         "Storm of Vengeance": {
@@ -4511,10 +4511,10 @@
             "isRitual": false,
             "level": 9,
             "materialComponents": "",
+            "name": "Storm of Vengeance",
             "range": "Sight",
             "saveAttr": "Con",
             "school": "Conjuration",
-            "spellName": "Storm of Vengeance",
             "type": "Savings Throw"
         },
         "Suggestion": {
@@ -4527,10 +4527,10 @@
             "isRitual": false,
             "level": 2,
             "materialComponents": "a snake's tongue and either a bit of honeycomb or a drop of sweet oil",
+            "name": "Suggestion",
             "range": "30 feet",
             "saveAttr": "Wis",
             "school": "Enchantment",
-            "spellName": "Suggestion",
             "type": "Savings Throw"
         },
         "Sunbeam": {
@@ -4543,10 +4543,10 @@
             "isRitual": false,
             "level": 6,
             "materialComponents": "a magnifying glass",
+            "name": "Sunbeam",
             "range": "Self (60-foot line)",
             "saveAttr": "Con",
             "school": "Evocation",
-            "spellName": "Sunbeam",
             "type": "Savings Throw"
         },
         "Sunburst": {
@@ -4559,10 +4559,10 @@
             "isRitual": false,
             "level": 8,
             "materialComponents": "fire and a piece of sunstone",
+            "name": "Sunburst",
             "range": "150 feet",
             "saveAttr": "Con",
             "school": "Evocation",
-            "spellName": "Sunburst",
             "type": "Savings Throw"
         },
         "Symbol": {
@@ -4575,10 +4575,10 @@
             "isRitual": false,
             "level": 7,
             "materialComponents": "mercury, phosphorus, and powdered diamond and opal with a total value of at least 1,000 gp, which the spell consumes",
+            "name": "Symbol",
             "range": "Touch",
             "saveAttr": "Con",
             "school": "Abjuration",
-            "spellName": "Symbol",
             "type": "Savings Throw"
         },
         "Telekinesis": {
@@ -4591,10 +4591,10 @@
             "isRitual": false,
             "level": 5,
             "materialComponents": "",
+            "name": "Telekinesis",
             "range": "60 feet",
             "saveAttr": "",
             "school": "Transmutation",
-            "spellName": "Telekinesis",
             "type": "Contest"
         },
         "Telepathic Bond": {
@@ -4607,10 +4607,10 @@
             "isRitual": true,
             "level": 5,
             "materialComponents": "pieces of eggshell from two different kinds of creatures",
+            "name": "Telepathic Bond",
             "range": "30 feet",
             "saveAttr": "",
             "school": "Divination",
-            "spellName": "Telepathic Bond",
             "type": "Automatic"
         },
         "Teleport": {
@@ -4623,10 +4623,10 @@
             "isRitual": false,
             "level": 7,
             "materialComponents": "",
+            "name": "Teleport",
             "range": "10 feet",
             "saveAttr": "",
             "school": "Conjuration",
-            "spellName": "Teleport",
             "type": "Automatic"
         },
         "Teleportation Circle": {
@@ -4639,10 +4639,10 @@
             "isRitual": false,
             "level": 5,
             "materialComponents": "rare chalks and inks infused with precious gems with 50 gp, which the spell consumes",
+            "name": "Teleportation Circle",
             "range": "10 feet",
             "saveAttr": "",
             "school": "Conjuration",
-            "spellName": "Teleportation Circle",
             "type": "Automatic"
         },
         "Thaumaturgy": {
@@ -4655,10 +4655,10 @@
             "isRitual": false,
             "level": 0,
             "materialComponents": "",
+            "name": "Thaumaturgy",
             "range": "30 feet",
             "saveAttr": "",
             "school": "Transmutation",
-            "spellName": "Thaumaturgy",
             "type": "Automatic"
         },
         "Thunderwave": {
@@ -4671,10 +4671,10 @@
             "isRitual": false,
             "level": 1,
             "materialComponents": "",
+            "name": "Thunderwave",
             "range": "Self (15-foot cube)",
             "saveAttr": "Con",
             "school": "Evocation",
-            "spellName": "Thunderwave",
             "type": "Savings Throw"
         },
         "Time Stop": {
@@ -4687,10 +4687,10 @@
             "isRitual": false,
             "level": 9,
             "materialComponents": "",
+            "name": "Time Stop",
             "range": "Self",
             "saveAttr": "",
             "school": "Transmutation",
-            "spellName": "Time Stop",
             "type": "Automatic"
         },
         "Tiny Hut": {
@@ -4703,10 +4703,10 @@
             "isRitual": true,
             "level": 3,
             "materialComponents": "a small crystal bead",
+            "name": "Tiny Hut",
             "range": "Self (10-foot-radius hemisphere)",
             "saveAttr": "",
             "school": "Evocation",
-            "spellName": "Tiny Hut",
             "type": "Automatic"
         },
         "Tongues": {
@@ -4719,10 +4719,10 @@
             "isRitual": false,
             "level": 3,
             "materialComponents": "a small clay model of a ziggurat",
+            "name": "Tongues",
             "range": "Touch",
             "saveAttr": "",
             "school": "Divination",
-            "spellName": "Tongues",
             "type": "Automatic"
         },
         "Transport via Plants": {
@@ -4735,10 +4735,10 @@
             "isRitual": false,
             "level": 6,
             "materialComponents": "",
+            "name": "Transport via Plants",
             "range": "10 feet",
             "saveAttr": "",
             "school": "Conjuration",
-            "spellName": "Transport via Plants",
             "type": "Automatic"
         },
         "Tree Stride": {
@@ -4751,10 +4751,10 @@
             "isRitual": false,
             "level": 5,
             "materialComponents": "",
+            "name": "Tree Stride",
             "range": "Self",
             "saveAttr": "",
             "school": "Conjuration",
-            "spellName": "Tree Stride",
             "type": "Automatic"
         },
         "True Polymorph": {
@@ -4767,10 +4767,10 @@
             "isRitual": false,
             "level": 9,
             "materialComponents": "a drop of mercury, a dollop of gum arabic, and a wisp of smoke",
+            "name": "True Polymorph",
             "range": "30 feet",
             "saveAttr": "Wis",
             "school": "Transmutation",
-            "spellName": "True Polymorph",
             "type": "Savings Throw"
         },
         "True Resurrection": {
@@ -4783,10 +4783,10 @@
             "isRitual": false,
             "level": 9,
             "materialComponents": "a sprinkle of holy water and diamonds worth at least 25,000 gp, which the spell consumes",
+            "name": "True Resurrection",
             "range": "Touch",
             "saveAttr": "",
             "school": "Necromancy",
-            "spellName": "True Resurrection",
             "type": "Automatic"
         },
         "True Seeing": {
@@ -4799,10 +4799,10 @@
             "isRitual": false,
             "level": 6,
             "materialComponents": "an ointment for the eyes that costs 25 gp; is made from mushroom powder, saffron, and fat; and is consumed by the spell",
+            "name": "True Seeing",
             "range": "Touch",
             "saveAttr": "",
             "school": "Divination",
-            "spellName": "True Seeing",
             "type": "Automatic"
         },
         "True Strike": {
@@ -4815,10 +4815,10 @@
             "isRitual": false,
             "level": 0,
             "materialComponents": "",
+            "name": "True Strike",
             "range": "30 feet",
             "saveAttr": "",
             "school": "Divination",
-            "spellName": "True Strike",
             "type": "Automatic"
         },
         "Unseen Servant": {
@@ -4831,10 +4831,10 @@
             "isRitual": true,
             "level": 1,
             "materialComponents": "a piece of string and a bit of wood",
+            "name": "Unseen Servant",
             "range": "60 feet",
             "saveAttr": "",
             "school": "Conjuration",
-            "spellName": "Unseen Servant",
             "type": "Automatic"
         },
         "Vampiric Touch": {
@@ -4847,10 +4847,10 @@
             "isRitual": false,
             "level": 3,
             "materialComponents": "",
+            "name": "Vampiric Touch",
             "range": "Self",
             "saveAttr": "",
             "school": "Necromancy",
-            "spellName": "Vampiric Touch",
             "type": "Melee Spell Attack"
         },
         "Vicious Mockery": {
@@ -4863,10 +4863,10 @@
             "isRitual": false,
             "level": 0,
             "materialComponents": "",
+            "name": "Vicious Mockery",
             "range": "60 feet",
             "saveAttr": "Wis",
             "school": "Enchantment",
-            "spellName": "Vicious Mockery",
             "type": "Savings Throw"
         },
         "Wall of Fire": {
@@ -4879,10 +4879,10 @@
             "isRitual": false,
             "level": 4,
             "materialComponents": "a small piece of phosphorus",
+            "name": "Wall of Fire",
             "range": "120 feet",
             "saveAttr": "Dex",
             "school": "Evocation",
-            "spellName": "Wall of Fire",
             "type": "Savings Throw"
         },
         "Wall of Force": {
@@ -4895,10 +4895,10 @@
             "isRitual": false,
             "level": 5,
             "materialComponents": "a pinch of powder made by crushing a clear gemstone",
+            "name": "Wall of Force",
             "range": "120 feet",
             "saveAttr": "",
             "school": "Evocation",
-            "spellName": "Wall of Force",
             "type": "Automatic"
         },
         "Wall of Ice": {
@@ -4911,10 +4911,10 @@
             "isRitual": false,
             "level": 6,
             "materialComponents": "a small piece of quartz",
+            "name": "Wall of Ice",
             "range": "120 feet",
             "saveAttr": "Dex",
             "school": "Evocation",
-            "spellName": "Wall of Ice",
             "type": "Savings Throw"
         },
         "Wall of Stone": {
@@ -4927,10 +4927,10 @@
             "isRitual": false,
             "level": 5,
             "materialComponents": "a small block of granite",
+            "name": "Wall of Stone",
             "range": "120 feet",
             "saveAttr": "Dex",
             "school": "Evocation",
-            "spellName": "Wall of Stone",
             "type": "Savings Throw"
         },
         "Wall of Thorns": {
@@ -4943,10 +4943,10 @@
             "isRitual": false,
             "level": 6,
             "materialComponents": "a handful of thorns",
+            "name": "Wall of Thorns",
             "range": "120 feet",
             "saveAttr": "Dex",
             "school": "Conjuration",
-            "spellName": "Wall of Thorns",
             "type": "Savings Throw"
         },
         "Warding Bond": {
@@ -4959,10 +4959,10 @@
             "isRitual": false,
             "level": 2,
             "materialComponents": "a pair of platinum rings worth at least 50 gp each, which you and the target must wear for the duration",
+            "name": "Warding Bond",
             "range": "Touch",
             "saveAttr": "",
             "school": "Abjuration",
-            "spellName": "Warding Bond",
             "type": "Automatic"
         },
         "Water Breathing": {
@@ -4975,10 +4975,10 @@
             "isRitual": true,
             "level": 3,
             "materialComponents": "a short reed or piece of straw",
+            "name": "Water Breathing",
             "range": "30 feet",
             "saveAttr": "",
             "school": "Transmutation",
-            "spellName": "Water Breathing",
             "type": "Automatic"
         },
         "Water Walk": {
@@ -4991,10 +4991,10 @@
             "isRitual": true,
             "level": 3,
             "materialComponents": "a piece of cork",
+            "name": "Water Walk",
             "range": "30 feet",
             "saveAttr": "",
             "school": "Transmutation",
-            "spellName": "Water Walk",
             "type": "Automatic"
         },
         "Web": {
@@ -5007,10 +5007,10 @@
             "isRitual": false,
             "level": 2,
             "materialComponents": "a bit of spiderweb",
+            "name": "Web",
             "range": "60 feet",
             "saveAttr": "Dex",
             "school": "Conjuration",
-            "spellName": "Web",
             "type": "Savings Throw"
         },
         "Weird": {
@@ -5023,10 +5023,10 @@
             "isRitual": false,
             "level": 9,
             "materialComponents": "",
+            "name": "Weird",
             "range": "120 feet",
             "saveAttr": "Wis",
             "school": "Illusion",
-            "spellName": "Weird",
             "type": "Savings Throw"
         },
         "Wind Walk": {
@@ -5039,10 +5039,10 @@
             "isRitual": false,
             "level": 6,
             "materialComponents": "fire and holy water",
+            "name": "Wind Walk",
             "range": "30 feet",
             "saveAttr": "",
             "school": "Transmutation",
-            "spellName": "Wind Walk",
             "type": "Automatic"
         },
         "Wind Wall": {
@@ -5055,10 +5055,10 @@
             "isRitual": false,
             "level": 3,
             "materialComponents": "a tiny fan and a feather of exotic origin",
+            "name": "Wind Wall",
             "range": "120 feet",
             "saveAttr": "Str",
             "school": "Evocation",
-            "spellName": "Wind Wall",
             "type": "Savings Throw"
         },
         "Wish": {
@@ -5071,10 +5071,10 @@
             "isRitual": false,
             "level": 9,
             "materialComponents": "",
+            "name": "Wish",
             "range": "Self",
             "saveAttr": "",
             "school": "Conjuration",
-            "spellName": "Wish",
             "type": "Automatic"
         },
         "Word of Recall": {
@@ -5087,10 +5087,10 @@
             "isRitual": false,
             "level": 6,
             "materialComponents": "",
+            "name": "Word of Recall",
             "range": "5 feet",
             "saveAttr": "",
             "school": "Conjuration",
-            "spellName": "Word of Recall",
             "type": "Automatic"
         },
         "Zone of Truth": {
@@ -5103,10 +5103,10 @@
             "isRitual": false,
             "level": 2,
             "materialComponents": "",
+            "name": "Zone of Truth",
             "range": "60 feet",
             "saveAttr": "Cha",
             "school": "Enchantment",
-            "spellName": "Zone of Truth",
             "type": "Savings Throw"
         }
     }
