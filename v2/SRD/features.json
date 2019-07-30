@@ -1502,6 +1502,66 @@
         {
             "characterClass": "Monk",
             "choices": 0,
+            "description": "Monks of the Way of Shaddow follow a tradition that values stealth and subterfuge. These monks might be called ninjas or shadowdancers, and they serve as spies and assaains. Sometimes the members of a ninja monastery are family members, forming a clan sworn to secrecy about their arts and missions. Other monasteries are more like thieves' guilds, hiring out their services to nobles, rich merchants, or anyone else who can pay their fees. Regardless of their methods, the heads of these monasteries expect the unquestioning obedience of their students.\n",
+            "displayName": "Way of Shadow (Monk)",
+            "id": "54872291-1529-4aeb-814d-795d54912272",
+            "level": "",
+            "name": "Way of Shadow",
+            "parents": [
+                "339b22ea-a40a-465c-b1d7-209fcea9910b"
+            ]
+        },
+        {
+            "characterClass": "Monk",
+            "choices": 0,
+            "description": "Starting when you choose this tradition at 3rd level, you can use your ki to duplicate the effects of certain spells. As an action, you can spend 2 ki points to cast darkness, darkvision, pass without trace, or silence, without providing material components. Additionally, you gain the minor illusion cantrip if you don't already know it.\n",
+            "displayName": "Shadow Arts (Monk, Lvl. 3)",
+            "id": "d044f2c9-39d8-4850-bef2-f342587cfbc8",
+            "level": 3,
+            "name": "Shadow Arts",
+            "parents": [
+                "54872291-1529-4aeb-814d-795d54912272"
+            ]
+        },
+        {
+            "characterClass": "Monk",
+            "choices": 0,
+            "description": "At 6th level, you gain the ability to step from one shadow into another. When you are in dim light or darkness, as a bonus action you can teleport up to 60 feet to an unoccupied space you can see that is also in dim light or darkness. You then have advantage on the first melee attack you make before the end of the turn.\n",
+            "displayName": "Shadow Step (Monk, Lvl. 6)",
+            "id": "fe8dd6be-9fbf-4a63-86e4-4a0cd448c5d4",
+            "level": 6,
+            "name": "Shadow Step",
+            "parents": [
+                "54872291-1529-4aeb-814d-795d54912272"
+            ]
+        },
+        {
+            "characterClass": "Monk",
+            "choices": 0,
+            "description": "By 11th level, you have learned to become one with the shadows. When you are in an area of dim light or darkness, you can use your action to become invisible. You remain invisible until you make an attack, cast a spell, or are in an area of bright light.\n",
+            "displayName": "Cloak of Shadows (Monk, Lvl. 11)",
+            "id": "be71ee6c-1679-464d-a785-675daff5af55",
+            "level": 11,
+            "name": "Cloak of Shadows",
+            "parents": [
+                "54872291-1529-4aeb-814d-795d54912272"
+            ]
+        },
+        {
+            "characterClass": "Monk",
+            "choices": 0,
+            "description": "At 17th level, you can exploit a creature's momentary distraction when it is hit by an attack. Whenever a creature within 5 feet of you is hit by an attack made by a creature other than you, you can use your reaction to make a melee attack against that creature.\n",
+            "displayName": "Opportunist (Monk, Lvl. 11)",
+            "id": "19fff668-f5a3-4ddf-8497-71eb72ea5049",
+            "level": 17,
+            "name": "Opportunist",
+            "parents": [
+                "54872291-1529-4aeb-814d-795d54912272"
+            ]
+        },
+        {
+            "characterClass": "Monk",
+            "choices": 0,
             "description": "Starting at 3rd level, you can use your reaction to deflect or catch the missile when you are hit by a ranged weapon attack. When you do so, the damage you take from the attack is reduced by 1d10 + your Dexterity modifier + your monk level.\n\nIf you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in one hand and you have at least one hand free. If you catch a missile in this way, you can spend 1 ki point to make a ranged attack with the weapon or piece of ammunition you just caught, as part of the same reaction. You make this attack with proficiency, regardless of your weapon proficiencies, and the missile counts as a monk weapon for the attack, which has a normal range of 20 feet and a long range of 60 feet.\n",
             "displayName": "Deflect Missiles (Monk, Lvl. 3)",
             "id": "4eb041a8-4101-4f06-9f96-9abcd98df4bd",
